@@ -10766,4 +10766,3973 @@ MachineInterpretation: "positive",
 Results: "confirmed positive", 
 Merchant: "KBOB", 
 ACCU: 0.895812
-}];
+},
+
+{
+    CustomerReviews: "1- Incredibly greasy. Hot Pastrami on Rye is arguably one of the easiest sandwiches to make. Good quality meat, fresh bread, deli mustard...come on guys! Literally could ring out the bread with grease. Returned with refund.2- Second sandwich, turkey club. Cashier girl forgot to tell the cooks to make it hot. They remade it, but again, grilled the turkey into a greasy mess.3- 2pm on a Sunday, took 30 minutes to get the sandwiches, from the time we got in line until they first gave us the order. Another 5 for the redo and refund.Conclusion- if you like big greasy sandwiches that take to long to make, you'll love Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "1st time in and they made me the best Hot pastrami sandwich I've ever had! Staff is very friendly as well. Definitely be back to this spot when I'm in the area!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "1st X here. Great Sandwich, Plenty Choices! Service was fast. Parking was busy. Fries were great balance of brisket, sauce & cheese. Heaping serving for 2/3ppl if also sharing a sandwich. I got the hit man -Pastrami, brisket & swiss cheese , pickles & onions. Super Glad my choice was good. Also got The Bronx Club added ham & avo. Was Amazing! Sat outside area. I will return & share this place with my Friends!! Enjoy!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "A bit pricey, but bread on the sandwiches are amazing.They forget sometimes special ordered stuff but other than that, good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "A couple of my friends hyped this place so much that it raised my expectations so I was a little disappointed with the sandwich we got. Not that the sandwich was bad or anything, just not as fabulous as my friends made it out to be. Got the east coast pastrami and an order of fries. Total came out to over $15 which seemed like a lot considering that the sandwich wasn't that big.   Good thick slices of meat and decent rye bread with Dijon mustard, classic preparation. Don't forget the Yelp check in for a free cookie.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "A great sandwich is a combination of exceptional bread and meat  The big chains have neither while Bronx has both.Their sandwiches stand out and are quite large and filling.   Litghter eaters should split one.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "A great sandwich shop. Food was great. The only negatives were they had some problems with drinks being unavailable and also the parking is limited.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "A little pricy for a sandwich, but the quality is worth the price. Friendly staff, fast service and a futuristic Coke machine. I would definitely come back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Absolutely best place ever for stunning taste Take friends they will love itTrust me I've been all over and Im picky:)Fresh hand made and really really tasty Not expensive Decent patio Easy to park", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Absolutely fantastic sandwiches. I've tried a few different things on the menu and have never been disappointed. But despite the big menu, my go-to favorite is the Bronx Club. A club sandwich might sound plain to some, but the devil's in the details, and Bronx gets the details right. Fresh shredded lettuce, flavorful tomato, crispy bacon, rich havarti, loads of turkey, and a French rolls that's soft on the inside and crunchy on the outside... Perfection    100%", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "After a night of too much tequila, not enough food and restless sleep on a friend's couch, I was ready for a monster of a meal to make me feel human again. I knew I wanted a breakfast sandwich so as soon as we walked in I locked in on the bacon, avocado, egg & cheese sandwich. My boyfriend was wavering between the philly cheesesteak and the pastrami reuben and finally settled on the latter. I got the breakfast sandwich on sourdough with pepperjack cheese and it came grilled, his was on toasted on rye. We were both confident in our decisions and eagerly awaited the buzz of our pager. When it finally came, we were both disappointed to say the least. The breakfast sandwich didn't look very appetizing, but since that's never really stopped me from eating a mass of chili cheese fries, I excitedly dove in...to my demise. The bread was slathered with so much mayo it was immediately all I could feel & taste, and I had to drown it in sriracha to remedy the sitauation. The sandwich was grilled, but never really got a good crust in any place so it all kind of mushed together. The worst part was that the bacon wasn't layered on the sandwich, but rather chopped into tiny bits and cooked into the egg, so you could barely taste it. My boyfriend's pastrami reuben tasted much better, but he had some issues because he felt the pastrami was more like corned beef, which was also a menu option for the reuben. We confirmed with the staff that it was in fact pastrami, but the thick cut, appearance and flavor of the meat still had him convinced otherwise. Having never had either meat, I couldn't offer an opinion but I do know that his sandwich was very tasty. The pickle it came with was also great and I ended up eating all of it instead of the second half of my sandwich. They also gave us two complimentary cookies which were delicious and buttery. They were less gooey than they appeared, but still so satisfyingly soft when you bit into them. Would I come back? The horrible feeling in my stomach all day after eating half the breakfast sandwich says no, but maybe I'd come back if I was feenin for a cold sub when in the area. One thing's for sure: I've definitely learned my lesson about the breakfast sandwiches and will head to DK's instead next time.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "After visiting Bronx today, I realized I never wrote a formal review... and you know I am all about a formal review! Gotta give Yelpers info they need to know!So here's the low down.Location: Bronx is located off Newport and Irvine in a little center. Parking is never an issue. Ambiance: The place is nice and clean. They play music and have a TV. There is ample indoor and outdoor seating. I always get our food to go, but I wouldn't mind eating my meal there. Over the last couple months, they have added a few upgrades and it makes the Bronx even better. It has never been really busy every time I have visited. I never wait in line for more than a minute or two. Staff: The staff is always nice and friendly. Today was the first time I encountered a different cashier. Not as perky as Tina, but still nice! If I am not given a number buzzer, they walk my food to me and something about that makes it personal and I appreciate it. Food: My oh my. As I said before in my previous review. Their sandwiches are delicious. I love sandwiches and honestly this is one of the best turkey sandwiches I have ever had. Their bread is so delicious that I want to eat it by itself. In my opinion I think the bread makes a sandwich. I think you know you have a good sandwich when you're willing to eat the bread alone. Their bread is fresh, soft, crunchy and chewy all at the same time. They pack on the meat and veggies giving you a huge sandwich. The sandwich is enough for 2 meals. Their sandwiches are made with high quality everything. They have a bigger menu every time I have visited and I can't wait to try all the new items. Oh and my favorite thing is that when you check in on yelp, you get a free bag of chips. And they're good chips - Zapps and Dirty Chips, not your normal lays or cheetos. All the sandwiches we have tried are delicious. And we ALWAYS get the Manhattan fries. My favorite sandwich is the yankee. Price: The price would be the only thing that I don't love about the Bronx. The sandwiches are all about $10. For 2 sandwiches and pastrami fries it is $30. It is a little bit pricey, but I honestly think it is worth the price. I don't mind paying for a clean establishment, great service and amazing food. It makes it all worth it. I cannot forget to mention the speed of their service. It's lightning fast. And you know me, I am always in a hurry and when boyfriend is hungry, he is hungry. I will literally grab my bag of chips, sit down, look at my phone and look back up and my food is ready. We'll continue going here forever because it is just that good. If only they would open one in the Inland Empire where I live... :P", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ah - mazing sandwiches! Omg! I ate half and I'm so full.   Great value. Great staff.  Seriously. Try it. Much better value and taste than jersey mike's.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "All hail the king of Tustin sandwich shops!The co-workers and I were looking for a new sandwich spot to try for lunch. After all, you can only eat at Togo's and Jersey Mike's so many times. When we discovered that Creation's Pizzeria closed and Bronx opened in its place, we had to go.I ordered #12 The New York. Roast beef, Havarti cheese, lettuce, tomatoes, red onions and mayo. Two things really stood out. First, the staff actually cuts the Dietz & Wasson meat when you order. This is highly preferable to pre-sliced meat held hostage in a storage container (e.g. Subway). Second, the sandwich was HUGE. Some sandwich shops load up on veggies to compensate for the lack of meat. Bronx piles on the meat like there's no tomorrow. For $8.99, I got a fresh, enormous sandwich loaded with thinly sliced meat. That's my kind of sandwich.The only downer was the slow service. There were maybe 3-4 customers ahead of us, but it took nearly 35 minutes to get our sandwiches. That really shouldn't happen at a sandwich shop. In any case, I'll give Bronx the benefit of the doubt since they just opened. Hopefully they'll work out this kink. We're definitely coming back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "All my coworkers come here for a quick lunch and i wanted to like this place because of the location but it's definitely going to be a NO for me. I got the chicken sandwich and the chicken was dry, bread was very wet from lettuce and there was an UNBELIEVABLE amount of mayo, don't get me wrong i love Mayo but this was Mayo dripping feel like there was more mayo than anything else. Also, checked in because they say they offer free fries with check in but NOPE they gave me chips WHAT THE HECK??? I would've bought fries if they would've told me they were gonna give me chips", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Amazing food, even better customer service!!!! You can't find a better sandwich around in all of Tustin. Top notch, so much food, so much fun! Best quality i've found! !!! Enough to share!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Amazing is all I can say about this spot!! Check it out and you'll see what I mean. Tell them The FoodPro sent you! I promise you won't be dissatisfied. I actually met up w a bunch of friends and they were all blown away with not only the food Huy the service!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Amazing! One of the best sandwiches I've had in a while! Clean environment, lots of parking, and friendly staff. They have indoor and outdoor seating as well.Food is fresh, the bread is delicious and soft and doesn't hurt your palate when you take a bite. Every single thing we ordered was great! Will definitely be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ample portions. I ordered the sloppy Bronx, it comes with fries in the sandwich. I asked for extra fries and the indulged me happily. The food was fresh and they serve banana peppers too.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "At first bite, I entered heaven. This place is definitely #1 in Southern California. Being from New York myself, I missed the orgasmic first bite of a swell sandwich. This is it guys. Also, if you're vegan like me, they have something for you!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Atmosphere of the restaurant was great! Really carried an awesome vibe and theme. The meat overall was tender and juicy, but adding a little more sauce helped. Definitely will be coming back again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Awesome Place. Atmosphere and design good. Had the Hitman and it was delicious. My girlfriend also had the Spicy Baja Chicken and it was incredible. Never have I ever talked about how good the food is while eating it. Will be back for sure to try something else.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Awesome sandwich shop. A little pricey, but well worth it. I had the Boss sandwich and it was massive and excellent. I definitely recommend them. The parking is a bit tight so be prepared.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Awesome sandwiches !!! I highly recommend to everyone it's a lot better than Subway lol", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Being from the east coast, and reading the menu selections, I was so hopeful that they would get their sandwiches right and they did! My daughter and I had the cheesesteaks and ahhhh, so good. Hot and huge. We should have shared one. Had to both take half home. But even better than the cheesesteak are their fries. Thin and crispy - McDonalds fries on steroids. Service is prompt and courteous. Time to table was under 10 minutes. Brought home a crumb cake which was sugary goodness later that night. Seating was not great, your typical hard chairs and basic tables. Diner style booths would be cool like you would expect back on the east coast but based on the few people actually eating there, I'm certain it's more grab and go than dine in.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best chips in town. Loved the beef dip and the service quick.  Pastrami sandwich was alright, maybe not the best   The rye bread was kinda strong.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best damn sandwich shop around; hands down!   Great menu and great staff.   Have been a regular since it opened.   On our last visit, they accidently misplaced our order.   After speaking to the staff at the counter, they apologized profusely and ensured that our order would be the next one up.   Within 10 minutes our order was in front of us as the waitress explained what had happened and then proceeded to tell us that lunch was on them.   Yes, they refunded our money in full and treated us to lunch.   We would have been happy with anything, yet they went above and beyond.   Great customer experience.   Thanks again to the staff for doing the right thing, it simply doesn't happen that often...", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best pastrami sandwiches in town! This place really takes the sandwich to the next level, nothing like what you can find around California. If you're missing a sandwich from back east then look no more!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best Sandwich ever!!!!!!! Every sandwich looks and taste amazing! Great atmosphere and great service!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best sandwich in Tustin, great service, always fresh. Plus, they support Foothill Baseball and the Foothill VIP card program. Can't go wrong at Bronx.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best sandwich of your life. Be sure to get on a French baguette, WOW! So delicious. My husband swears by the Boss and the Club, I'm loving the Babe. Can't wait for their newest location to open in our area in Costa Mesa!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best sandwiches by far!! My go to is the babe or Bronx club. Fries are yummy loaded or by themselves. Mac/italian/pasta salad are legit kid size servings so don't expect too much.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best Tuna salad in town!!!!! Homemade Italian dressing and fresh real greens!!!Giant sandwiches that are delicious but Amazing salads for us ladies   Great service too!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Best. Pastrami. Sandwich. Ever. I kid you not, get the pastrami Reuben, but on a roll and with the cole slaw instead of kraut, and it is through the roof good. Love this place!!The turkey is great, and so is the grilled chicken. Loved every sandwich I've tried. But it was the pastrami that made me review them on Yelp. So good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Beware of eating here!!!!! My coworker stopped and got a salad from Bronx today and as we were eating lunch together she found a maggot in her salad. It was a small white worm crawling on the lettuce she was about to put in her mouth. Immediately we went back to Bronx where a   female employee tried to argue that it was a piece of cheese. Im sorry but the cheese I buy doesn't typically crawl around! Then another employee came over and stated that it was a fresh batch of lettuce and he doesn't know how the worms got there. At no point did they stop serving food to anyone and after a few minutes of blank stares they refunded her money. She was told a manager was unavailable that she could just email. We as a company eat at bronx all of the time and I can tell you the 30 plus people who work here will never eat there again. The next call we make will be to the health board!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "BF and I tried Bronx for lunch over the weekend. I would have given them two stars, but I know they just opened, so I am hoping they can work out the kinks. Perhaps we will give them another chance in a couple months.I ordered #12, The New York, which is a roast beef sandwich. I paid $1.75 to add bacon and avocado to my sandwich, which brought the total to $10.74 for my sandwich. BF ordered #15, The Bronx Club, which is a turkey sandwich with the exact same ingredients as my sandwich, including the bacon & avocado, for only $8.99. He ordered his without tomato. I paid for lunch, the total for the two sandwiches with two bags of chips and two drinks was $30. Pricey.The whole ordering experience was irritating as the cashier wasn't paying attention at all, he kept asking us to repeat ourselves, and other staff kept talking to him and asking him questions while he was trying to take our order. I'm sure that is one of the reasons he couldn't maintain his attention span with us. We got our drinks and sat at a table. A few minutes later the cashier came over and told us that they ran out of roast beef the day before, so I needed to pick another meat. I went with turkey, which means I basically ordered the same sandwich as my BF, but I paid more because I had to add the items. Lame. Our sandwiches finally came out, and his had tomato, but didn't have bacon or avocado. So he had to send it back. While we waited for his sandwich to come back, I attempted to eat mine. There was way too much meat, I had to remove about half of it, as I am not a snake who can unhinge her jaw to eat a massive sandwich. I get that people probably like loads of meat, but half of mine ended up going in the trash, which is unfortunate. The sandwich was okay. I didn't think there was anything special to it, although I will say I liked the Havarti cheese a lot, it was very creamy. The sandwiches were too big for both of us, we should have split one, as we ended up taking two halves home. I just wasn't impressed with the entire experience, from the space cadet cashier, to the up-charge on a sandwich I couldn't actually have, to even being allowed to order an item they ran out of the previous day. Like I said, maybe we will try again, but for now, it's not worth the drive for me to go get a sandwich from here.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronc is definitely one of my favorite sandwich places. The Bronx club sandwich is my favorite. The Black and White cookies are amazing!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx is a very good sandwich place.   It is in a really cool little shopping center that looks like you are in Denmark or Holland.   I split a couple of sandwiches.   We ordered the Boss priced at $9.00 which is a take on an Italian sandwich with capocolla (spicy ham), salami, mortadella, provolone, mozzarella, lettuce, tomatoes, onions, olive spread, italian dressing on a hero bun.   There is a very generous portion of meat and cheese as you can see from my photo.   And, the quality of the meat was high.   Also, the bread was very good, fresh and had a good bready taste.   Moreover, the olive spread was very good, with a nice olive flavor which complimented well the rest of the sandwich.   The sandwich was very good.   My only criticism with the sandwich was I was expecting a little more kick or spice with the meats which is typical of an Italian sandwich.   Still a great sandwich.Also, we ordered the Pastrami Reuben priced at $9.99 which was my favorite of the two.   The sandwich was stacked high with thick, juicy pastrami and came with swiss cheese, 1,000 island dressing, your choice of sauerkraut or cole slaw (we chose sauerkraut) on rye or hero (we chose rye).   The sandwich was huge; almost as big as a Katz deli type sandwich.   It was very flavorful with the sauerkraut, swiss cheese and 1,000 island.   I really enjoyed it.   Also, the rye bread was excellent.   The bread fell apart a little.   But, I am not complaining.   My only criticism with the sandwich was that the swiss cheese was not melted.   I expected that because the sandwich was advertised as a hot sandwich.   Nevertheless, it was a great sandwich.We also ordered some fries priced at $2.25.   They were unimpressive and McDonald's does better.   Bronx is one of the better sandwich places in Orange County.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx is delicious! I've tried their veggie and shrimp sandwiches. Both were amazing! Unlike other sandwich places Bronx gives large portions. They are a tad more expensive than most places, but their sides are reasonably priced and very good. I recommend their macaroni salad and they have a full fountain soda machine available. Nice seating inside and outside. Employees were nice and helpful. Would definitely recommend.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx knows how to make a good sandwich. Normally I will get the club sandwich on a roll and it is always made well, the bacon is crispy and the sandwich stays together until the very end! Last time, I branched out and got the spicy chicken sandwich. It was so good! It was spicy like it said, the only part I didn't like was that it had fried jalape\u221a\u00c9\u00ac\u00b1os under the breaded chicken and they were soggy when I ate them :/ I think with breaded chicken I could just have regular jalape\u221a\u00c9\u00ac\u00b1os and be set. Next time!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx really does have the best sandwich in the OC. You can't go wrong with any sandwich. But gosh I hope you never have to call them. Dine in mid-week and you'll be OK. Last week I spent almost 15 minutes on hold just to get hung up on (I'll upload a picture). And not an isolated incident. I order here a lot. And everytime I call I can barely hear what they're saying, and the attitude on the phone and in person always feels like you're bothering them and they just want you out as fast as possible. A hurry up so I can do nothing type of attitude if that makes sense. Hopefully its just a bad egg that trained other bad eggs, and gets fixed over time.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx Sandwich co is amazing. I got the sloppy bronx because I'm a sucker for spicy mayo and loved it. While it is a little overpriced, you don't regret it as the sandwiches are big enough to split between two people. We also got the Philly cheese steak fries which I thought were amazing. I really like that they have the touch screen magic fountain drink dispenser as it allows you to mix drinks and flavors. Their hand made potato chips are also pretty decent.I think the service could use a little work as they can be slow if it gets pretty packed. The slaw was also not the greatest in my sandwich and the fries are cut extremely small in my opinion. But the flavor and size of the food still makes the price worth it. I will definitely be back to try some of their pastrami sandwich options.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx sandwiches are fairly good - some of their combos seem a little strange but maybe that's because it's an East Coast chain? All I can say is come hungry! The sandwich is large enough that it's basically two sandwiches. Everyone takes half home. The fries are really crisp - have an almost potato chip flavor to them. The sandwiches I've tried are Philly Cheesesteak and The Babe. The philly was really good - wish it had more cheese and less bread though. The babe comes with a lot of meat (high quality) but very little cheese and honestly was really bland. I will likely be back but it's not my top sandwich place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Bronx staff, get your act together ! I haven't written a negative review because I know new restaurants need to iron out kinks, but it's been long enough ! Getting a single order out in a timely manner and correctly made ( when you are not even busy)   SHOULD be a piece of cake! I did speak to the manager and the owner (mother and son). Super nice and honest, I appreciated that....I will give you one more try because I think you have a good product and I see that the owners really do want to please the customer !!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "By far the best sandwich joint ever!!! Sandwiches I've had:MobsterSloppy BRONX Pastrami Reuben I WOULD GIVE THEM 10 stars if I could!Major props.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "C'mon son, when I look you in the eye and you don't say hi or welcome, that makes things really awkward Mr. cashier. So I place an order and get my sandwich. I'm thinking, it can't be as bad as the cashier right? Wrong! I had a nasty old bell pepper in my food. Grossed me out for the rest of the meal. It doesn't take much to make a restaurant experience a positive one but you do need to put in some effort.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came across this place by accident and all I can say is AWESOME. Food is delicious, customer service is friendly.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here a few weeks ago but never got around to write a review. The quality of the sandwich was good and the size was even better. It's somewhat pricier than other sandwich places but it makes it up by the size of the sandwiches/subs. Got the Grilled Chicken Classic. It was cooked to perfection even though they were somewhat busy since I went during lunch time. I would definitely recommend this place. Subs are large enough to share FYI. Looking forward to my next visit.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here for dinner with the fam. From the moment you walk in the decor is sheik and clean! I ordered the philly and boy oh boy did it hit the spot!!!! It came on a soft baguette full of meat and cheese and sweet peppers! The fries are perfect seasoned with just salt and pepper!!Can't wait to come back and bring the rest of the fam and friends!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here for our first time, wanted to try it out after seeing the pics. I had the Boss on a baguette roll, and my boyfriend had the King Of Queens on Rye, and the Manhattan fries... I have to say these sandwiches are REALLY good!   They're HUGE!   Not your typical sandwich shop. It was nice to be able to have a beer on draft too. The ONLY reason I'm not giving five stars is because even though they give you a buzzer to let you know when your food is ready....your food ends up sitting on top of the counter where people come up to order and pay...Not very sanitary, otherwise great place and great music to listen to!   Definitely worth the $40.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here for the first time and asked the cashier what's they're popular hot sandwich... she told me her personal favorite was the hit man I guess it was called and she described what was in the sandwich and so I was ok I'll have that and I also ordered spicy Baja fries. Well it's kinda pricey but the quality and taste of sandwich definitely worth it. I paid $22 something for both items no drink and ordered To-go. I was satisfied my meal but dang doesn't put a dent in the pocket lol well for not including a drink. Anyway still gets 5 stars from me and will come again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here on 8/28/16 Sunday @6:00pm ishSummary: the food and customer service here is great! I wish there were more locations near me! Sad it's kind of on the pricier side but the quality/ taste is worth it!For Food/Drinks: I got the SLOPPY BRONX on a baguette. Super duper yummy! I ate half and I was already very satisfied. The water I got from the machine tasted a little sweet lol, probably cause of the soda mixtures. Customer Service: The man greeted me and even offered to help me decide what to get because he could tell I was struggling to choose something. He was very kind. And the   at they do orders if you're eating in is with the vibrating pagers. The kind worker delivered my food to me so that I didn't have to get up to get it! :)I'm surprised I have never heard of this chain place before. I would definitely recommend this place and come back here.Overall- 10/10Customer Service- 10/10Quality of Food/Drinks- 10/10Price- (~10+)*First Impression", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here on July 8, 2017 at around 12:00 with my friend after my event at Mitsubishi Owner's Day at Cypress. I decided to try out this new place after looking at the Orange County Hotlist of Cheap Eats Best of 2017, and Bronx Sandwich is ranked number one. The shop was busy and it was a hot, humid day. I wanted to sit inside. We got good timing as one of the tables was done being used. My friend got the East Coast Pastrami and I got the The New York with 2 fountain drinks for a grand total of $30.The sandwich is one of the best I had. The portion of meat they give on the sandwich is great. Also the veggies were fresh and generous. My friend liked his sandwich, he said it was very crunchy and crispy. Because I decided not to finish my food I got a to go bag to put the other half in. Even when I brought it back home (to San Diego, I ate it at 19:00 on a hot, humid day) the cold sandwich still taste almost like I had it there. I do not know how a New York deli sandwich exact taste like since I have not been there except when I was very young, but I can say that it is excellent for them to bring that kind of style of food here in SoCal.The drinking fountain had many selections. It was interesting that you can mix drinks. For example you can pick up to 3 flavors for the Mountain Dew energy. I picked lime, lemon, and strawberry. There was also vanilla and raspberry, which I did not try yet. You can do the same for some other selected drinks too. I did not order fries this, but it looks great on picture.The service here was great. The workers were patient to me ordering and attentive. The menu is organized very well, hot sandwiches on one side, cold on another and the french fries/other food on another one. However, I thought their interior was bigger because of the building on the right side of it appears to be connected to it. But, parking was easy to find, which is great for me who came from an hour of driving.Seriously, after eating here I had this thought to myself. Where have I been whenever I come up to Orange County from San Diego? I have driven plenty of times up to Orange County and to Los Angeles and I can not believe I never tried this place. The sandwich at Bronx beats Subways by miles, and is great when compared to Jersey Mike's. My friend says it is even better than our local sandwich shop. I was watching the promotional video of how they make the sandwiches. I can see the great quality control, the best ingredients, and great people who work for them. It is a hidden gem within Orange County that I never found out until today. Will definitely come back next time and order their fries as well and bring my other friends who missed out. This deserves a 5 star from me. It is also number one on my list for the most tasty sandwich I had this year and one of the best in Orange County.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came here with Friday lunch club.Had corned beef and pastrami with Swiss.Meats were lean and tasty.Bread was awesome.Only gave it four stars because I had I side cole slaw it was   2 ounces for $1.10 don't order it.I will be back one of the best deli sandwiches I've had since I   left New York", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Came in and tried something new. No regrets as always. I ordered the egg, bacon, cheese and avocado breakfast sandwich. The bomb! I could only finish half. Bacon and cheese in every bite. I loved it. Also tried their chips, they are made to order and soooo good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Can find healthy sandwich try the yankee no mayo.   Good black and white cookies.   Love this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Catered a world class lunch from Bronx Sandwich yesterday.   The quality of the food clearly exceeded my expectations, clearly will be using this high end sandwich shop again.Ordered an Assorted Cold Sandwiches Platter (Small).   For $85.00 10 of us had a feast.   The sandwiches were all different.   They used exceptional sourdough French bread, fresh tasty meats/veggies/crab salad, and lovely condiments.   Each sandwich was well dressed and/or seasoned, perfect to pick up and enjoy.   Also ordered the Pear & Gorgonzola Salad (Small) which was enough for at least 12.   The salad included a huge vat of balsamic dressing, perfect for the crunchy walnuts, chicken and pears.   The salad was amazing.Also had their potato & egg salad, macaroni salad and an array of assorted chips.   For a business lunch for 10 the food I ordered worked out perfectly.   No question that I plan to use them over and over again.   Food of this quality is a challenge to come by.   And, their prices are beyond fair.Thank you for a wonderful lunch.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Currently eating while yelping, that's how much I'm loving this meal! I got the zesty lime chicken salad & the man got the Alabama sandwich. Both are huge portions, really fresh, perfectly priced and wonderful service! Plus the chips come out warm, crispy and perfectly salted. Randomly came here and so glad we did! Definitely recommend and absolutely will be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Dear Bronx Sandwich I have been loyal since you opened your doors. In fact I remember my first Bronx sandwich; it was incredible.My past three visits have been disappointing.I'll just say it... stop loading the sandwich with ice cold soaking wet shredded lettuce. The bread has been rock hard. Just frustrating..Look at this sandwich from tonight. Look at it!We bought TWO of these.. both were awful.This is depressing. I'm going to bed.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Definitely the bomb sandwiches - my pastrami Reuben with sauerkraut was one of the best ever. But the prices are too much - $11 for my sandwich with nothing else but a pickle slice is just too much.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Delicious and delicious! We loved it! My whole family ordered something different and we all tried one another's sandwiches and Philly cheese fries. Everything was bomb!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Delicious and HUGE sandwiches! It's about $10 for one sandwich but the sandwich is massive so the price is justified. Two people can certainly share one sandwich. I had the Bronx Club the last time I went and really enjoyed it.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Delicious!!!! Quality high end ingredients!! Posted pictures of the food we ordered. Big portions for sure!!! Will be back! Service was good. The manager and the cashier were very sweet and suggestive.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Delicious. Nothing processed or bland. Just great food. A must try. I had the shrimp po boy and hubby had the King of Queens. Both were very very good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Deliciously crafted sandwiches.   Great value!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Didn't love it. Didn't hate it Three of us had dinner. We had wanted something on the healthier side and this didn't fit the bill. It was our first time here, we decided to just go for it. Guys had the pastrami and cheese steak sandwich, I think. I had the grilled chicken, light on the sauce and no cheese or mayo. We all agreed the bread was the best part of the meal. The boys sandwiches had so much going on it was over kill and sloppy. My chicken was spongey and was processed, it didn't taste real. We also got fried to share. They were smothered and so little fries they were hard to find.   The guys that worked there were nice, place was nice. I guess we should have stopped another night when a healthier meal wasn't on our mind.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Don't even bother.   This place has gone so downhill. We got four Baja chicken sandwiches from here today.   It was filled with ALL type of peppers instead of chicken.   I know because I took the sandwich apart to give my son some chicken.   I found literally two pieces of chicken in the entire sandwich; check out my photos.   This was after I finished one half of the sandwich, and noticed that there was no chicken but only jalape\u221a\u00c9\u00ac\u00b1os.   After I took out the sandwich stuffings, nothing but jalape\u221a\u00c9\u00ac\u00b1os and bell peppers showed up.   All four sandwiches turned out to be the same way.   If you want REAL sandwich, take your money and your business somewhere else.   Such a shame.   This used to be one of our favorite sandwich places.   Seems like it's doing pretty badly, and it should go out of business pretty soon for serving subpar food to its customers.   I won't ever be back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Don't get me wrong - the sandwich was bloody delicious, but at almost $12 just for a sandwich the value isn't there.   When paying that much I expect to get a side with it.   I also got the house chips - courtesy of Yelp check-in - Thank you.   Unfortunately they were rank.   The first couple I had were warm and delicious and then I got a rotten one, it tasted the like the oil was off or something.   I kept them for my husband to taste, just to make sure I wasn't being weird, but he also had a few and then hit a few rancid ones.   Don't know how that happens as I'm sure they are all cooked together in the same batch, but it did and totally put me off.   We threw them out.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "East Coast? It's not a grinder if that's what you were expecting.They use those small baguettes like Which Wich does. Not a big fan of small hard bread which I consider to be a bad sandwich trend where the consumer is the loser. Thank goodness you can order a pastrami on rye here. Not worth the price for the size of the sandwich tho. Too bad. I had high hopes for this place.Blue haired (literally) counter help asked if everything was OK in between her wiping counters and I said no and voiced my displeasure about the amount of meat on my sandwich (see photo). Then she asked if I wanted to speak to the manager and I said, \"no\" again. I get the feeling no amount of lip service I provide is going to fix the level of douchebaggery this place exhibits.I know what a real New York deli style sandwich is supposed to look like and this ain't it.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Excellent Quality!!   My family loves French dip sandwiches, and we always would get them from XXXXX on Tustin Avenue.   We now have discovered Bronx, where they take the French Dip to a higher level.   First, the baguette they use for the sandwich is awesome, just enough texture, and it's great for soaking up the extra au jus.   The meat quality is what really sets this sandwich apart.   The meat is not loaded with fatty pieces like we would find at XXXXX.   And the taste is sublime with the provided au jus dipping juices.   The counter help is very friendly and attentive.   My son is crazy about their pastrami, and he's tough to please.All in all, if you want a above average sandwich, give this place a go.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Excellent sandwich.   Best in town.   Quality fresh ingredients.   Service was fast and friendly.   I get the Club every time cause it's too good to pass up.   I want to try another but I can pass up the club.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Excellent sandwiches! I've tried a few things from the extensive menu and everything has been on point. That staff has always been very curtious and quick. The beers on tap are a nice added bonus!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Excellent sandwiches. The perfect combination of quality meat with outstanding bread.   The Dietz & Watson meat and the crusty baguette make an exceptional sandwich.   You don't realize how big the sandwiches are until you unwrap them and start eating. Highly recommended!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Exceptional and fat sandwiches, clean, and service is pretty fast. Fresh meats, delicious cheese, and the bread is freakin fantastic. I'm loving the employees with the NY accents too -- I'm digging it.I'm   coming back on the REG...[Minus one star because it's my first visit. I will update later if the place is inconsistent].", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Fantastic Sandwich. Tried the Bronx club. Everything was fresh and high quality. I'm knocking off one star because, there wasn't any AC. it was very uncomfortable.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Fast service.   Great big sandwiches.Yummy bread and good ingredients!Slightly pricey but worth it!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Favorite sandwich place! Huge portions, always fresh, great quality! So happy to see this place stay with all the rotation that was happening in that spot.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "FinAleeeee...a sandwich place that is yummy and not stingy!!!! If you are craving a good-a** sammy then this is a must try!!!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Finally got to Bronx Sandwich and it is so good!Got the Pastrami, Grilled Chicken and fries. All were excellent.I also liked the Pepsi soda machine.Overall a very good experience, def visit again!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "FIRST IMPRESSIONS:Had to try this place after seeing all the rave on Yelp. Arrived at 730pm on a Sunday (they close at 8pm) and was greeted by the staff before I was actually in the building (they pay attention to everyone approaching - nice touch). Right off the bat I noticed there were no menu boards to peruse so I approached the counter, saw several laminated menus and was offered assistance and recommendations (great service experience). Don't let the lack of menu boards frighten you, there is no rush, tri-fold menus are available if you wish to step back and ponder the options. This place is simple, just tables, chairs, and a the order counter with ample self seating indoors and out. The dinning rooms also sports a flat screen TV and seems neat, clean, and organized. The fountain machine is Coke branded (DP, Lemon Aid, Orange Fanta, Sprite, DC, and Coke); however, they also offer brewed Tea, Dr. Browns bottled drinks, beer (Stella), and wine (Copa). There is a condiment bar that provides the usual items and was well stocked. MY ORDER:I ordered the Bronx Club and a bag of chips which came to $11.08 with tax. I was offered choice of bread (several which I don't remember) but asked what they usually serve it on which was their baguette (I like to go original the first time around). Upon completing the order, I was handed a pager (like the blinking/vibrating type at sit down restaurants) and decided to look around and take a few pictures while I waited.My order was ready in 5-8 minutes, was bagged up nicely with sample size mac salad, slaw, peppers, and a pickle (not sure if this is normal), they were quite pleasant, eager to get my order to me at the late hour, thanked me for the visit, and hoped I enjoyed the sandwich. THE FOOD:The bag was seriously heavy! Upon getting home, I witnessed what everyone else finds when they unwrap their sandwiches...mass amounts of meat, cheese (piles of soft havarti WOW) and seriously fresh veggies. I had to come up with a plan of attack which was just to go for it and deal with it. While the baguette seemed a bit hard for my bite (it is meant to be like that) I enjoyed the texture and the taste (I think I will try a softer option next time). I powered through the sandwich and found I had not even touched my chips! I tried the Voodoo Heat which is not hot at all, the taste is more BBQ than anything else. As well, I tried the mac salad, coleslaw, pickle, and peppers. All   were very tasty. While I am not a big slaw fan, it was fresh, with nice crunch, tanginess, and flavor (I'd order that again).CONCLUSION:I was beyond full and very satisfied after finishing the sandwich which I feel could be split and shared by two people easily (seriously, the sandwiches are huge). I appreciated the fresh sliced meat as well as incredible bacon! I will be back to attempt other creations from the awesome team but will be careful to bring a solid appetite for sure. Thanks BRONZ Sandwich Co. team, the service was awesome, and I appreciated the kindness. My dining experience was stellar! *****", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First time   customer.Order the philly cheese steak fries. They were quite delicious. Hot and freshPrices are fair. More than quiznos and subway for arguably better quality. Fries were 8.99 and then tax and tip...so im not sure this was worth 11 dollars. Might try some thing else next timeMy one complaint will be they need online ordering. They are too busy at lunch to deal with a long line and indecisive customers. I spent far too much time in a line than i should have", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First time at the Bronx.   Order the \"Hot Mess\" and received the house chips for free.   The sandwich was a Hot Mess.   It was huge   that it was enough to have it for dinner as well.   I would go back again to try some of the other items on the menu.   Glad that it is close to work where I am able to go for lunch.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First time here. Was looking for a good sandwich place and they plenty to choose from! Pastrami Reuben was good and filling. Would have tried the homemade chips but it would have taken a longer to make. I will definitely go back. The all day special beers were an added bonus.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First time trying this place out and I am glad I took the chance! I was feeling in the mood for a hot sandwich and so I decided to come to this place since not only were the reviews great, but the pictures looked great too. I decided to get the Philly Cheesesteak sandwich on a baguette bread. The portions that you get for the sand which is pretty big. The meat was definitely tightly packed, which is not a bad thing! I also ordered the simple fries and they were not salty at all, but still had flavor. I am for sure going to try this place out again and try something new next time. The place was clean and the employees were very nice.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First time visiting this joint and had the Pastrami with sauerkraut & mustard and it was very tasty!   Definitely THE juiciest pastrami I've tasted yet.   I'll definitely go back and try the other samiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "First timers after seeing the great reviews for so long. Late Friday nite dinner run and found the place almost empty. It made us wonder where everyone was. Well we both got the beef dip sandwiches and a order of fries and house chips. I am a lover of house chips and these were great. The sandwiches were also great. Fresh sliced meat on perfect rolls. Fries were good too. A little more dipping juice would have been the only thing we could have asked for. We live in the Tustin Marketplace with many great food choices for sandwiches like Which Wich but it was well worth the drive. We will be back again to try some other sandwiches.Been back a few more times and always excellent!We have been back many times and it's always great. Last night we decided to eat there and sat on the patio. Perfect food and perfect weather. Thanks Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Food is decent.Customer service needs improvement!I ordered two sandwiches at 10:30am(before the lunch crowd).It took 15mins and no one in front of me to make my sandwiches!!When I ordered my sandwiches I made myself specific that I not only wanted pickles but extra pickles on the side.When I got my sandwiches the lady that gave me the bag of food did not even check the bag to make sure my order was correct she just handed it to me.I checked my bag and noticed there were not any pickles so I kindly asked her for some.She quickly wrapped a few spears in paper wrap and handed them to me soaked with pickle juice!They not only soaked my hands but also got all over my shirt!I was so pissed!Especially since I was heading to work and I had to smell like gross all day!I am very disappointed in the service!I would expect allot better service from a place that has so much potential!!!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Food is good. But it's 2018...get call waiting. I placed an order and immediately tried to call back to cancel and I had to keep calling because you don't have call waiting. By the time someone answered they told me my order was ready. Waste of my time, yours, and a waste of food.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "FOOD: you can never go wrong with a made to order sandwich that ranges from just about any type of filling you would like.. their bread is house made so that's a big plus!!! our go to Sammy is their Philly Cheesesteak!!!SERVICE: three F's for service fast, fun and friendly. employees greet you with a smile and are attentive", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "For a sandwich spot it can't get much better. This place was clean inside, friendly employees, great menu, tons of parking, and absolutely delicious food. I chose the cold club sandwich, the bacon was great, the avocado was fresh and the turkey was deli style, none of that processed crap. I am more than willing to pay a few dollars more than subway to receive a service such as this place. Will be going again in the future to try out other parts of the menu, I doubt I will be disappointed.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "For several weeks I've been stalking this place on Twitter to catch wind of an opening date. Last week I was finally able to come here during its soft opening while the remnants of that pizza place I never went to still hung on the walls. I was somewhat aware of what I should be expecting based on pictures they've been posting, and I readied my belly accordingly.I ordered the Sloppy Bronx because why wouldn't you, and after about 10 minutes I hauled it into my car and dragged it up to my office. An office isn't a super appropriate place to eat this thing - it's an abomination that requires patience and solitude. An hour later I woke up under my desk feeling fat and sassy. I spent the rest of the day in a stupor and vowed to take my wife as soon as I stopped feeling pregnant. Tonight we finally went again and I ordered the same thing, to split. There were slight differences between the two occasions.1. The restaurant is finished! And they have stuff to drink, like wine and beer!2. The first time I got the sloppy bronx, I got it on wheat. This time I got it on a baguette. The baguette was harder to fit in our mouths but held the sandwich better than wheat. Wheat is easier to eat at the beginning but falls apart more at the end - whereas the baguette was harder at the start but was more enjoyable as we ate it. I'll try it on rye next time.3. There were more fries on it this time, so I got a good handle on what they taste like (they are super good) and next time we're definitely going to order some street fries.4. They didn't have any printed menus last time, but they did this time, only they weren't by the door or anything so we didn't find them til after we ordered. They should find a stand to put them on by the front door. I'm gonna just add pics of the menu to help everyone out.Anyway, tl;drAre you hungry for a big meaty sandwich that'd make Dagwood blush? This is the place to go.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "For starters, the food always tastes awesome, I can't deny that. That being said... the service is not up to par. I've been coming here since this location opened and have seen a steady decline in service and consistency. I brought my boyfriend about a month ago and we had a great experience, but today not so much.First of all, the music was so loud the girl at the counter couldn't hear what either of us ordered and she was not personable at all. Our food came out quickly, I ordered a hot sandwich and my boyfriend ordered a cold one, but my sandwich came out first and sat on the counter for a good 5 minutes before the other one did. There was barely any cheese on my sandwich and NONE on my boyfriend's, which it said there was supposed to be. Also, my boyfriend had ordered, and paid $3 for, extra meat; if that was extra, then I hate to see what a regular portion is. Neither of us are ones to complain, but we spent almost $30 for two sandwiches and an order of fries, we just wanted what we paid for. I can deal with bad customer service as long as the food delivers and today it did not. Side note: the young lady working the counter had work out pants you could see her underwear through. Please at least address that.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Found this place on Yelp & wanted to give it a whirl. Sandwich photos online were enticing. Arrived and it took F O R E V E R to even place my order. And I mean forever. Staff were so slow and didn't care. I stood there for 10min. It wasn't even busy. When I finally placed order I got a turkey sandwich (forgot the name) with fries. I went back to my car to wait. Came back in 10min and order still not done. Apparently my order got lost in the shuffle. No apologies from staff. So I waited some more. Finally get, and eat it at home and I was like MEH. Not completely horrible, but not great. Meat had a weird taste - or it was a sauce or something I didn't like. I thoroughly enjoyed my fries. Thank God for those. Prices are too high in my opinion. Doubtful I'd be back, I'd rather got to Togos or Ike's.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Found this place on Yelp and the office went today...   I kept saying I wanted the Shrimp Po Boy, but that is SO out of my norm.   I'm usually a boring veggie sandwich.   Well, I got it and it was the BEST decision ever.   HUGE shrimp, perfectly crispy, just the right amount of other \"fixin's\" on it and the sauce was to die for!   I could only eat 1/2 of it so I brought the other half home for dinner.   Can't wait to go back and try more.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Fresh good sandwiches .. bread is fresh .. meat is fresh . Sandwiches are large you can share .. I order always the club my favorite . I come here at least twice a month . They have happy hour beer specials too ..", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Friendly staff. Place is clean and the food was excellent. I would definitely recommend it. I will be coming back soon", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Frist time here   for lunch   the sandwich was great and delicious . everything was made to order   and will be back soon . place is clean and very friendly .", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Gang gang! Bronx for the whole gang! Hot and cold sandwiches SMACKIN ! U gotta try everything! Do what's good for you and have a Bronx sandwich with a blunt!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Giant sandwiches and giant portions of fries! The baguette here is delicious! Nice and crispy! NY style deli with a clean interior and great building. They've got special fries, hot sandwiches, cold sandwiches, and beer. They are generous on the meat portions here as well. The food is really good. I enjoyed the philly cheesesteak fries and the pastrami sandwich. They even put fries in my pastrami sandwich. Too good! I would definitely come back and recommend it to people with a HUGE appetiteRecommendation: Philly fries, bronx fries, meatball sandwich, pastrami sandwich", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Giving a 4 because they messed up a phone order. But the food is really good! Macaroni salad was just slightly too sweet.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Giving Bronx 2 stars because no ac. They had portables running but they were not vented to the outside so the hot air was blowing in. Sandwiches were of good size, but the baguette was super crusty and the flavour only ok. May try again when weather cools down.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Good portion for the price. Friendly staff. Food is very delicious. I like \"the hitman\". Lots of selections. Will go back for sure.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Good sandwich but pricey, $30 for 2 sandwiches(bronx club and the babe add bacon) 2 drinks and 1 bag of FREE chips w yelp check in. The sandwiches are huge but i could easily make it at home", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Good Sandwich, fresh bread, meats were great!!! Owner checked on us to see that we enjoyed it.Will certainly go back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Good sandwiches!   I appreciate a nice French roll and the fact that they serve fries!   I really wish they had a half sandwhich option since the whole one is a little big to eat at one time.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Good stuff.I come here pretty often.It's fun to try all their different types of sandwiches, some of which mix various types of meats and cheeses.They also have fries with toppings to go along with it.I have liked pretty much everything I've tried so far, and the service is always good. Hard to make a recommendation with so many tasty options, but the Hitman is probably my favorite.Try them all!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Got home to find out that my $9 egg, avocado, bacon, and cheese sandwich was missing the avocado. Very sad about that, but holy hell, it was still absolutely delicious!! They have sriracha you can take to go. Always take some for your sandwich. Amazing!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Got the spicy fried chicken sandwich. It was good fried chicken, lettuce, tomatoes, mayo, and fried jalapenos in between a baguette. Service was quick ad helpful. I will return to try other sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great experience this morning!!!!Tina and Jonathan did a great job!!!!They were very friendly and even gave me a few samples of the salads to try out!!The pasta salad is out of this world and the potato egg salad was some of the best I've ever had!I ordered the Bronx and it was delicious!The perfect amount of turkey and avocado!!Next time I'm in I am for sure getting the Boss and some potato salad!Oh and ask for pickles they are so good and crisp!I will definitely be coming back and I also look forward to trying more items on the menu!!!Thank you Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great food!   Customer service could be better though.   I had won a $20 gift card from an instagram contest early December and didn't have time until this past weekend to stop by and redeem it.   On the instagram accounts, there was no mention of the procedure or the expiration of this redemption.   Pretty much without a physical gift card, I, like anyone would, assumed you would just order at least $20 worth when you come in and get $20 off deducted.   Nope, the employees made it so complicated, and made me feel like I was bothering them.   It was not my fault they weren't prepared to handle this; I have email proof that I communicated to the owner to confirm it would be okay for me to come in this weekend.   The manager first said that normally they don't let you redeem it if you waited this long to come by, but they would honor it this time (golly gee willikers!   Thankya so much!!! *sarcasm*).   Then he created the gift card and was ready to hand it to me so I could get out of their way, and then told me I couldn't use a newly created gift card until the next day.   I was like, no, we drove an hour to come here and I am prepared to use it today.   Then it took a long time for them to figure out how to simply deduct the $20 I won off my order.   The employees looked so frustrated, the line got long and they wouldn't open another register, and I was just confused why they made it so complicated..   What else could I do but wait and hope they don't spit in my food later?Anyway, I loved the food here!   Here is what we got:1) The Boss - I normally eat cold sandwiches if it has a lot of Italian deli meat in it, and this was the perfect cold sandwich!   There were so many layers of meat in this and plenty of veggies.   It was like a whole balanced meal in one sandwich!   This has got to be my favorite sandwich from here and I would love to get this again!2) King of Queens - Lots of pastrami, corned beef, and mustard mayo, just the way I like it.   The meat in here, like in The Boss sandwich, was very fresh and I loved all the gooey melty cheese in it!   Enjoy this hot!3) Simply Just Fries - Lovely peppered fries!!   They were so hot and fresh.   If I were to come back again, I would try their other fry options for sure!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great lunch spot, but I recommend splitting your sandwich. The portions are huge! I've been to their Anaheim location, but never here. The parking is tricky because it's small lot and there's only two space options, one hour or thirty minute spots. This time around I tried the spicy fried chicken sandwich. A single thin chicken breast with lettuce, tomato and spicy mayo. Plus Sriracha sauce and fried jalape\u221a\u00c9\u00ac\u00b1os all on a soft French baguette. This is a great sandwich, crunchy and very flavorful, but I was missing the heat. This was surprisingly mild even with the sriracha and jalape\u221a\u00c9\u00ac\u00b1os. Like stated before this this was huge and very filling. I ate half and saved the rest for later. The bread was great, soft inside and chewy on top. The fries were ok, but most of the Philly cheese toppings were just on top and not really mixed throughout the fries. After a few servings, we were basically eating plain fries. Still tasty, but I want that Philly cheese all day! On my next visit, I'm getting the brisket fries with extra sauce!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great Place Finally A Fantastic Sandwich I had the New Yorker Great!! They Have A Fantastic Variety Of Sandwiches & Choices Of Other Items, Very Clean Friendly Sweet Staff This Is For Sure My Sandwich Place Will Be Back Again Love To Try The Po Boy!! Plus If You Check In With Yelp You Receive A Bag Of Chips!! Yummm", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great place to eat enjoyed every bite. The salads are wonderful sandwiches are even better! If you haven't been give it a try you will be very happy!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great place to grab a delicious s\u221a\u00c9\u00ac\u00b0ndwich. The entire staff are extremely friendly and the service is surperb", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great recommendation from a friend! The sandwiches are very filling and the portions are big, I wasn't sure I could finish a half sandwich! Try the Philly Cheese Steak fries, they are delicious! Looking forward to coming back again with more friends.One tip-parking right in front of the restaurant ranges from 30 min to 1 hour parking (the 1 hour parking is only until 6pm, after it's not).", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great reuben. Not the type you are probably used to - no toasted bread or melted cheese. You have the option of kraut or slaw. Basically like a reuben you'd see at katz' deli in nyc (not quite as good).Its just pastrami on really good rye, slaw, cheese, and dressing. Everything was quality. Will definitely be back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great salad and sandwich. My girlfriend and I split them. The bread was wonderful I'm sure it's homemade. The salad was very fresh and   good side. Looking at the food coming out we will be back soon", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwich shop. Custom everything. Lots of chips, cold soft drink machine of everything Pepsi, Dr Pepper, Mountain Dew, Diet Mountain Dew.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwich with more than enough food.   Kule little eatery and good atmosphere. We'll go here any time we're in Tustin.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwich. Comparable to Ike's but you actually get about 3x the meat that you would at Ike's.. A favorite place for sandwiches now!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwich. Huge portions. Cold beer. Reasonable prices. Make sure to modify your sandwich bc they put different condiments on different sandwiches. Mayo and mustard and pickles are not a given", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwich. Tried the number 1 and added spicy mustard. This place is great!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches and great service. Prices are a bit high for a sandwich but the ingredients are top notch. Pastrami's are the BOMB and will fill you up! Split one with someone the grab a beer at Tustin Brewing Company across the parking lot.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches at decent prices.   Oh yea, and they're huge!Only bummer is that they don't have fresh brewed iced tea.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches here! My husband loved the pastrami and brisket and I enjoyed my veggie omelette breakfast sandwich.Great bread, good quality meat, made quickly.Prices range from $8-12, but the portions are large and filling.Fries are tasty too, plenty of menu options and I love that they open early.Worth checking out.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches. Had the hot turkey sandwich on a baguette with avocado.The husband had the Sloppy Bronx and liked it. He called it the California burrito sandwich equivalent since it came with French fries in it.Cheap beers, ok selection, mostly pale ales and bud light. No real local or craft beer.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches. I had the brisket with coleslaw and my son tried the tuna avocado melt. Both were really good. The only reason I'm not doing 5 stars is cleanliness. The floors were dirty as were all the cushions outside (and we sat outside). Overall, though I would venture back to try their Philly! Prices were about $10-12 for one sandwich. I still have half my brisket left :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great sandwiches. I have visited multiple locations and sandwiches have always been tasty. The only downside I found is that some of the sandwiches are extra greasy and a bit messy.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great service ! The one who helped us out was well knowledgeable of the menu. I got the Philly Cheese Steak #10 and i highly recommend it to others without any hesitation. Come try it out! You would regret it. It's a 11 dollar sandwich but well worth every penny!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great service, great food, the even have a veggie sandwitch! I recommend the place if you are down for a filling sandwitch.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Great spot just at the edges of old town tustin. I hope you like a lot of food! Cause that is what you are going to get.   My only nag, and this is me nitpicking, is that it is very close to Tustin Brewing Co.   I wish it was in a location that is underserved beer + decadent sandwiches.   Closer to the Gen BBQ would suit me just fine :D", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Had the pastrami ruben and it was SOO GOOD!! lots of meat!! lots of flavor!! Could only finish half, but the other half was just as good later.Want to go back and try some other sandwiches now!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Had the Philly. I have had way better Philly cheese at a cafe. This was too greasy. I did take the recomemdation from the server that looked like he could care less i was there. After saying thank you 3 times. I didn't even get up saled for fries or chips. I will give them a second chance only because I didn't order what I want. Lol.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "had the Reuben on rye. The sandwich was amazing. the service was excellent. will definitely be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Had the Spicy Alabama fries and they were off the hook the hot mess was the bomb as well will come back again", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Had the Spicy fried chicken sandwich. They overdid it with the Sriracha mayo, but other than that, it was great. The guy working the counter provided really good service.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Had this bookmarked for a while and finally came in to try it. Ordered the Philly cheesesteak and it was great! So big that I had to bring 1/2 of it home. Checked in too late to take advantage of the free house chips so it's an incentive for me to come back and try another sandwich", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Hands down the best sandwich shop in Orange County, I would argue. Then again, I'm not from around here and would like to be challenged. 10/10 Sandwiches 10/10 Location10/10 ServiceI got the Bronx Club with the House Made Chips. Every single item within the sandwich I received was exceptionally fresh. I would highly recommend you check this place out. And trust me, I'm originally from Jersey, so I know a thing or two about sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "have you guys changed the way you make The Hitman lately? I've been buying it for year and it's always been such a perfect balance of the two meat/cheese combos, divided equally on the sandwich. Lately i've been getting a lazy version that's completely mixing the 2 different sandwich elements all over the place, and it's just not as enjoyable as it was.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Having lived on the East Coast for 6 years, it's hard to be pleased by Sandwiches out in Southern California. This has to be a top 5 sandwich place in SoCal though. Their bread is freshly baked, the deli and cooked meats are on point, and the customer service is good. I've had the King of Queens on about 5 occasions and the Eggs/Avocado/Bacon/Cheese as well. Simply wow! They taste like something you would get at a corner store in the LES. They also have a multi-flavored soda machine. Now, they have a happy hour from 4-8 (M-F).", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Hey Turkeys! Gobble up the Boss and the Hero, too. Tried them recently and loved the big turkey flavor. Most sandwich places offer turkey subs as a boring alternative to the beef and Italian options. At BRONX, the Turkey sandos are not an afterthought, but hold their own next to the other meats.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Hmmm not the best experience, very mediocre. Food: they ran out of brisket at 6pm. (There goes half of the hot sandwich menu) Cleanliness: everything was sticky, none of the tables had been bused outside. Service: Meh, nothing extraordinary.Was really excited to try this place out as Tustin is such a chain market. This bloc sucks.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "How do I even start ??? I got the spicy Alabama.... Seriously this is so amazing. Every bite is better than the one before it. The customer service is great, and the food is outstanding. I don't care how far I have to drive or how long I have to wait in line, Bronx is worth it all!!!! I definitely will be back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "How does this place not have a full 5 stars?! Have people been to other delis in OC?! This place is phenomenal. They have a wide variety of hot and cold sandwiches. Literally it will probably take us years to get through eating all their sandwiches. Their portion size is HUGE! If you can down the whole thing, you won't need dinner.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Huge portions, and they are tasty. The sandwiches are enough to feed two. The meats are definitely top of the line for a place like this, and the bread is excellent. The food can be a bit messy because the juices and sauces have a lot of time to saturate the bread while you work your way through the sandwich.Lost a star for how long it takes to get your sandwich. Sometimes it seems to take 10 minutes- not expecting Subway/Togo's time, but it could be faster.Parking is a challenge in this shopping center. If you go all the way through sometimes there are places in the back, but the main lot is always crowded.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Huge sandwiches and huge salads. My salad was very good but the chicken was not cooked thoroughly and was pink. My husband liked his sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Huge sandwiches, they fall apart when you eat them. Wish they would give you condiments or things when you order to go. No sauces or anything with my sandwich or fries and wasn't asked when I picked up. First time ordering here, I got the club. Which it was cut up like a club but hey it still works. Quality meat for sure", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Huge Sandwiches. They have a large selection of sandwiches to choose from. Had the pastrami which was delicious and also ordered the spicy chicken which was good but had too many small pieces of chicken instead of a large juicy piece. The restaurant is nice and clean. Will return to try a different sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I am from New York, and am a super picky sandwich eater.   I cannot tell you how many memories eating at this joint has brought me, of my childhood days in New York.   I love love LOVE this place!Although I have visited this place less than a handful of times (that will change), I will definitely be coming back to this place.   Their pastrami sandwich is soooo good!   I always get mine on toasted rye bread, east coast style.   I love the pairing of the pastrami with mustard.   I have tried some of the other sandwiches, but the pastrami is still my favorite.   Way to go, Bronx Sandwich!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I am so glad this place opened. Just got home with my turkey on baguette. It is amazing. Enough food for 2 people or me for for 3 meals...big sandwiches!   Place is clean and the service is excellent and super friendly Please stick around. My new favorite sandwich place!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I am sure this place deserves 5 stars so I will update once I go back and try something else.   I didn't LOVE what I ordered but you can tell the ingredients are quality.   It is also VERY expensive.   I ordered the sloppy Bronx.   Don't get me wrong it is a good sandwich but just too much going on for me.   It was very frustrating to eat.   Second, as a new comer I wish the girl that took my order would have been a bit more informative.   I knew the sloppy had fries in it however I did not know it came with a heaping pile of fries on top.   Which means I could have skipped ordering a side of fries and saved $3 off of my $18.03 order! That's a pretty penny for lunch if you ask me.   This total was with a sandwich fries and a drink.   I'll give them another try as I am a sucker for a great sandwich spot!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I am vegan and was pleased that they happily accommodated me .   I ordered the hot veggie sandwich minus the dairy.   I also asked for a few additional veggies to be added (I knew it would cost extra).   Overall everything tasted fresh and I was pleased with my order.   The portion size is big and worth the inexpensive price tag.   This is definitely the place to go to when you don't want to cook or spend a lot of money eating out.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I came for a late lunch. Staff was friendly and I ordered the Ruben based in their recommendation. When the food was ready it was in a to-go bag even though I was eating in. No biggie.   They also forgot the chips but made them available quickly. The sandwich was pretty good as were the chips but attention to detail was missing hence 3 stars.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I decided to try this for lunch I'm giving them three stars. I tried this new place and yes it was good, but two things made me second guess it. My bread was soggy and I didn't get avocado on my sandwich after I did indeed pay for it. I was going to go back, but I had to get back to work. That's the only reason why other then that the staff were nice and welcoming!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I dig sandwiches. Who doesn't? It's pretty hard to screw up a sandwich but I can think of plenty of places that do. Bronx is NOT one of them. I don't even know how to describe it other than to say, $9.99 on a sandwich here will not only fill you up and possibly stretch for two meals, but it will also make you happy. Customer service is excellent here. Friendly staff, great food, what else is there really? Now stop reading... do yourself a favor and get your next meal from here. I recommend anything with corned beef or pastrami. Oh, and their potato salad is boss, too. Just don't be on a diet coming here, the key is to go H.A.M. at a place like this!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I don't get the hype.   I tried the Boss (Italian sub - too much of the olive spread, imo), the Veggie (bland), and the Philly (not enough meat, a little too spicy for my kids).   None were great.Perhaps I need to try something else, but I felt like we got a good cross section.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I don't like links or sausages and I randomly ordered the sloppy bronx. Once I sat down and realized that I had done that, I dreaded my sandwich, of course they were already making it so I can't change my order. But! Good news, I loved it! It tasted great, it was packed to the max, topped off with fries & cheese (I think) and it was beyond delicious! I personally chose baguette because I don't like rye or wheat bread. My brother got something else, I don't remember but with wheat and it looked delicious as well! They don't skimp on anything here. I used my check in to get a free bag of chips, yay! I got the Cajun ones, pretty yummy :) If you plan on coming here, come really hungry! If you're going to come here with a date or someone who you aren't unsure will totally finish their food, split the sandwich. My first half I had for lunch and my second half will be eaten probably for an early dinner lol! This place is great, decent amount of employees, neat and clean store. Oh and we got fries too, they were just your normal fries but not as salty as I had hoped for them to be.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I don't shell out 5 star reviews just because but I keep coming back to Bronx when I want a solid sandwich (something other than Subway... blame the kid).In my previous review, the reason Bronx got 4 stars was because there really isn't anything for the kids. At that time it was hard to justify a $10 sandwich for someone who will just nibble. My wife will get the Bronx Club and often share with my daughter, but even that was too much food (yeah, first world problems). What I have worked out, especially when we are not super hungry, is to have the sandwich cut in thirds and this has worked out beautifully. We have an opportunity to get a couple of sides, chips, drinks and one sandwich. This works out nicely as we get to enjoy the other flavors Bronx has to offer.Bottom line, great sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I drive by this place everyday on the way to work and don't know why it took me so long to try it, but I'm glad I did. I haven't tried their sandwhiches yet, because I've been on a mission to try all their different loaded fries first, which I've like all so far. However, my fave is the spicy Alabama. The hot and crispy fries are topped with grilled beef hot link, melted Swiss cheese, grilled bell pepper, onions and mustard, which make a perfect and satisfying combo. This location is usually pretty slow, which is nice, but they could be a little friendlier when taking the meal orders. Overall this place is great and a must try, I will definitely give their sandwiches a try next.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I enjoy the fresh bread and fresh-made ingredients for their sandwiches. I have never been disappointed when I order. Upon request, they will make me a BLT sandwich. Recently Bronx began offering a turkey salad sandwich. It is very delicious. Because the sandwiches are so big, I've begun asking them to cut sandwiches into three pieces. It firs my eating habits.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I felt like I was cheating on Claro's coming here for sandwiches, but I love trying new places, and I love New York cuisine (and I am taking the liberty of calling sandwiches just that.)The sandwiches are quite meaty, which was surprising.  I'm used to those big hunching sandwiches from the Stage or Carnegie delis in NY, and while, this place doesn't reach that sky high pile, they are very heavy.I like that the sandwiches are neat.  Mayo and Cheese (I added mustard.)People raved about the chips, and next time I'll grab a bag.   The ambience was good, and the service was quick for the noontime lunch rush.Parking is always a challenge in this center, but be patient and park around the back if you have to.  Definitely worth it.  In the end, when it comes to comparing this place to Claro's, Claro's certainly has more variety, but the portions of meat aren't as robust as Bronx.Either place is great for a hero to go!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I generally like Bronx...but they have two issues as far as I'm concerned.   The first is that they try to shoehorn your sandwich order into one of their 21 sandwiches...it's easier too just tell them what I want vs. Customiing to death one of their own creations.Second- I've been waiting 21 minutes...my beeper went off and I went to pick up...they couldn't locate my order...manager finally found it a couple of minutes later.I understand I'm her at lunch...about quarter of twelveBut they should doped up as a lot of people only have 40-45 minutes to order and eat.Manager offered coupon for free sandwich next time I'm in...it was appreciated. But I would prefer better production time.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I got the Pastrami Reuben on rye bread and it was amazing.   The pastrami was really thick and juicy and falls apart kinda.   5 stars for sure.   The fries were pretty good too.   I would say that sandwich was good for two people, unless you're super hungry.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I got the pastrami sandwich with macaroni & potato salad.The pastrami was excellent very lean yet juicy & flavorful.Best pastrami I've had here on the left coast!Salads were good as well.Will for sure order again!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I got the West Coast Pastrami & it was absolutely delicious! I got provolone instead of American cheese and I'm so glad I did. The French baguette is wonderful and the vegetables were fresh. The sandwich presentation is the only reason I didn't give 5 stars -- I had to shove the meat into the sandwich with my fingers, which I never like to do. I wouldn't recommend going on a first date here because it was really messy! However, the sandwich was delicious and I'd definitely come back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I guess I will just keep leaving sub-par reviews until management actually does something about their staff. After my visit this weekend, it honestly may be a while before I choose to come back. Once again, the story has changed about sides. Now you get nothing but bad service to accompany your $10 sandwich. Oh and a pickle...but only IF you're smart enough to ask for one. I'd advise not even bothering to ask the staff questions about their food, because they have NO clue what's going on. You have to know to ask for a different bread if you want anything but a roll. You have to know to ask for a side, if you want anything but a sandwich. You have to know to ask for a pickle. And heaven forbid you don't know this and ask after you've already ordered, the staff treats you like YOU are the stupid one for not knowing. This time around we ordered a Philly Cheesesteak & a Bronx Club, to go of course (please see prev reviews). Both sandwiches barely had any meat. Like, if I hadn't stopped to look for the meat, I would have completely missed it. Might I also mention Philly CheeseSTEAK. The name of the meat is IN the name of the sandwich. I paid for extra cheese on the Philly; which apparently paying for more of one thing equals getting less of another?? On the club however, they were not shy about piling on heavy mayo & lettuce. So what I got for $20 + tax was 2 sandwiches (ONLY, no sides at all, not even a drink) with hardly any meat & bread so soaked through with condiments it's practically inedible.   I just don't understand how a place can charge $8-$10/sandwich and then completely short their customers...on food quality AND service. It seems like their staff is no more trained on daily procedures & customer service as they were the last time I spent $$ at Bronx. Every time I have visited Bronx, I have noticed that it is completely dead in there. Maybe that's a sign. All I know is that I've now dined at Bronx easily half a dozen times & the service/quality of product continues to nose dive. HEY MANAGEMENT and OWNERS--Take a hint from your customers that care enough to let you know there's a problem...and FIX IT. I really was a huge fan of this place; however now they are one more bad sandwich/bad experience from losing this customer, that's for sure.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I had the chicken breast sandwich on rye bread. I usually opt for the lower calorie options so I got no cheese and mustard instead of the mayonnaise and I have to admit this was still a very flavorful sandwich. I was really impressed by the rye bread on its own. Very dense.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I had the spicy Alabama fries and my husband had the pastrami sandwich!!!   great customer service, not a long wait, I will definitely be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I have been coming to Bronx for a while now and this place has changed. The guy working at the front is VERY RUDE. The customer service here is horrible now. The guy working at the front today (12/20) seemed to hate his job and was very hostile. Very bad customer service.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I have been coming to Bronx since they opened this location a few months ago! I have tried multiple sandwiches and have not been disappointed thus far!I just recently tried the Chicken rice bowl and let me tell you... AMAZING..Now I obviously don't come here for the rice bowls, because the sandwiches are OUTSTANDING, but I had to try one!   It's not your typical rice bowl you get at teriyaki places, it almost tastes like sweet and sour sauce, filled with tomatoes, lettuce, chicken, cheese, and rice.  So good.We also LOVE the Earthquake Chips.   The flavor is so unique, it's unexplainable.If you've never tried Bronx, You should, STAT.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I have to say, I was a little underwhelmed with my experience here yesterday for lunch.My wallet felt it hard... my heart, not so much.I finally decided on something to order, I was going back and forth between a few things... and landed on The Boss.   Afterall, it was Salami Day - so I needed some salami in my lunch.   I was with two friends, so I also ordered the Philly Cheesesteak Fries for all of us to share.   They looked delicious... and maybe the fries started out crispy but they were soggy once you really got to them.   There is a TON piled on top of them, so I get it.   I dont like green or red peppers on my cheesesteaks so I didnt love the fries, as I feel peppers over power any other flavor on any food.   Back to The Boss.... I asked for no tomatoes, and I asked to sub the cheese out to Swiss.   A comment was made that my sandwich looked like the light version, as there wasnt a huge stack of meat... and Ive noticed others mentioning in their reviews it seems they have started to skimp on the meat.   I ended up only eating half of my sandwich, and about half way through, I took off the lower layer of bread, because there was just too much   olive spread. It was good, it was just a lot.I went back and got three cookies, and the cookies were pretty good.   Soft, but could have used a bit more flavor.My lunch, was $25, then another $10 for the cookies... WAY too much money for what I had, in my opinion.   I saved the second half of my sandwich, but it had leaked (oil Im assuming) so much that it was not edible.   The staff was friendly enough, but really not too into it.  It was an overall meh experience, like the 2 star rating says.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I haven't had a sandwich here I don't like and I've tried most of them, even the salads are good! Great ingredients and the bread is soooo good!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I just found my new favorite place. Great sandwiches with hight quality meats! The Boss on French baguette is a must! We ordered all these and they were delicious! 3 x The Boss1 x East Coast Pastrami 1 x The New York", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I just had the Philly Cheese Steak sandwich, and am now genuinely mad at every other philly I've ever had for not being this sandwich...", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I keep craving their chicken sandwich, I love it!! I usually add avocado when I get it. Staff is great restaurant is clean, overall I'm looking forward to coming back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I like the food here. Every sandwich was good. Service is excellent. Prices are decent. The only thing is it's on the salty side, especially the fries which are extremely salty. So y'all may want to tell the order taker to hold off on the salt so you don't have to ask them to redo.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I liked it. My sandwich was good.   Bread was fresh. A nice change from subway. A little more $ but it's expected with better quality.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I liked to start by saying I love their sandwiches and drive a far distance to purchase food to go. Tonight my wife and I decided to order a couple East Coast pastrami sandwiches to bring back home. Normally, I check the sandwiches to make sure they are the proper order before I leave, but today I made the mistake of checking the receipt taped to the bag and everything looked correct. When I got home, I realized that the bread choice was correct on the receipt, but not on the sandwich. Unfortunately, this is the 2nd time this has happened and pastrami without the proper bread isn't the same. If you're making an order to go, make sure to check the order before you leave. Thank you for listening,R", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I literally felt the obligation to write this place a 5 stars review right after I finished my lunch sandwich. OMG the veggie sandwich I got from here was the best veggie sandwich I've ever had, if not the best sandwich, to the point I ended up eating a whole thing in 1 go all by myself (I'm very small and also a picky eater). The sandwich itself was huge to me, and I got it in lecture wrap along with lots of mayonnaise/siracha. I took one bite and i swear if heaven was to be real, it'd probably taste like this. Every single ingredient was perfectly cooked, not to mention how fresh everything was. The lettuce wrap made my sandwich a little messy, but that just gave me some left overs on my fingers to lick at the end.I should've taken some pictures before I dig in but the smell contaminated my soul and I'm 100% down to go straight to hell with my delicious veggie sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I live in North Tustin and go the Bronx a couple of times a month. This place is interesting, they make some of the best sandwiches I've every had yet they service is probably the worst I've experienced. It isn't an issue of catching an employee on a bad night, it is systemic. They are rude, make mistakes nearly 100% of the time and generally just don't care about their customers. It's like they are annoyed you're there. It is a testament to the quality of their food that I go back all the time but be prepared for authentic New York customer service.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love Bronx! Seriously the best sandwiches ever, my favorite the veggie with turkey on rye bread! The guy at the front is so nice too! 5 star place :D love it", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love me a good sandwich, and this place is a solid four stars. People are complaining about the prices - but just look at the pictures. You can see that they pile on the meat here, if you want a $5 footlong from subway where you can't even see the meat inside, go for it. Anywho, I stuck with a King of Queens sandwich on a baguette (bread recommendation from the nice cashier). I also got a small side of the seafood salad thanks to my yelp check in offer. The sandwich was awesome, I'm not even a fan of mustard but everything on that sandwich just worked well together. My bill ended up being around $10 or so, but I could barely finish half the sandwich. I saved the other half for dinner but the sandwiches here are so big that I think two people could just share one and be happy. The seafood salad was disappointing though, the pieces of fake crab inside were chunky and just had a very unappealing chalk like taste. I wouldn't recommend it, but I can't really complain about it since it was free. My friend got the sandwich of the day, which was some crazy pastrami sandwich with 10000 different things with an egg. We both thoroughly enjoyed our sandwiches. Service was also quick (got both sandwiches in under 5 minutes). I can't wait to come back and try their other sandwiches!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love the Bronx Sandwich Co! I've been to many sandwich shops and I'm going to tell you the Bronx makes excellent sandwiches. With names like, The Boss, Mob, Hero, Babe, Sloppy, King of Queens, and so on....you better live up to those names...and they do.One of my favorites is the Boss. It's packed with all the Italian classics but, what makes it awesome is that chunky olive dressing....mmmmmm....it is the perfect addition to any sandwich. Not only does it taste amazing but the portions--this thing is beyond the size of your tummy. I always end up finishing it but, man...am I full and happy. They also seemed to have added a bunch more sandwiches including the shrimp po boy, fish n chips, baja chicken, and so many more.They also have a wonderful selection of chips, cookies...and a few others, I can't seem to remember at the moment.Although, my only complaint would be the fountain drink dispenser. It's one of those fancy single units with so many options. It's cool looking but, the process to get a drink is slow with way too many options. I've seen a line for it and it's not pretty. Oh, and there's even draft beers...it's too bad it's a popular lunch spot, and unfortunately, beer is not an option.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love the food here, when they actually get my order right. The past three times I have visited this location and the one in Costa Mesa, they have messed up my order in some way. I get the same thing every time and it's probably one of the easier orders because I am a picky eater. I always get it to go, and when I get home, I open it to find out that it's either missing something, is warm when it's supposed to be cold, or a completely different sand which! I've wasted so much gas going back and forth to get the correct order. If I ever come back, I'll be sure to check that my order is correct before I leave.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love the philly cheese steak sandwich! I don't like the soda machine. Sometimes it's too syrupy or not enough syrup.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love this place, I usually order the sloppy Bronx, but today I had the Hitman on a French baguette along with the Alabama fries. First off, the Hitman was was juicy & meat was tender. The flavors just went well together, and the portions are generous! 2nd, the Alabama fries, those were incredible. Nice kick to them,   the hot link on them are amazing! Highly recommend this to anyone who loves got sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love this place! After the first time I tried this place, I came here 5x in 2 weeks. The best sandwiches I've had in the OC. Great quality meat and bread. Restaurant is nice and clean, but not too formal. It has indoor and outdoor seating.So far I have tried:The mobster: amazing! This one is pastrami and turkey on a baguette. The meats are great quality and blend perfectly together and the bread tastes nice and fresh. The only thing I did differently ordering it after the first time was adding pickles.Pastrami Reuban: the pastrami is delicious and I'm not a big fan of thousand island dressing usually, but this one is delicious and compliments the sandwich perfectly.Shrimp po'boy was so popular they started offering it everyday. Breaded shrimp served on a baguette with a side of red spicy sauce. Breaking doesn't have too much flavoring on it. The spicy sauce on the sauce really makes it for me. I've had better shrimp po'boy sat Cajun spots, but for just your local sandwich spot it's pretty darn good.Good pastries such as black and white, and brownies available at the register, definitely yummy!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love this place! Best sandwich spot in OC. The pastrami's fantastic and the turkey club lettuce wrap is especially tasty if you're gluten free. I've met the owners as well. They're super involved which is probably why the quality is so high.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I love this place.   We had sandwiches this weekend and while they are pricey ($9 to 11 each), they give you a huge sandwich with plenty of great tasting meat.   (And often you eat half the sandwich and save the rest for later.)   The rolls are wonderful - I understand they do a final baking at the store.   Amazing! I've been a big fan since they arrived in Tustin and they continue to stay great.   They're in a location that has seen a large turnover of restaurants over the years and I'm thrilled they continue to do well - even without advertising to the local neighborhoods.If you've never been - go!   (And don't feel bad about taking part of your sandwich home!)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I LOVE this place. their service is great, always happy smiling faces back there and their sandwiches are AMAZING.I always get the Bronx club because I love fresh sandwiches..my gf switches it up between the chicken sandwich and the philly steak sandwich.. shes a picky eater and she LOVES those..price is reasonable 9-12$ per sandwich... and compared to rival sandwich shops this place wins! price wise, taste wise, and service wise!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I Loveeee these Guys!!!! Especially who helped out my girlfriend tonight. She phoned in my order since she was craving sushi I decided to have something RAW aswell the NEW YORK w/ extra meat and avocado. So apparently misstated that it was my first time when I'm really should be considered as an addict lmao... Well to make a long story short I'm glad I decided to ride with her because she totall messed my order, I not going to lie I was sad and a little mad just because I knew what amazing meal I was missing out on by Her ordering the wrong bread lol who the hell eats rye bread lol even the employee told her that people don't usually order that and they all started to laugh about it in the end there staff is great and they really took care of me by switching out the bread to the tasty normal roll. Thanks guys!!! Great job.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I ordered a #10 which was the philly cheese steak, and I must say it was sooooo delicious and I would definitely come back for more when I'm in town! Worth $13!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I ordered food from this location through Door Dash.   Door Dash got my order right, but Bronx got it wrong.   As a result, my son never got his kids meal.   And when I requested it to be reordered (20 minutes before they closed), they decided to cancel the order six minutes after closing.   That was convenient for them, considering it made it impossible for me to get the missing food item since they refused to answer their phones.   I am very dissatisfied with the lack of customer service available.   They made a mistake.   They should have been interested in fixing that mistake.   The two stars I gave them were for the food they DID deliver.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I ordered the East Coast Pastrami - Piled Higher (3/4 lb)It was super greasy and salty, I ate half and just couldn't eat the other one due to the reasons mentioned.   A strange thing observed on both my and my colleague's sandwich is the meat distribution is really uneven, one half of the sandwich has a lot more meat than the other.   This is strange because it happened on 2 of the 4 sandwiches that we ordered.4 of us went for lunch yesterday and only one of us thought the sandwich was good (we got all 4 different sandwiches).   If I ever go back I might try the shrimp sandwich but the revisit is now on back burner for a while due to this bad initial experience.As far as the service goes, the female cashier/waitress was really nice to us.   The gentleman at the counter was okay.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I ordered the Philly Cheese steak fries and it was decent. I felt the food was a bit bland and the french fries were clearly frozen, store bought, and soggy (though the menu advertised CRISPY french fries). I believe it is never acceptable to serve frozen food at a restaurant. Cutting costs via food is obvious and despicable. Either cut your price or opt for real potatoes.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I really expected more for the money.   I love pastrami so that's what I got and was disappointed.   Overly fatty (like a mouthful) and just not enough pastrami to justify $11 for a sandwich.   I think The Hat offers better flavor and value.   Having eaten at more than a few delis in New York City, I wouldn't exactly call my East Coast Pastrami authentic.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I really liked this sandwich (Bronx club), for a little over 9 bucks it was worth it. The ingredients were fresh and stacked high, it was all very tasty. The only bummer was that the marble rye in most of the photos was not available, I was really looking forward to trying it. Parking is a bitch, the people trying to drive in the parking lot were horrible - if you survive the sandwich is worth it. I just hope that this place, unlike the many others in this location before, stays longer than a few months because I'd like to go back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I really love a good sandwich, and this place makes great ones! Came in the for the first time tonight and ordered the pastrami reuben, the boss, and the philly cheese steak fries.Let's start with the pastrami reuben...it was delicious! The pastrami was thick cut, peppered slabs, and so tender. It had the perfect amount of sauerkraut, 1000 island, and cheese. No one flavor took over the other- they all just worked together. The rye bread was so soft and fresh. Each bite was packed with flavor, and I couldn't stop eating it. My only complaint is that this sandwich could have used a little more pastrami haha! The Boss was just ok. This sandwich had a ton of meat on it, but not a lot of flavor. Most of the flavor came from the olive spread, which I didn't really care for. The salamis and meats added no kick so that was disappointing. The baguette was a little tough as well. Would not order again.The Philly cheesesteak fries were really good! They were loaded with cheese and meat. Definitely worth the $8. My only complaint is that the fries got soggy after about 5 min because of all the toppings. But I would still order them again. Overall, the portions are huge, and the sandwiches and fries are really good. I definitely want to come back to try more of their hot pastrami ones, because it seems like that's where they excel!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I really love their sandwiches, they are made well and big enough to easily split and both be full! I have had a variety of sandwiches here and never had a bad one, I don't think you can really go wrong!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I think I might likes sandwiches and tacos more than sushi!I just moved into the area and I am checking out the local sandwich places when I have time. So if you have any that you like send them my wayLooking forward to having a pastrami on rye.. Could it compete with Langers or Johnnies pastrami?So we have 8 ounces of tender well smoked pastrami. Very moist on a kinda dense rye bread. The bread was fresh, but a little denser than I prefer. The pastrami was overall very good, but had a little processed tasted, like they bought it from another vendor. Which I am sure was the case. I wish the bread was steamed a little .The verdict, not as good as the others.. But good enough for my 7 min drive!The shop was clean and I would definitely come back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I think it depends on what you come here for. There are only a couple sandwiches I would order. The rest are not for my taste. I have had the pastrami, the boss and the club. The club is by far my favorite. The bread is really good and the club is stacked high with turkey. The bacon is however like microwave pre cooked, but I'm not complaining. The disappointing factor is they switched to Pepsi product and I am definitely a Coke person. They do however have Stella on tap so that is a plus.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I tried BRONX Sandwich Co. today at the recommendation of the owner of Analog Record Shop (also a great establishment), and my belly is currently very happy. I also personally had a great dining experience, so I'm happy too. I walked in, narrowed my order down to two, and one of their employees convinced me on The Babe. He also recommended that I get it on their french bread, so I obliged. It was SO YUMMY. The pickles there are great as well. While I was sitting and enjoying my meal, one of the employees came up and asked if I'd like for her to shut one of the doors in case I was chilly. I did not, but it was nice of her to ask. I needed a to-go box, and while the first employee handed me the box the other asked if I'd like another pickle to go... which of course I won't turn down.My food and service were both amazing. I'll definitely be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I tried the hot veggie sandwich and it was AWSOME!!! it was full of vegetables (a bit hard to eat but ok) full of flavors. It was too big for myself so I had to save the half for later. I also got their house chips by checking in on yelp, and the chips were really good too.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I used to get my sandwiches here all the time but this time the staff was extremely rude and they had such poor attitude, (not the entire staff just the employees up front by the register) not coming back here again!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I want to HUG my sandwich!!! It's so good. We ordered the #8 pastrami with rye bread and coleslaw. I have no picture because I pretty much inhaled it.   The pastrami was meaty, folded over to get the full bite effect. It was well-cooked, flavored and moist. The coleslaw was the right flavor to add a bit of sweetness, but not distract from the meat flavor. The thick melty cheese was a rare treat I haven't seen in a while. Usually cheese is thin, stuck with the bread and barely noticeable. Not the case here. :)There were a lot more items on the menu that I'll be back to try. Totally gonna be a regular. Thumbs up,   The Bronx!!!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I want to start off stating these guys make a damn good sandwich! They are not cheap but they also don't hold back on the meats. I had the Boss and my wife had the Bronx Club. Neither sandwich disappointed as we could have/should have shared (note to self for next time). Loved the fresh baguette each sando came on. I didn't fully read the ingredients for the Boss as I would have left the olive spread off of it but it was just a light spread so it wasn't too overwhelming (I am just not a fan of olives) This is definitely on the regular rotation. My only complaint and why I cannot give it 5 stars is there is no kids menu. I have no problem shelling $10 for a sandwich for myself but I cannot justify that for a kid who may only eat a few bites before she distracted by shiny objects.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I wanted to have a sandwich for lunch so I stopped by Bronx Sandwich.  They bring the east coast philosophy of sandwich making out to the west coast.   This basically means piling on a whole lot of meat between freshly made bread.   I ordered at the front register and decided to go with the Mobster.Mobster ($10.49) -   The mobster consisted of of half pastrami and half golden turkey, American cheese and mayo all served on a freshly made French baguette.   They definitely didn't skimp on the meat in the sandwich and everything went well together.   The meats were tender but didn't have as much flavor as I was hoping for.   The French baguette held everything in place pretty well and tasted all right.   It was crispy on the outside and soft on the inside.Overall the sandwich tasted pretty good and with a YELP check-in my order came with some house potato chips.   This place is a solid 4 stars and a good place to grab a sandwich when one is hungry.   They also offer salads and fries with some of the meats served on top.  Service was friendly as well.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I was anxious to try this place out and finally made it today.   Got a pastrami sandwich - the West Coast Pastrami (#3).   Overall I was disappointed in the sandwich for the price.The Good - the pastrami was excellent.   Portion was large.The Bad - the cheese was overpowering the good pastrami.   My mistake in not getting the East Coast Pastrami which looked to just be pastrami.  The French Baguette was too big for the amount of meat and I had a lot of bread left over.   I love my French Baguettes crunchy for eating with cheeses or for using for dipping with Vietnamese soups / stews.   But for eating a sandwich the toughness got to be a little annoying and a little painful.   I really wished the bread were softer.   The sandwich was pricey too.   I definitely enjoy a good Togo's Pastrami more than I enjoyed this Pastrami and it is cheaper and much easier to eat (softer bread).All in all - there are a lot of choices on the menu and I'm sure there are some great sandwiches.   But not sure I'll be back - too pricey to take my chances.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I was expecting a New York sandwich shop.   This place definitely is not.  I am not saying the sandwiches are bad but it's definitely not a NY sandwich.   If it were it's more Manhattan gourmet than a   Bronx coldcut.  I wanted a simple Italian sandwich and I couldn't even find it here.   They didn't even have oil and vinegar!   They use some olive oil spread?", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I was here on November 24, 2017 at around 11:30 with 2 of my friends. I brought a new friend to try out this place. We also happened to come at a good time as there was no one in the restaurant eating or in the parking lot since it was Black Friday. We happened to be in the area since we ourselves were Black Friday shopping too.To update my review, I still ordered the same sandwich, I believe the Bronx club and I enjoyed eating every bite of it. There were lots of vegetables and meat on the sandwich. My mouth can barely even fit. The price is reasonable for the sandwich(around $10-15 depending on what type of sandwich you get). The sandwich is also filling too, both times I have been here and I never finished it. The cold sandwich last long enough for my dinner. The fries that my friend ordered were delicious. I wanted to keep eating, but I had to hold back as I was full. That day I was not in the mood to eat a big meal due to lack of sleep and black Friday shopping. Everything we used in the lobby was clean and I am very thankful we came at a time where there was no one there. But normally this place is busy and parking at times could be hard to find.My friend that came with me this trip loved it. He says it is one of the best sandwiches he ever had. He will definitely be thinking about this place with his group of friends that loves to come up. There is one more friend that I will be bringing sometime in January because he loves sandwiches and I think he will like it over Jersey Mike's (his current favorite sandwich shop). I just never got the chance to bring him up because of the school semester we had together in class, but I do owe him one and this is the place he's been begging me to take him to since my 2 friends who came with me loved it more than Jersey Mike's. So expect an updated review again with me throwing his opinions in it next year (January-February 2018). As for my opinion, it deserves a 5/5 stars and many more visits next year whenever I visit OC and LA.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I was put on hold the 15 minutes before they or their phone hung up on me. Called back and was put on hold again for 8 minutes before being able to put in our order. Slightly irritated....BUT think about it. I was actually willing to wait 23 minutes to order sandwiches. I literally live down the street from Subway, Togos and Jersey Mike's. That's how much I like this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I went back here & they made my sandwich the way I like it without any olive dressing. Much better then my 1st visit.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I went because of the steller reviews and I was a bit disappointed. I had the messy Bronx and The New Yorker. The Bronx was a bit salty and didn't taste really that good as everything tasted muddled but the New Yorker was fine if you get the pickles which are free but if you don't then it doesn't taste any better then your typical sandwich.   The bread to filling ratio is way off as I got the baguette on both and it was way to much bread.   When I went back to get my pickles the rep gave me an annoyed look so customer service is a zero but since he looked like a teenager I can't knock a star for that reason.   The cost for the sandwich didn't seem reasonable for what you expect to receive so I probably only recommend a one time visit.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I went to Bronx for lunch with some coworkers. I didn't check it out before we went, but my coworkers know what they are doing when it comes to food. The first thing I noticed right off the bat was how extensive the menu was. Aside from sandwiches, there are also salads available. Since I am currently on a diet, I opted to be safe and order the grilled chicken sandwich. It was piled high, but orderly, with chicken, Provolone, lettuce, tomato, mayo, and mustard. I am sure I missed something.The sandwich was huge. Bug enough for 2 meals. A great value for $10.00. The staff was friendly, but parking can be a little tricky.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I went to get a sandwich and when the order came out a giant pubic hair was on my fork. I told the cashier and he got me another sandwich as him and the other employees laughed about it. I know for certain this was done on purpose and I will never go back to this place again. I would give zero stars but yelp would not allow it.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I went with my GF and this place exceeded my expectations. My family visited this place recently and recommended it to me. Because I can always go for a good sandwich. It's located in Old Town Tustin in the same parking lot as Tustin Brewery. I ordered the $11.49 Sloppy Bronx (thinly sliced beef, all beef hot link, melted American, Swiss, & pepper jack cheese, crispy fries, coleslaw, yellow mustard and spicy mayo) The Sandwich came out and it was HUGE. Definitely more than enough to split. I tried to conquer it and I failed. I ate half and took the other half home. It was really good, it had a lot of different flavors, that I very much enjoyed. My GF ordered the $10.99 Zesty Lime Chicken Salad (mixed greens, chicken, avocado, pepper jack cheese, roasted peppers, tomatoes, sweet corn, toasted pumpkin seeds served with cilantro-lime dressing) she said it was good but it had a very intense flavor but she would order again in the future. Overall I really liked this place. I will definitely be back in the future, but next time most likely will split one of there GINORMOUS sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I will start this off by saying I feel very conflicted in my rating of this place. I've been here several times and have always gotten the Philly cheese steak sandwich, which is absolutely delicious. The fries are great too. If I were rating on taste only, it'd be five stars.The reason my rating is so low is because my boyfriend and I both got horrible food poisoning the last time we ate here. We both ordered the Philly cheese (we each got two so we could save one for lunch the next day). We both missed work for the next two days, I had to cancel a business trip the day of my flight, and we had to throw out the extra sandwiches we ordered. When we called to let them know we got food poisoning from their food and ask for a refund, whoever answered the phone just took down a phone number and told us the manager would call us back. No one ever called us back.I really loved the food here and would have been able to eventually come again had they at least called us back, but because no one has contacted us to even apologize, I will not be patronizing this business again.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'll be honest, I'm not a huge sandwich person, but Bronx sandwiches are pretty damn good. They have a host of cold and hot sandwiches, all substantial in size. Whenever I drop by, I know I'll be fed for at least two meals, and that's not counting the complimentary chips you get with your check-in!My favorites from Bronx include the Boss and the West Coast Pastrami. Next up, I'll likely try the pastrami reuben with a fried egg and one of the po'boy options, which they always seem to be out of when I drop by. I should also try the loaded fries option - while I've not had them here, they never fail to look delicious, and I'm a sucker for cheesy, meaty fries. I'll also note that Bronx Sandwich is in a great location. Whenever I drop by here, I find my way to Tustin Brewery to refill a growler or two. Tustin Brewery has some great options, and the refreshing beer plus the yummy, hefty sandwich makes for a great casual meal with the buddies at home.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'll start off by saying I've never actually been here in person but we order from Bronx often on doordash and we are never disappointed. I always get the spicy fried chicken sandwich and it is so good, sometimes I'll even add bacon which I mean you can never go wrong with bacon. The bf is a vegetarian and he loves the veggie sandwich. We like to split the spicy Alabama fries with no hot link but we can never finish them so we'll make the leftovers into breakfast burritos the next day. Highly recommend this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm a sucker for a good sandwich and this place did not disappoint! Great selection of hot and cold sandwiches that made it hard to choose. I landed on the classic chicken sandwich which gets served on a pretty delicious baguette. I loved it... the chicken was tender and the melted provolone was the perfect touch. I can't wait to go try another!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm a very picky eater & kid you not this place has one of the best turkey sandwiches I've ever had", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm Brooklyn. Never mind. This is as close as it gets these days. Yummy   Your gonna thank me.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm just not passionate about a sandwich.   I know some people are.   Maybe it's because it's one of those foods where it's so easy to get away with mediocrity.   It's really hard to hide sub-par fish.   Or weak mashed potatoes.   But a lackluster sandwich??- that's just what sandwiches do.   When you decide to get a sandwich it's like you're already resigning yourself to middle-of-the-road mere satisfaction.   You're giving up.   Like that time I wore Crocs to work.   I stopped trying.   But that's not BRONX Sandwich Co.   They definitely haven't given up.What does it take to be an Awesome Sandwich?   Warm, toasty bread/rolls.   Cold cuts with actual flavor and not just a generic processed saltiness and slimy texture.   Fresh fixin's and veggies.   Generous servings.   And maybe a little something extra.   BRONX checks all the boxes.   I ordered The Boss, because I was craving an Italian sort of sub.   This is definitely their version of an Italian sub.   Their mortadella and capocola were to die for.   Even though I didn't order a toasted sub, the bread was so fresh it was warm in my hands when I unwrapped the paper wrap.   The rest of the sandwich was cold and crisp, like it should be- but what a treat to have actual fresh-baked-bread.   The something extra?   The Boss sandwich has a spread of olive tapenade on it.   They seasoned it with just the right amount of Italian dressed.   Nothing was soggy or overwhelming.   Just perfect.   What were the other extra things that made me super happy at this place?   Salt and Vinegar kettle chips.   Finely shredded lettuce.   A pickle spear on the side that tastes like a New York deli.   And they ship-in black and white cookies and chocolate macaroons from New York for dessert.   All of the staff was super friendly and helpful- which come to think of is, was probably the least \"New York\" part of the place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm not usually a sandwich type of person, but this place is definitely worth trying! I really like the area that this place is in, and there's plenty of parking. They have so many options to choose from; I was overwhelmed. I like how they bring the east coast to the west coast with the types of sandwiches that they have!We ordered the Bronx Club and Turkey Salad sandwich with their house chips. Let me just say, they stack these sandwiches thick! You're definitely getting your money's worth here. The Bronx Club was amazing, especially because their turkey is so fresh!! My father got the Turkey Salad sandwich, and he ate all of it in one sitting! I was excited to see that they have house chips that are made fresh to order. They were perfectly crispy and tasted even better knowing that they were made in-house. They also have street fries that I want to try next time!Their sandwiches are huge, so I just wish that they had half sandwiches available. I couldn't finish my own sandwich and was able to take it home. I'll be back to try more sandwiches! :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I'm trying to philly cheese today, so fresh and deliciousToday's first time but I like it!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been coming to this place for the last 2-3 years and their sandwiches are tasty and of food quality. Heir customer service is good too. Keep up the good work!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been here 3 times with different family members, and every sandwich we've had, hot or cold are amazing! They are also huge! Big enough to share for smaller appetites. Also their mixed topping fries are the bomb!! Last time we shared the fries with Hotlinks, cheese, their special sauce and peppers! Not to be missed!! I highly recommend Bronx Sandwich Company to anyone who loves the subs!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been here twice now and both times this place has been great. The sandwiches are a generous size and can definitely be split between too people if your not that hungry. I tried the Bronx club which was a great sandwich for a hot day and my other visit I had the Philly cheese steak which was also super tasty. The customer service here is great, I had the same girl help us both times and she was full of smiles and very friendly.Overall a great place to grab lunch if your in the mood for a sandwich or sub.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been here twice now. The first time I tried the Sloppy Bronx hot sandwich ($10). It comes with beef hot link, fries, coleslaw, cheese, mustard, chipotle sauce, and mayo. The second time I tried the Bronx club cold sandwich ($9). This comes with turkey, bacon, lettuce, tomato, avocado, cheese, and mayo. Between the two the Sloppy Bronx is better, but it's also less healthy which could be why it tasted better ;) It's a order and pickup at the counter type joint. They give you buzzers so you can claim a seat instead of waiting near the pickup area. There always seems to be a wait when I go, ~10-15 min. You have to wait in line to order then wait for your food to be prepared. The food is worth it though. The sandwiches are between $8-$10. If you get the baguette the sandwich is probably around 12 inches. They load the sandwiches up full of meat and ingredients.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been in a few times now. The menu is huge, with so many tempting sandwiches. These sandwiches are fresh and made to order, piled high with quality meats. The bread is also nice and fresh. With the prices being similar to most of the better sandwich shops this place is worth going a little out of the way on my way home. The employees are friendly and usually remember little things I like.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been searching for a local place to buy a shrimp po boy and Bronx Sandwich did not disappoint! The sandwich came with a generous amount of plump jumbo shrimp. I had my po boy with the French baguette. The bread was soft and tasted very fresh. I also had fries and the macaroni salad. The macaroni salad is on the sweet side---definitely heavy on the relish flavor, which I'm not a particular fan of but I still finished it so that should tell you something. The fries were evenly seasoned and not overbearing; they were a little on the oily side but still good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've been to Bronx now a handful of times at all hours and different times of the day and I have to say that all the sandwiches here are consistently tasty and I've never had to wait very long on the food.I am rather surprised though: each time I've come into this location, it hasn't been terribly busy.   I don't understand why.   This place is head and shoulders above any chain sandwich place near me and there are MANY near my apartment.   The food here easily beats out Subway, Togos and Which which, whom are all much closer to my apartment but consistently I find myself taking the drive to Bronx.The only thing that is sort of hit or miss: the chips sometimes aren't the best.   But when they're good, they're REALLY good.My favorites:Sloppy Bronx, Pastrami Ruben on Rye and Shrimp Po Boy.   Can't go wrong with any.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've eaten here twice now. I didn't write a review after my first visit because the sandwich I ordered was so horribly messed up that I didn't even eat it.This time I placed my order online hoping that with exactly what I wanted written down it couldn't possibly be made wrong. But it was. I took my sandwich back with the receipt showing what I had actually ordered and they apologized and remade it very quickly then walked it over to me (I work in the same center). And now I see what all the hype is about, the sandwich was delicious. And their apologies and kindness more than made up for the mis-made sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've never had a bad food experience or unacceptable service at the Tustin location. Tonight was disappointing as the cashier seemed very disinterested in taking my order, looking past me the entire time to watch the college football game behind me. Jersey Mikes is right up the road.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've only been here once but I really enjoyed it and plan to go back. My book club group had their meeting there this past week and we were able to snag some tables outside on their patio, which was great. I ordered the Bronx Club and it was HUGE. I wish I had taken a picture of it. The portion was great for the price and you could definitely split a sandwich with a friend. Also, the French baguette was killer - crispy crust and very flavorful, just amazingly good bread. The sandwich got a little messy but that's only because they're very generous with their fillings so I can't complain too much :)Next time I want to try one of their hot sandwiches. Oh and their fries...", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've order Bronx numerous times through Postmates and everything I have tried has been great, but the Manhattan fries take the cake! Sooo delicious. Portions are large and can be split between two.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've seen this place for the longest on IG.   Curses to IG for making me crave fatty food.   Anyways I made my way here on a Saturday after convincing my siblings to cheat on their diets muahaha.   We came through and ordered their philly cheese steak fries.   The aroma was just simply remarkable.   Marvelous I tells ya....marvelous.   I took my first spoon full and was instantly hooked.   My brother had their pastrami sandwich and he insisted it was one of the best ever, but back to the fries.   Everything was perfect.   The steak, the onions, the cheese, the veggies.   It was the perfect breakfast.   The steak itself was super tender and tasted great.   I thought it would be super salty but to my surprise it wasn't.   It had just the right balance of flavors.Customer service was tops.   I came through, ordered, and within a few minutes my food was ready.   They were courteous and professional the whole time.   Gotta love great service, it keeps you coming back.   Its located in a great complex with plenty of parking.   The decour has an old time type of feel.   I really love the city of Tustin already.   This is just one more reason.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "I've tried the Bronx in Anaheim and let me tell you service wise they are exceptional. I don't know what happened to other people with the bad reviews. However, I've ordered the BBQ Brisket at both locations and I can tell a huge difference in taste. Maybe it's me but the taste in the Anaheim Bronx has a lot more taste this location. The meat is tender but the taste is blend in this location. It's not terrible but I definitely prefer the taste in the Anaheim Bronx.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If I lived in Tustin and could afford it, I might eat here everyday for lunch. They have beefed up their menu since opening; including things like street fries, poboys, and fish n chips. They also have one of those fancy soda machines. I have tried 6 of their sandwiches and so far I still like their pastrami and corned beef sandwich the best (can't think of the name just this minute). They use real cheese on their street fries, not nacho cheese (Yuck!), so that's a plus. I LOVE salty foods, so the pastrami fries were perfect for me. I do wish that the store was in a better location (small and parking sucks) though. Also, sometimes the workers give off this air of \"I don't want to be here\". Which kind of runs the mood a bit for me since I definitely want to be there (to eat). So I'm taking off a star for their lack of consistency in happy/enthusiastic staff. I would do just a half but... You know. I can't.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If I were looking to appeal to my gluttony side...Bronx sandwich would be it. Huge sandwiches with all the meat and grease that you could possibly want.I loved it. Granted, I don't eat like this all the time but if I'm giving myself a cheat day, Bronx Sandwich is a pretty good choice.Sloppy Bronx - as if roast beef weren't enough, they throw on hot links, cheese, chipotle mayo, coleslaw AND fries. WHHAAAATTT??? It was quite tasty...extremely heavy but incredibly tasting. Because it was a large sandwich, I had to eat each component separately...The Manhattan fries - really good size...actually this could easily be on entree on its own. The pastrami was really salty but that's what I expected. The onions were an awesome addition but coleslaw on top would have made it even better. Next time...It was about $20 for the sandwich and the fries. Service is whatever...everyone looks disinterested in you but I don't go anywhere for the service so I don't care.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If the sandwiches weren't so good, I would stop coming here. Customer service is a big fat 0 at this place. Cashier was so rude, not helpful, and unapologetic. It is so sad to see gems like this place overshadowed by uncaring, unenthusiastic employees. Shame!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If you call your order ahead, expect to be put on hold for eternity. If you're there in person, bring a book and a snack, even if there's only one person in line ahead of you. For a sandwich shop, a certain level of speed should be expected.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If you have not discovered their chimichangas yet - YOU'RE MISSING OUT!!! Get it with guacamole and a large agua fresca and you'll be satisfied for the rest the the day. yummy!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "If your looking for a good sandwich you must try this place out! First time trying this spot ! And ammmazzing !! Had the New   Yorker with avocado and macaroni salad ! Fresh bread and a ton of meat ! A little pricey but defiantly worth it, paying for the quality and large portions! This will defiantly be a new favorite spot when im craving a good fresh sand which !", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "In the 2 days I have known about this place, I have been back both days... yes! this place is everything and more! Portions are huge so do know that splitting a meal with someone is very easily done though you may want your own for the deelish leftovers! Both times I've been here the staff has been great! Very friendly, down to earth people.Literally, I have nothing more to say about this place because its one of those places that you need to get your ass there to understand and take in all it has to offer. I'm hooked and have already told a TON of people about it.I will say though, nothing I have eaten here sits heavy what-so-ever.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "In town working and stopped here. Wow, wow and wow. Best sandwich ever, better than a jersey mikes any day.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Incredible sandwiches and service! We took our entire team for sandwiches in between games and the quality was great.   The pastrami was juicy and fresh and the fries and home chips were amazing. We had an issue with one of our sandwiches and the owner personally delivered one to make it right. We will definitely be back. Highly recommend this shop.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Is it possible to have a sandwich with too much meat on it?   Well the Bronx is pushing it to the limit.   Really, there is so much meat on this thing i almost have to unhinged my jaw to eat it.   I can definitely get two meals out of this.   Very tasty with high quality meats.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Is there such a thing as too much meat in a sandwich...yes. I know it's supposed to be high quality deli meat and maybe it's just the amount of sodium....but I always feel crappy after I eat a sandwich from Bronx. That being said...most people I know love their food and the staff is always quite friendly. Service can be a little slow at the noon hour.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It was better when it first opened.I ordered the west coast pastrami thinking it'll be the one filled with a ton of pastrami and not being able to finish. What I got was maybe 5-6 slices of pastrami and 60% chopped lettuce. It was still tasty and filling, but it didn't really satisfy my craving for meat.Service was quick and staff was friendly, overall a nice experience, just don't expect the towering meat for a reasonable price.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It was empty when I walked in and should have known not to order. My wife insisted so I placed our order. I ordered the Philly Cheese Fries, the Sloppy Bronx, and the Baja Chicken. Our order was messed up and they added everything that we did not want in our sandwiches and fries. What's the point of repeating the order and not getting what you wanted. The receipt said the correct order but was completely incorrect when we received our order. My dinner was ruined and I will be adding this to my list of do not eat spots.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It was my cheat day for the week so I thought I'd stop in for a sandwich this was my first and last time . I came in at 13:15 and ordered #8 pastrami sandwich no cheese.It was a take out order because I had to go wait for my son to get out of school. I get my order $14 with a small drink. I get to school park and am looking forward to a great sandwich, no such luck, it had cheese on it and the pastrami had so much fat on it was visually gross and I like pastrami. The sandwich was dripping with grease and as much as I was looking forward to blowing all of my calories for the day in one meal, I just couldn't do it. Too much dressing too much fat on the meat too much cheese, you would need a spoon to eat that sandwich.So maybe they have other sandwiches that are good I will never know I threw the sandwich away and didn't see a point to calling about it because the staff working there was the same staff that wrapped up that greasy mess and charged me $11 for it.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's good but not great. The food is kind of bland. It's missing something. The place it's self is nice and definitely has potential but again the sandwiches are sort of bland or missing sauce maybe.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's great! Wide variety of hot and cold sandwiches to choose from. We will keep coming back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's not often that I am this impressed with the new place I try. I got the boss sandwich and cheese fries with grilled onions on them. I will probably go back to eat here tomorrow. TWO THUMBS THIS PLACE IS AWESOME!!!p.s. I didn't feel bloated or weighed down after eating this, though I was full and happy.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's our first time here and we love it! My boyfriend got the #13 Baja Chicken on sourdough bread and I got the #22 Bronx club on a baguette. The baguette was surprisingly soft and delicious! We also ordered a side of deep fried jalapenos (my favorite!). Very clean establishment and friendly staff. Will be back for sure!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's our first time here. I chose the Sloppy Bronx and my BF having the King of Queens (he likes Pastrami) and they are out of this world. I was glad he was here to share these delicious and very generous size sandwiches. Highly recommend it!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "It's strange to review a sandwich place based on their salads, but here goes! Kudos to you guys for putting together a truly stellar salad. the BIG APPLE is a pretty amazing concoction, and it's always done perfectly:**Huge, tender slices of grilled chicken; crisp slices of green apple; large, fresh candied walnuts (I can't stand it when they are rancid or stale); and just the right amount of goat cheese with a nice balsamic vinaigrette**I've had sandwiches here, and I can't remember which ones. Not to say they aren't stellar as well, but I will keep coming back for the BIG APPLE.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just got a #8 Rueben, was so small only had 3 slices of fatty meat, very disappointed for a 11.00 sandwich. Rye bread was the only thing that was awesome. Even the thousand tastes like mayo, sorry Tommy Pastrami is 100 times better. Will never go there again", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just had the Boss sandwich. I'm a little disappointed because even though this sandwich is big, it lacks taste. It needs some kind of sandwich dressing on it. I wasn't crazy about the fries either. In total we got three sandwiches and three fries. $50. Overpriced in my opinion.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just saw an employee with gloves on making sandwiches walk over and pick up some fries eat them and go back to making sandwiches. That's a health code violation", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just tried Bronx for the first time, and Loved it!!!!!! I tried the club yesterday and the Babe sandwich today.   I Already want to go back tomorrow   lol.   Huge sized sanwiches which feed 2 people.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just tried this place for the very first time and I have to say not so shabby...I tried two different ones pastrami and the Baja chicken definitely recommend both of sandwiches", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just tried this place for the very first time and I have to say not so shabby...I tried two different ones pastrami and the Baja chicken definitely recommend both of sandwiches", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Just went they have hot n cold sandwiches hotdogs shrimp pop boy, fries n breakfast sandwichI got the spicy Alabama with chix sausage, not crazy about the sausage maybe the beef is a better option I got it on the French baguette but I didn't eat the baguette n half the sandwich is more than enough for fatty me. I asked for pickles n I didn't get it I also got the fries and that was goodCheck in n get a free bag of chips n there are a ton of chip varietiesThe cashier is friendly n helpfulI definitely want to try the shrimp po boy, the Philly cheese fries n the breakfast sandwiches on future visits or even the looong hot dogsThe little plaza gets crowded luckily there's parking in the back tooRecommend if they remember my pickles next time id give a higher rating", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Let me say they have excellent bread for their sandwiches. And a great turkey sandwich. So have been there more than a few times now. But I get a Philly Steak plain without peppers or onions just want the beef and cheese.So its written on the ticket no mayo, BUT you know what   they keep putting Mayo on it. They have a Major problem in the communication or I assume   the sandwich grill maker is   unable to read tickets. Something is up since I have never experienced that anywhere west of the Mississippi. So will go back but never for a Philly Steak, that you still have to go to Philly for and no where else !!!!!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Looking for a large East Coast style hoagie?   Check this place out.   It was pretty empty on a Tuesday evening, but reading the reviews I was in the mood for a good old fashioned sandwich.   BRONX did not disappoint.Service was just ok, the cashier didn't seem very pleased to be there, and if you want pickle wedges you have to ask for it.   Also, check in on Yelp and get a free bag of chips.   The food came out quick, I was getting it for take out.   The sandwiches are huge, packed with plenty of meat and dressings.   The Boss is your typical Italian hoagie, very fair priced at $10 and could feed you for 2 meals.   The King of Queens also $10 gives you both Pastrami and Corned Beef with melted Swiss Cheese and some good mustard.   The portions are more than fair and the taste is delicious.   Their cuts of meat are good quality, the sandwiches taste fresh.   Very filling, very satisified.I'm definitely coming back here whenever I crave a good hoagie.   Come check this place out.   The 4 stars out of 5 is just due to the service being ok and even when I asked for pickle, I still didn't get it, they must have forgot.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Looks can be deceiving.   The sandwiches look great here but the taste is just ok. My husband got the roast beef and I got the pastrami and turkey. The bread was great but there wasn't much to the sandwiches.   I've had better tasting sandwiches else where. We got a side of fries and they were cold but got them replaced and they were just ok. We probably won't be going back because it was $25 for two sandwiches and fries and one drink. And the Taste just wasn't anything special....rather boring. Needless to say we were disappointed. :(", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Lots of places can put together a credible cold sandwich.   I love the hot sandwiches done here at Bronx.   I've been working my way down the menu and have rarely been disappointed.Today was the Philly Cheese   (provolone and American) with grilled onions and mushrooms.   I had them hold the peppers today, and their tendency to include mayo on almost everything is a factor in usually skip. Really, mayo has no business on a cheese steak.That said, the hero of their sandwiches are the French baguette rolls they use.   So soft on the inside, crusty on the outside.   Perfect.   I've been disappointed when I tried regular bread, these rolls are just too good to pass up.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love love love LOVEE this place.. The fried chicken sandwich with the fried jalape\u221a\u00c9\u00ac\u00b1os are the bomb.com people!!  Oh and it helps that the manager truly cares and constantly walks around checking the needs of their customers! I came here on a whim but I will defiantly keep coming back!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love their sandwiches and the bread is to die for.   We got our free order of chips for checking in on yelp and they were yummy as well. The sandwiches are big enough to split of you like.   Great beer choices.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place!   We drive all the way from South OC just to eat here.   My personal fave is the New York (Cold Roast Beef & Havarti).   Love the bread and the quality of the deli meats & cheeses are top notch!   It's a big sandwich and can easily be shared.   I hope they open more locations this way!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place! I am a sandwich lover and am always looking for a good place and I've found it. Even better, it's a chain so I can find it in other cities! The pastrami is amazing. I have never been to a place that serves such thick cut pastrami, like the type you see on Food Network or something. Great stuff. The portions are so large as well, they easily last me two meals. And forget the free chips on check in. I'll be back again and again", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place! I've never left hungary or dissatisfied. True mecca for sandwich lovers!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place! So~ much to choose from! Friendly staff and great service! Best sandwich place in Tustin! We had the King of Queens and it was DELISH!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place! Their sandwiches are on another level, and their prices are super fair. Good quality fancy sandwich stop in OC.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place. Great sandwiches. Freshly made. They pack meat on top of meat. Delicious. You cant go wrong.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Love this place. Usually get the Boss. Really good, bread is great too. Always look forward to come here to get a sandwich. I call my order in, and pick up with in 15 min. Keep up the good work.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Management did reach out to me shortly after and made it right which means a lot. I got a refund and offer for another sandwich. Much more pleasant experience hopefully the person I originally dealt with was an anomaly.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Massive amounts of food. My wife found this place on yelp when we were trying to find a sandwich spot by Kohl's to eat for lunch. We each ordered a sandwich when we could have shared one. The amount of food is ridiculous which is awesome. I got be sloppy Bronx and I think my wife got the Bronx club. There were really flavorful and delicious. We both had to take the rest for dinner. Would definitely come back.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Meat keeps on getting less and less. This place used to be so busy, now there's no line and I'm starting to think this is why the portions of meat are the way they are.The price point is right for what you get. If you go to the east coast and eat at some of the famous delis with oversized meat sandwiches you pay about 20 dollars. Raise the price if needed and continue making the delicious sandwiches that you use to make when you first opened.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Mmm, Great sandwiches with many delicious combos. I'm looking forward to my next lunch there.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Mobster sandwich but i swapped out American cheese and mayo for swiss/mustard.Lots of turkey, slightly less pastrami, but it made for a great combo. first visit, I'll definitely be back, lots of great looking choices on the menu!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Most all of the sandwiches I have tried are solid on flavor just a little greasy for my taste. The bread is amazing and I recommend the shrimp po boy!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My boyfriend just moved to the Tustin area so I am always scoping out new places to eat. I love sandwiches so I am always looking for a good place. Decided to try this place out because I always drove by! Ended up having it for dinner two nights in a row because it was so good! The place is nice, clean and inviting. Tina, the lovely lady who takes your order is very nice. The service is really fast which is a huge plus in my book.Especially since I'm always in a hurry. The sandwiches are huge and are packed up high quality meats and cheese, not to mention the bread is delicious. The bread is crunchy and soft at the same time. The fries are amazing both the Manhattan and the Philly Cheese. I've also had the chicken Caesar salad which is also great! We're definitely going to continue coming here and would recommend it to anyone and everyone!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My breakfast sandwich was delicious however I can't say I am happy especially with past reviews matching my own. Before I left to head over to Bronx I looked a reviews with a customer saying breakfast sandwich but forgot avocado. Well I had unfortunately the same issue. My wife got Italian dressing in the side and ranch but yet nothing was in our bag. My bad for not checking. However, I am more upset at how I was treated going back in and asking for what should have been in my order the first time. Felt attitude, there was no apology. This was at 630pm on Friday the 17th of November. Then had the nerve after driving all the way back over to give me a tiny amount of Italian dressing and when I asked for more questioned me. Over ITALIAN DRESSING!! No apology of making me make 2 trips. Hopefully the owner looks at these reviews and can look back and know who was working. The food was bomb but based on that service I won't go back and give my hard earned money to a business who has no respect for its customers time. Very unfortunate this kid is the first impression of this business. 1/7/18- gave this business a second chance and since my return it has been consistently better. Thank you for the improvements.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My favorite is the shrimp poor boy the beef chips super good all the sandwiches are good service is good macaroni salad is good keep up the good work LOL thank you", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My favorite place for a sammy!   Love the corn beef and cole slaw.   Most times I take half home.   The rye bread is always fresh.   Atmosphere is pleasant.   TV and music.   Very clean and staff always pleasant.  Have never had a bad meal.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My favorite sandwich place. My go to's are the Bronx Club and their House Chips. Staff are always very friendly. Overall amazing place!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My fiance and I decided to check this place out today for the first time. So happy we did, we just found a new favorite place to go. The owner was extremely helpful while we ordered our sandwiches.   The sandwiches came and they were absolutely delicious. I ordered the club and he ordered the pastrami sandwich on rye. The sandwiches were packed. The bread was fresh and delicious. Everything about the sandwich tasted fresh and real! This is a REAL sandwich shop. The owner came over to ask us how we liked the sandwiches. I thought that was really nice of him to make sure we were satisfied. This will be the only sandwich shop we come to from now on.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My first time here and I'll definitely be back! I was starving around 4pm in Tustin and this was one of the closest fast casual places in the area. It wasn't prime meal time so there were lots of open tables and no line. I ordered the Philly steak sandwich and the French fries. The sandwhich was served on a chewy baguette with lots of beef, bell peppers, onions, mushrooms, and two types of melted cheese. I skipped the mayo which turned out to be a good decision because the cheeses were more than enough to add creaminess to the sandwich. It came out pipping hot, and delicious. The fries were also amazing - it reminded me of a more delicious version of the In & Out fries ordered well. Every fry was super crispy even when it got cold. It was a ton of food and I took half my sandwich and some fries to go.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My girlfriend and I are always on the look out for new sandwich places.   We read the reviews on Yelp for this place, and had bookmarked it.   We finally made it on a rainy day a week ago.By the pictures we viewed we knew the sandwiches were going to be huge.   We were not disappointed! She had the Sloppy Bronx, which had sliced beef, hot links, three different cheeses (which she loved), cole slaw, French fries (which she thought was a little much), and chipotle mayo (which she said made the sandwich).   I had the King of Queens, which had very THICK cut hot pastrami and corned beef, Swiss cheese and mustard. I have never seen that thick of cut meats on a French roll!   Then, we really did not need it, but we went a little overboard, and had the Street Fries (which could have been a meal in itself).   We decided on the Alabama Fries, which had the hot links, jack cheese, peppers and jalapenos, on top of fries with spicy mayo!   I had most of them, as they were similar to the sandwich she had.   There were sooo many other choices on there we wanted to try, and we will be back to try!   What a great find!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My husband and I tried this place out on date night. We loved it so much that we went back for lunch the next day with our son. He wanted a plain old hot dog and they made it happen. The portion size is huge and the price is more than reasonable. Great food, great service! We will be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My new favorite sandwich joint!Being from the east coast, one of the things I miss is a good deli. This place is legit. Heaps of meat, fresh toasted bread, and quality condiments. A true taste of home without the crappy east coast weather.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My new favorite sandwich place!   This is a really big sandwich.   I cut it in half and ate it for 2 meals.   This was my first visit and I ordered the Mob Boss.   The bread roll has a wonderful crisp crust.   The meat is thinly sliced, but they pile it on thick!   The slaw and dressing were delicious.   Excellent.   I will definitely be coming back here again.   I hope there are more locations soon.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My review is for this location.   Food is always good but everytime I come here my order gets forgotten. A couple women who came in after I had already ordered and was now waiting for my to-go cold roast beef with toasted rye, got their food before me. It was explained to me hot orders come out sooner. Even though i ordered close to possibly 10 minutes sooner. I had to go up to the counter to remind them.   There were only 4 other people when I arrived who were already eating. Not sure I'll return at this point since it's always a frustrating experience.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My sandwich was fat af. Such a nice mellow place, employees are really nice too. Great beers.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "My wife and I got the sloppy bronx and philly cheese fries and we loved them! The sandwich was huge and the sandwich came with fries in it. Everything was fresh and delicious. Great service too. I will be back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "New York and All American great sandwiches. Awesome service with Great food good combination!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "New York prices, but worth every penny. We just did take out for a Philly Cheesesteak and a Pastrami Reuben with Sauerkraut on Marble Rye. This is my go to for East Coast deli sandwiches. Yum yum! Now if they only had bagels.....", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Nice little shop that serves some good food. Stopped in for lunch and it wasn't busy (early lunch). I had the Bronx dip which was great ... The bread had excellent crunch while being soft inside. It held up well to the au jus and moist meat.   My husband tried the corned beef Reuben and said that the bread was really, really dry so it ruined the sandwich for him. Good amount of meat and coleslaw on the sandwich but he couldn't get past how dry the bread was. Maybe if it had been toasted then slathered with the dressing it would have been better? Overall a good experience and I look forward to trying their street fries one day.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Not bad, but not something I remember favorably.The sandwich was clean and tasty, but not really memorable for me.I ordered their pastrami sandwich but it left me wishing I had drove to Capriotti's or Fat Sal's for their Pastrami sandwhich.Most people will like this place, for me it's a skip, but only because of my taste buds.The place is clean and staff is professional.   If your near I would still say give it a shot, as you may like the place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Not busy but took way too long to get my order in and my to-go sandwich. The guys seem to be having fun though. Got home (2minutes)and bread soaked through. Not much meat for the $11+ sandwich. Not a fan.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Not good. I assume if Jack in the Box made a pastrami sandwich, it would taste like the one I got here.- replying to Bronx here.I'm good. The bread was greasy, and the meat was inferior (so I don't expect much in improvement). Also, your beer selection is terrible, so I just skipped   getting a drink. Let's see... the place also smelled like bleach. Pretty nasty. Felt like I was in a dive bar. Lastly, the sandwiches are overpriced.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "NY style Deli with a   SoCal twist! Great meats selection (I got the Pastrami, how can you NOT get that?) but you can pick and chose from a ton of other choices! Not your familiar brands of meats or chips, so for a second you feel like you stepped a little closer to NY. But then you see yourself in a nice large, light, high vaulted ceilings restaurant (my idea of NY Deli is a dark, small place for whatever reason!) and you remember you are still at home! Great spot for lunch or for dinner since they have TVs and serve beer (my idea of dinner involves TVs and beer for whatever reason!). Parking might be a b word here, but it's worth driving in circles till you find a parking spot!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Occasionally I bring food back from this location so the family stops kvetching about what to eat. The prices could be a dollar or two cheaper but we are always happy with the food. Some goy at my work recommended this place and it has become one of my favorite spots to eat or get something to go from. I hope one day they have picture menus.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Oh Man, where do I start? If you are into shitty Subway and Quizno's subs and care more about how cheap your sandwich is per inch then stay away. If you want amazing meats and cheeses mated with some of the greatest bread ever baked than get your ass down to Bronx S.T.A.T.Seriously, I cant stop eating the Ruben on a roll with sauerkraut. And they fly real-deal NY black and white cookies in weekly. Even the frickin' veggie sandwiches here are tasty enough to make you wanna slap your vegan mama right in the mouth. Or punch a hipster.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Oh my goodness. Where do I ever start?! If you haven't been here yet, do your mouth a favor and get in here! The sandwiches are fire. Today I had the Baja chicken and made it spicy, unbelievable. It has all my favorite things!   A beautiful bread roll, grilled chicken, melty cheese, onions, peppers and to kick it up a notch they added spicy mayo and jalape\u221a\u00c9\u00ac\u00b1os! The spicy Alabama is also a killer! If you want a delicious, packed so full-the stuff falls out, drippy hot sandwich stop yelping start ordering!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ok the 4 stars are for the food as it is damn good, and the portions will make you regret it if you have to go back to work. I love the Shrimp Po' Boy as it is quite the sandwich, and I love that they make it fresh. On the other hand the service here is lacking the worst way. It is very bland and if you care how you are treated be prepared to be looked at with blank stares.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Omg I'm in love ...the philly cheese steak fries are a meal on their own. Lots of cheese and peppers ...and the sandwiches awesome!!!! Will definitely come back and try something else, I'm sure I won't be disappointed", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "OMG, this place is unbelievable! I had to come back again. I ordered the brisket sandwich and it was so big. I will definitely come back with the kids. The place was clean and staff very helpful. Its been hard to find a place that serves big sandwiches like the east coast and i finally found one. Love the Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Omg! I am more than impressed with the sandwich I got from here. It lasted for 2 meals and the price is definitely worth it to me. Will be going back for sure!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "OMG!! EAT HERE NOW!!I've had the best sandwich of my life at this establishment!! I'm a foodie so when I say that this place is a must try, I mean you need to stop here and eat NOW, lol! I promise y'all you won't be disappointed. I had the sloppy Bronx with fries and man was it huge and delicious!! I was having the worse day until we stopped in here for lunch. I know I may sound like I'm over exaggerating but that's how great it was. Next time I'm in town we'll be stopping here again! Thanks for the food and gray customer service. I'll recommend y'all to everyone! :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Omg. Their sandwiches are so rich and most an all around delicious. I tried the east coast pastrami. The pastrami was cut think and smothered with mustard. Just how I like it. I got I in a roll which was soft and moist. I told a friend about it and he agreed with me. One of the best pastrami sandwiches we've both have had in a long time. Now I have to try everything else on the menu", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "One sandwich feeds two! Had the #19 on a French baguette. It was delicious and happy that I get to eat the other half later.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Online ordering was quick and easyOrdered the babe. Can't complain it was quite delicious. See photo Definitely I recommend anyone order online as the lunch line is ridiculously long and u get to skip the line if u order onlineI will be back. No complaints this time", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Only three words need be spoken when ordering .....'the Mobster' please.   Lean turkey, pastrami, American cheese, mayo, on a buttery hoagie bun.  Simplistically fantastical and magically delicious.   Although it is a hearty calorie-packed sandwich, I was left wanting just one more bite.  I spent five minutes picking pieces out of my teeth, mashed it all into a Mobster ball and enjoyed the delectable last morsel.   Trust me when I say you'll put out a hit on anyone dumb enough to steal your MOBSTER.   It's that good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Order the Boss sandwich on French sub roll. It wasnt as great as the pictures you see. The bread was super hard & it was difficult to eat.They put olive slices which is all you taste. I was very disappointed because I asked for pepperchinis on the side & I got nothing.Gross with olives on a sandwich. Any kind of sandwiches.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ordered Grubhub pickup. My order was not ready. NBD. I don't have time to wait. The reason for the review is because the supervisor? Some dude in charge is a big butthole and bullying the cashier. Please don't bully that kid. I don't care who you are. Bullying is not ok.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ordered sandwiches from here on a busy day, one that felt a good sandwich type of day..We got the Bronx Club and Turkey sandwiches, they were both good, nothing mind blowing, I'd say a solid 6/10 sandwich. In a pinch, I'd much rather come here than somewhere like subway", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ordered take out here several times now in the evening for dinner. The Philly cheesesteak fries are ridiculous awesome as is everything on the menu.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Ordered the spicy chicken sandwich and it was HOT! I love spicy food, but this was another level. Can't complain though. The service wasn't great. Overall, the food was good, but definitely a bit up in price.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Our work go to lunch spot. I think one of the longest surviving food spots at this location. Their sandwiches, though a bit pricey, well worth it.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Overpriced, inconsistent, and too often disappointing. At first Bronx was looking like it would replace Jersey Mikes as my favorite sandwich chain, but they let me down too many times. The first time I ordered from Bronx the sandwich was like those in the pictures... However, the last couple of times we picked up a sandwich the service and food has been immensely disappointing... Food we pay a premium for - $10 should guarantee a Giant sandwich. Broz earned themselves my first Three Strike review:- Time before last they didn't wrap the sandwich properly and it practically fell apart and they forgot the pickles. Plus I noticed they out less meat!- Last time, they didn't wrap the pickles and the juice got all over my girlfriend and my car. Not as much meat as the first time... Bait and Switch?- This time they really skimped on the meat (supposedly they weigh the meat) and tried to make it look thick by stuffing the middle.... A truly pathetic sandwich. I say Rip Off! The manager/owner was even there watching this tea sandwich being made...When you're hungry and looking forward to a nice big sandwich and you end up with bread with a tiny bit of meat and some avocado smeared across, you're going to be disappointed... Too bad. Three strikes. Better consistent affordable sandwiches await those who avoid Bronx.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Owner never reached out besides comment. Coworker went for lunch again and said they gave him soggy bread, left out jalape\u221a\u00c9\u00ac\u00b1os when he asked for them specifically, and the bread was rye instead of sourdough as he asked. Avoid this place", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Pastrami Ruben... Sooooooo delicious! Little pricey but worth it.Nicely wrap. Definitely will come again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Peep this pastrami sandwich from @bronxsandwichco. I messed up on getting French bread here, but the pastrami itself is excellent.I ordered the meal from @grubhub, so I can't comment on service being good or not. Delivery was under 40 minutes, so it was quicker than expected.I also ordered philly cheese steak fries just cause. And yes, it was all for myself. \u221a\u00a2\u00ac\u00c4\u00ac\u00e7\u221a\u00a2\u00ac\u00c4\u00ac\u00e7 5/5 on service. Fast casual like dine in experience like most airports. Quick and easy. 4/5   on food. Pastrami meat was good, but the bread was hard to chew. Philly cheese steak fries were good, but the fries were too soggy for me.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Philly Cheesesteak is wonderful. I'm a fan. Definitely would recommend coming here.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Place smelled like cleaning chemicals.   Bathroom had urine all over the floor.   $12 for a brisket sandwich with hardly any meat on hard ass bread.   Wont be back. To whoever replies with the generic \"give us another chance\" save the energy and put it into running your business.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Portions were huge when they first opened 7 months ago. Today, I got a sad looking sandwich with barely enough meat for the same price of $10. I guess this is what happens when you open new locations and crunch the numbers. And where's the pickle?", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Pretty good food! Unfortunately the service was not very good and it's pretty expensive compared to other sandwich places. $3 for a side of salami!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "pretty good sandwich.   had the Baja chicken spicy and it was a little tame for me but not sure they added the jalapenos.   the French roll was fresh and very good.   a little pricey for a sandy but the portions are pretty big.   will be back to try it again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Pretty good!   Not sure I'll be rushing back because it doesn't exceed the tastiness of my other favorite sandwich shops.   Maybe if I were a bigger fan of pastrami it would do the trick for me but I'm more of a cold sandwich girl.   Seemed like there was a little too much going on personally but tasty nonetheless.Staff was very friendly and welcoming.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Pretty good. I had the caprese sandwich. Nice pesto flavor. Big slices of mozzarella and tomatoes. Crunch cucumber and lettuce. French roll was great!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Pricier sandwiches than most places but then again the quality is better than most places.I ordered an East Coast Pastrami sandwich from the friendly-perky (sincere and not fakey) young woman at the counter. They had a selection of cookies in plastic wrap on the counter and I grabbed a chocolate chip. I was given a pager and stopped at the freestyle soda machine before sitting at one of the many tables inside.The wait was less than five minutes.This was a basic, no frills pastrami, piled high between two slices of rye with mustard as the only condiment. The thick slices of pastrami were velvety tender and the flavor was robust - perfectly done so that you closed your eyes with pleasure as you savored it. The rye was very fresh and perhaps a bit too delicate to handle the vast amount of meat. In true deli fashion, a long slice of pickle was on the plate to enjoy after the sandwich. I highly recommend the choice of east coast pastrami.The cookie was excellent too. Huge chocolate chips filled the thick, fresh cookie. It was a nice way to finish the meal.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Probably more like a 3 1/2 star rating. Located where Creations Pizza was. I told Creations they would be closed in a year or so for shit food and I was right. Bronx makes their sandwiches like delis in N.Y. Everything I've ordered has been tasty. The prices are a bit higher than other sandwich shops but they use quality products so it's worth it. Being a big eater, I wish the sandwiches were bigger. My only problem is the pickles. They taste like dill pickles, not kosher deli style like in N.Y.If there are games on T.V. parking can suck. Customers at T.B.C. will fill the lot.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Probably one of the best sandwiches in Tustin... and I have been conducting a survey on Tustin Sandwiches for the past 20 years!!!... the Fries are dam good too!!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "PSA: ALL THE COLD SANDWICHES TASTE THE SAMESeriously for the price this place is not good. At all. Your paying $10+ on all sandwiches for the most basic b**ch sandwiches ever. I don't even think they put salt n pepper on em. They have NO FLAVOR. The bread is great if you don't want your sandwich to stay together and or you hate your mouth. You do get some added value from the weeks supply of lettuce they pack into the sandwich.   They clearly get the lettuce in bulk from Costco and gotta offload it on your wich. You got places like Claro's down the street and can get a better sandwich for less money. You even got chains on the same street that have a better sandwich at a better price and also have ACTUAL FLAVOR.Staff and service is really good. Great people working but sadly handling not so great sandwiches.This review is after trying 5 or 6 of the cold sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Read the reviews, stopped by....best decision of the day for sure. Shrimp Po'Boy, awesome, wife is a self described sandwich snob, she loved her Philly sandwich, fresh bread and \"cheesy goodness\" definitely will be back", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Really appreciated how quickly the owner responded when I didn't have the best experience. They offered toaccommodate my next visit so I figured I'd give it another try. Definitely stepped up their game and everyone working was very understanding and nice. Would probably come again!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Really friendly staff! I order online all the time and it's super easy. My order is always ready on time and fresh. I've been trying to get some different each time and everything has been up to par!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Really glad I finally came across this meaty sandwich palace. There's was basically no wait on a weeknight, but some of the parking near the restaurant was about 30min.Pros:++ Brisket Sandwich was the sandwich of the day and it was stuffed with meat, cheese and onion. The brisket was juicy! Definitely a good sized portion to get you full. I'd say at least twice the meat compared to a Subway or Togo's.++ Philly Cheese Steak Fries were pretty amazing also. Imagine a philly cheese steak, but instead of bread they use thin, crisp fries. Ohyeaaa.+ Free chips with check in and they have a pretty good selection including voodoo chips from new orleans.+ They had horseradish and spicy mustard available which made the sandwiches that much better.Cons:+/- The container the fries were in was a little scalding when I first got it, so watch out.- The maui onion chips they had were nothing like the Hawaiin kettle chips which let me down just a little. Tasted like plain chips to me.Overall, this is a great sandwich place for around ~$9 where you definitely get a meal worth of protein.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Really good pastrami, corned beef and brisket sandwiches.   The prices may seem a bit high but once you see the large portions you understand why.   I like the sourdough and rye bread they use, but I'm not fond of their baguette.   It's too dense and hard so when you take a bite, all the filling slides out.   This is where the real French or Vietnamese style baguette is far superior because it's lightly crunchy on the outside but soft and airy on the inside, thus holding the fillings together much better.   I think a slightly softer roll would work better instead of their current baguette.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Really good sandwiches! Had one on Monday, took half to hubby to share. Sandwiches are large, packed with meats. Hubby loved it so much, he said let's go grab a sandwich on Wednesday for dinner. We did, and he took 1/2 to work on Thursday. Looking to try more of their selections. Also want to try their baked goods, which looked yummy!We will definitely be back on a regular basis.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Riding my bike through the new neighborhood, Old Town Tustin, I suddenly felt the need to eat lunch, and a good sandwich at that. Being a fan of Bay Cities Italian Deli, in Santa Monica, and also down the street from my last job, I needed something worth it. Enter Bronx Sandwich Company. I was pleasantly surprised with this new-to-me sandwich shop. When I walked in I was the only customer, but their massive chip and glass bottled soda inventory kept me intrigued. My choice was the The New York, which is a roast beef, havarti, lettuce, tomato, mayo, (hold the onions and add spicy brown mustard please) sandwich. I chose the french baguette. This was such a great sandwich, I can't wait to go back and get it again. One of the biggest factors for me, personally, is the bread. They get a 3.5/5 from me. The bread wasn't amazing, but it wasn't stale. It had a nice tenderness that was not too chewy. Better than Subway or Quizno's i.e., but not nearly close to Bay Cities Italian Deli (and well, is anything, really?). Pros: no linegreat chip and bottled soda/root beer/actual beer collectionpretty decent breadlots of hot AND cold sandwich combinationsfancy soda machine I didn't use, but it looked so cool I almost got one just to try itsuper friendly servicecons: kinda expensive for a (what I think is a chain?) sandwich at $11. That's bay cities prices, yo.overall, I'm a fan. I'll happily bike or drive back here for another sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sad to say that we live nearby and didn't come here sooner. So far we've tried the spicy chicken, the bronx club (?), and the shrimp po boy, all have been excellent! The sandwiches are definitely on the generous side, so we get 1 to share. Don't forget to check-in on yelp for free chips! Staff here is friendly, they make your order quickly, I can't really think of any down sides.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Salad sammy. Great options of creative sammiches. In house chips are solid. Not the cheapest, but it's far superior to Jared's subs.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwich I got today I didn't eat, but the sandwich I got yesterday was mediocre, lacking flavor and not a great price, but I decided to try a hot sandwich today and give them another shot. My major complaint is today I got a Ruben and there was avacado and small pieces of cheddar cheese all over it(neither are on a Ruben)which leads me to believe the workstations are not cleaned regularly and the knives are not either, because where it was cut there was avacado all over that too. Honestly it's not the worst sandwich I've had but the lack of cleanliness and after trying it twice I won't eat here again.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwich quality was good, except for the fact the I ordered Rye bread and didn't realize it, until I had already taken a couple bites. I only ate half of my sandwich and took the other half to go. I informed the girl at the counter about the incorrect order and she simply stated, \"Sorry about that.\" Nothing offered to fix the situation. Poor customer service.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwich was pretty quality. But the wait was ridiculous'. Ordered At 12:06 pm and waited while the 4 people behind me in line received their food. 17 minutes later I got my order. Long time to wait for a lunch meal!Not sure I will be back unless I have a lot of time", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwich was really good. The French baguette was tender on the inside and crunchy on the outside. Ordered the brisket and while it was tender and quality it did lack seasoning (salt). Don't let that stop you though because it really was good. We also ordered cheese fries. Nothing amazing about them and would compare to a Weinerschnitzel fry. Place was clean, there's a TV with college football and a soda machine that allows you to create your own flavors. Good stuff. Will be going back and trying the BOSS cold sandwich. That looked amazing.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwiches are pretty good, but a little sloppy and too much mayo/mustard...and $18 is a bit pricey for a meal at a sandwich shop", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "sandwiches are super delicious....just rude workers...like they dont care about customers...i ordered the simply fries which says on the menu crisp seasoned fries...yet no seasonings came on the fries....i asked the guy behind the counter for seasoning and he said oh we dont season our fries....i say well your menu says you do...lol he says oh theres salt n pepper packets by the napkins and walks away...hey bronx if u aint gonna season the damn fries then change your menu ....", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwiches ate yummy and huge.   Nice soft bread. A little pricy.   But you can split the sandwich or save for lunch", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sandwiches that we got were the Spicy Fried Chicken and The Philly Cheese. We also got one fry, one bag of chips, and a small drink. Total for these five items $28. So although it was priced high, the food seemed worth it to me. They give you big portions! I would definitely eat the Spicy Fried Chicken sandwich again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Saw this business by chance as I was looking for a coffee shop nearby. The plaza that it's located in is quiet, but nicely illuminated at night and BRONX stood out to me in the corner. Parking is a little tight if the area is busy. Very spacious dining quarters; seating is spread out and plenty of patio space as well. They have a long list of sandwiches! Most of which are named as New York tributes: The Babe, The Yankee, The Bronx Club, etc. After speaking to the staff about menu recommendations (I really wanted to try everything after reading the ingredient list) I settled on the #8 (Pastrami Reuben w/slaw on marble rye). I normally love kraut, but they pointed out the sweet element of adding slaw instead. I was not disappointed when served a thick pastrami sandwich that was neatly stacked--definitely a reminder of those East Coast deli delights. So big, I boxed the other half for lunch the next day. Thank you Bronx Sandwich Co!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "See my previous review. Service was initially a bit slow, but has been outstanding ever since. Fast, friendly, and always willing to help. Bronx absolutely deserves 5 stars.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Seriously the best sandwiches!! I love a sandwich on a french baguette, they give you a ton of meat and the sandwich is HUGE. Tastes fresh every time. Great customer service and staff was friendly. This is my only sandwich spot now.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Service was friendly and the restaurant was nice and clean. Don't forget to check into Yelp to get your free chips! I was told that the King of Queens was one of their most popular hot sandwiches so I went and got that for both me and the hubby. Hubby definitely enjoyed it and said it was his \"type of sandwich\". Full of meat and large. I thought it was pretty decent as well. Would go back if I'm in the area again.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Service was great and sandwich was delicious. $10 seems steep for a sandwich but there's a pretty good chance you won't be able to finish it so really, it's like $10 for two meals. High-quality ingredients, quick service and a huge selection makes this place a \"perfect 5\".", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Shrimp po' boy sandwich. All you need in life. As one of my friends said -- it's the best po' boy you can get outside of New Orleans. Boom.", 
+    LexiconAssessment: "neutral", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "SIMPLY DELICIOUS.Tried the spicy chicken sandwich and was very pleased. They have tons of options I already know what I want to order upon my return. The side order of fries was pretty small, I wish I would have tried some of their specialty fries with all the fun toppings. The girl at the counter had a stank attitude, but I really didn't care considering the food was delicious.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So first off the cashier was amazing and very nice. Place was clean and they play good music. Remembering my throw backs. Let's take a step back first. If you're in the mood for a sandwich of almost any type, hot or cold, then I'd recommend this place. I found them on Instagram and was not disappointed. Rode 40 minutes to give it a try with a buddy. Now yes the prices are pretty pricey but I figured I'd be spending some extra money in The Gorgeous Tustin Ca.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So I couldn't wait long before I returned. This time I tried their Philly Cheese Fries and it was very comforting, a bit heavy to eat all on my own. Luckily I shared my fries and half of The Hero sandwich. The Hero sandwich was good but because I ate so much of the Philly cheese fries, I wasn't able to enjoy the sandwich. I was way to stuffed after eating half of the fries. Next time I think splitting fries three ways would have been better. I took off a star because my fianc\u221a\u00c9\u00ac\u00a9 found a small fly in his macaroni salad. Fortunately, I hate macaroni salad so I didn't touch mine, but totally gross!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So I decided to come try this place again full well knowing that the soda would be overpriced like $3 a cup... I focus on the sandwich and fries. I got a turkey club and fries. It was sodium overload and had wayyyyy too much salt on everything and the turkey sandwich had too much shredded lettuce on it. My total for JUST me.. For a sandwich drink and fries was $16.75   I can go to Arby's up the street and get a whole turkey sandwich combo meal for less than $9, and I also don't have to put up with the immature \"minority workstaff\" that swears like every other word in normal conversation and talks loud enough that anyone can hear them in the dining area. Thought I'd give this place another chance.. But I was wrong. It STILL sucks and is overrated and overpriced. I'm never coming back here.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So I went here again because I wanted to give them another chance.   Long story short it was a bad food experience that I had to throw half the sandwich away.   I had the king of queens on a baguette (hot pastrami and corned beef with swiss and spicy mustard) and my friend had a cold sandwich which he said was ok but no better then any other sandwich place, just expensive.1.   Overly salty.   I had to go to the soda fountain 3 times, 2 times soda, and the final visit water to eat half the sandwich.   I opened the sandwich to see why it was so salty and saw that the spicy mustard was only smeared on the last bit of the baguette which I took a bite and it tasted better but since they only smeared literally the tip of the sandwich the I never got to experience it until right before I threw the sandwich away.2. Since both meat tasted extremely salty when you eat the sandwich you can't tell the meat apart so I could have any meat and not known what I was eating.3. Thin sandwich.   I added a picture with this post.   If you see the meat and compare it to my pickle, you'll see the size.   Also, my pickle is half the size of normal.   It's as thick as a thick pencil, so really thin.   If you see my pickle you'll see it as quarter slice, not a half slice.   The sandwich is expensive for what you receive.4.   Went there around 2.   Got my sandwich at around 2:30.   Wait time was crazy and there was only 3 people in front of me but there was 5 people behind the bar.   Not sure if everyone was there to make a sandwich but it felt very slow.   I was the last person in line as well.   I don't understand what took so long but won't take a star off for that as if it had been a great sandwich I would have waited anyways.   No one said sorry for the wait so that was really disappointing.This experience was worse than my previous visit and really not worth it.   I won't be coming back here.   I gave them two stars because they had espn on the tv.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So I went into the Bronx after a friend recommended it to me and I have to say they do not disappoint here! I ordered the Shrimp Po'Boy as I'm a southern native and it's hard to find anything that reminds me of Home. We also ordered the Hot Link Sandwich. Chips and Drinks are sold separate. So they don't do any combo meal with a sandwich, chips and a drink. The Po'boy is $12.99 by itself. A bit pricey but it's got huge shrimp and wonderful flavor. They give you buffalo sauce on the side to drizzle on the sandwich. It's good and picks up the heat factor but take it from a true Cajun, we don't put buffalo sauce on our po'boys lol that's what Tabasco is for. But it doesn't matter the buffalo sauce actually was really good on the sandwich. I loved it and enjoyed every bite. The Hot link sandwich with peppers and onions was also great but we thought like every other hot link sandwich it's a sandwich with a whole hot link weren't expecting pieces of hot link which is how this sandwich comes. All in all 2 sandwiches, 1 bag of chips, and 2   drinks came out to $30 and change. A little steep but I'd say it's worth it. I will be back again soon!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So if you've read a few of my reviews you know that I hate sandwiches and if you haven't read any of my reviews then know I hate sandwiches. I say that because I loved the pastrami sandwich here. When I say I loved it, that might be an understatement. I didn't realize this place is where my beloved Casa Gamino used to be. I loved that place so some good vibes must have been left behind to make this place so awesome. First of all, don't be overwhelmed when you walk in and look at the board. There are a good amount of options and if you're starving you'll think there are too many. I finally settled on a traditional pastrami sandwich. Just meat, cheese, and mustard. YUM! The pastrami was juicy and spicy with this amazing pepper crust. My mouth is watering as I write this because that sandwich was so good. I ordered a side of fries and they were delicious. I wish I had ordered my own side and not shared with my bf. I mean it was probably a good decision for my waistline but not a good idea for my tastebuds. As I finish this review and think about the goodness that was this sandwich I realize it's been too long since I've been here. Sooooo...peace out time to get on that.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So Much Better!!! We returned here to try their sandwiches once again as invited back by the manager from our not so great experience the first time. My husband ordered the roast beef and I had the turkey! Our sandwiches were so wonderful and tasty!   The fries were so much butter and fresh! Our whole experience was such an improvement! We will definitely come back! Great new sandwich place! Can't wait to go back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "So this morning we woke up with a killer hankering for a delicious sandwich. So of course, we took to Yelp in search for the best option. Being from NorCal and having a billion tasty sandwich options I was nervous about what I'd find. Came in to Bronx today and about died. Hubs got the West Coast Pastrami on a baguette and I got the Bronx Club on wheat. Soft bread, quality meat, and this may not be important to anyone else, but seasoned tomatoes. Uggh! So good. And just fries, light and crispy. Super clean and awesome staff! Thanks Tina for making us feel welcomed!! We will be finding ourselves here again soon, I'm so sure! ;)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Solid deli sammies in O.C.They have big sandwiches and a lot of variety.   The bread is fresh and they use Dietz and Watson meats and cheeses for some good quality.For me, a sandwich is enough for a big lunch.   They also have fries with pastrami and some other options.   The portions are so huge that you have to share or take home.Service is pretty good too.   You have to ask for pickles on the side, but they are happy to provide them if you ask.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Solid sandwiches.Sloppy Bronx: 5 starsThe Boss: 3 starsAt ~$9-10 per sandwich, they seem expensive, but only half makes me as full as eating a footlong at Subway..The Sloppy Bronx was so good. The baguette was fresh, chewy and had a nice crust on the outside. The best part was the combination of crispy hotlink, which provided a smoky dimension to the sandwich, while the coleslaw added a cool and creamy flavor.The Boss is an Italian cold cut sandwich. Pretty average. Claro's down the street does this sandwich way better at a slightly cheaper price.One weird thing.. They place the pickle and peperoncini on the plates with their bare hands. I'm sure they clean their hands, but this guy used the same hands to grab plates, season the fries, grab tongs, and grab the french fry basket. Wouldn't it make sense to use a small pair of tongs for the pickles and peperoncini? I'm just picturing my food touching all the aforementioned items.. This didn't bother me too much as I still scarfed down the delicious sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Something has changed. Any review from earlier this year may not represent today. I've been here quite a bit since the day they opened. Now, not only does it seem the entire staff is different, prices ****, meat quantity per sandwich is less. The ingredients I think are the same, but when trading down meat to stack more lettuce, the balance of flavor just isn't the same.A move from extraordinary to ordinary means it's not worth driving the extra miles anymore.   Too bad, could have had 50 purchases from me this year, now maybe 4.UPDATE:Prices are the same as opening day.   However, quantity was recently inconsistent, something that the owner(s) say they are trying to stabilize as staff fluxes.   That being said, perhaps the menu should include \"Regular\" and \"Thick\" pricing to accommodate all tastes and budgets.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sooooo good ! Will definitely come back !!! A must try if you're a local . The little plaza's architecture made my daughter think it was a castle ! Such a cute little discovery ... can't wait to try EVERYTHING on the menu", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Still digging these sandwiches! I do wish they sold half-sandwiches, only because I always order the club.. which has avocado..which browns when I cant finish... which isn't very good when it browns.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Still love the food...still hate the service. The thing is--I can't tell if their employees are all extremely new to cashiering & having basic customer service skills or if they honestly just don't care. Whatever it is, management should address the issue asap, because their employees are making this place look terrible. With food of such good quality... the people serving it should probably at least act like they know what they're doing. How the food is severed is never consistent. The first time I went, we got a pickle and a side of (old looking) pasta salad/potato salad. The next time, no pickle/no side. 3rd visit, they told us we had to request a pickle and the sandwich came with bland coleslaw. They people behind the counter always look slightly confused, even more so when it comes time to serve the food. The last time I was there, my sandwich was so completely over saturated with mustard I could barely eat it. I will continue to frequent Bronx, however I'll probably only be grabbing mustard-free sandwiches to go in the future.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Stopped by to try to the pastrami sandwich and it was incredible!!! The place was busy but i didn't wait to long for my food. The menu is a bit pricey but you get a lot of food with the order. Best pastrami sandwich I've ever had, and the sauerkraut on the sandwich made it all the better. Wish i lived closer to here otherwise I'd be here a lot more often!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Subs were good but the cashier sucked, I went there 6 pm on Thursday December 29th. He wasn't attentive and he was on his phone. I didn't understand why he couldn't wait to use his phone after he served us. He also was rushing us and I looked behind and there were no customers waiting in line. I just hate service like that.   But we got the hot mess and the New York which were pretty good and service was quick! I'll come back but I hope I don't see him.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Sunday afternoon and we were in the search for a stuffed and layered fatty sandwich! I had been here a few times years ago so we decided to swing by and order a few sandwiches.They were still stuffed full of meat, layered with veggies, and on such fresh bread, as I remembered. We also took a chance and ordered some fries... the drive home was torcher as the smell filled my car and I could not wait to dig into them! They were amazing too! Give this place a try and be sure to ask for pickles!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Terrible customer service. I ordered a sandwich to go no cheese, add pepperchinis. When I got home realized there was tons of cheese and of course no pepperchinis. Tried to eat it but just couldn't the cheese was too overpowering. Did I mention this sandwich was almost $12?? So I called and told them my situation. Then was put on hold for 15 minutes gave up called back and was told there was a line at the store and I was still on hold because apparently past customers aren't nearly as important. I understand mistakes happen but make it right it doesn't take much. I tried to get the name of the person I was speaking to but he hung up on me before I could ask. I think I got a refund? I'm not sure it was a very confusing and uncomfortable conversation. Needless to say I will not be coming back.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Thank you Bronx Sandwich for having a fantastic selection on your menu. Let me strat off with saying forget about those large sandwich chains like Subway, Togo's, Firehouse, etc. YOU HAVE TO GIVE THEM A TRY; TRUST ME YOULL MAKE THEM YOUR FIRST ON YOUR SANDWICH LIST!   I choose Bronx to cater our company (Austin Hardwoods) employee luncheon this month(which was today). We got two medium boxes giving a total of 60 half sandwiches. I choose to have The Boss, Bronx Club, and The New Yorker all on a french baguette. All of the employees finally enjoyed a great sandwich! We will be getting in touch with them soon.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Thank you for making up for a couple of bad visits.... I returned as I said I would and to my surprise everything was great ! The order was made correctly and it was very good ! Had the corn beef reuben with dressing on the side, hot fries and fresh ice tea !!!Good on you !!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Thanks for your great comments, Emei! We're glad you approve! Look forward to seeing you again soon! Would you like us to start calling you, \"Joey\"?-Sal", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The best pastrami and Bronx sandwiches by far!   Second time here and the first time was so good, too. Have to say sandwiches were delicious. Will always be coming back with more family and friends to share about this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The best place in town to get the freshest sandwich ever!!!! We get #6..... if you try them you will for sure go back!!!! The new homemade chips are very yummy. Nice change from French fries. It's always the same..   good \u221a\u00a2\u00ac\u00c4\u00ac\u00ba", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The best sandwiches! I have tried this place for several times and finally decided to write a review. I honestly don't care for sandwiches. These were delicious. I had philly cheese. It came out popping hot. Love their French fries. Reminded me of In and Out. The bread is awesome. Crunch and chewy enough but soft inside. The bread is right thickness. I would recommend this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The bronx is soooo good!!! The sandwiches are huge so sharing one is more than enough. The phillycheesteak fries are also to die for. I love this place its yummy :) definitely recommend!! Staff is also very friendly and nice which is another huge plus for me", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The Bronx sandwich shop in tustin well what can I say ...This is probably the best sandwich shop in the OC and if you haven't been here get your butt to 13041 Newport ave im probably sitting there pigging out ...I always get the Reuben sandwich yummy yummy folks ..Ps don't for get to say hi to Tina for me she's awesome ...", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The East and West Coast pastrami's are delicious, but naturally, being that they're pastrami, they're greasy. The Corned Beef Ruben with coleslaw is my favorite. Tried the Spicy Alabama with chicken sausage. Stay away from that. It was tiny, didn't taste good, and taken literally out of a package. Employees are hit or miss, but the one time our order was wrong, the manager fixed it promptly.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The east coast pastrami piled higher on French baguette is definitely my go to!!   the stone ground mustard is absolutely delish.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The food is fresh and delicious.   The servings are HUGE.   I would love the option to purchase a half sandwich.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The fries are yummy, seasoned with salt and pepper, and the baguettes are even better. A new batch baked every twenty minutes, crispy on the outside and warm and chewy on the inside. The Manhattan fries are one hell of a side ;)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The Hitman on Baguette with Just Fries. Total for myself was $15.38, which seemed a little pricey, but the food has a lot of flavor and I could only finish half of the sandwich. As I ordered take out over the phone, the guy who answered the phone seemed to be a little rushed and was somewhat rude, but it was dinner time so I can understand this. I got spicy mayo and BBQ sauce for my fries, which I would recommend as dipping sauces, but I would like to try their other loaded fries next time. All over, it was a good experience, and I will be back again to try other sandwiches :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The house made chips were good. The sandwich itself is huge which is nice because you can save the other half for later but it wasn't that great.   Nothing that makes me want to go back and either try another or get the same one.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The interior this sandwich shop is modern and the menu here has a wide variety of great and delicious sounding options. I really wish I could just live there and try them all.I can't remember the name of the sandwich I ordered but it was essentially a sausage and pepper sandwich. I thought the sandwich was great and it was very filling, which I don't usually experience since I am a person of larger than average stature (just tall and fit) with a very high metabolism. I felt great after eating the sandwich and was pleasantly filled for a while there after. I would definitely recommend this sandwich shop and come back another day.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The loaded fries are so good! Highly recommend. Out of all sandwich places I choose Bronx every time. RIP SUBWAY", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The Philly cheese steak fries are to die for! I shared those with both of my kids on my last visit and all three of us were stuffed!On this visit, I had the Philly cheesesteak on a baguette and it was really good, but not the best I've had. All the sandwiches I've seen looked really good and are quite large. I shared my sandwich with my son and we were both full. There's no way I could've eaten it alone!One thing I don't like is that there are no combos - everything is separate. This isn't a huge problem, but I almost always like to have chips and a drink with my sandwich, so a little price break would be nice, you know? I think they know that but don't care. I heard both people in line behind me ask if there were combos while I was getting my drink. I bet the cashiers get tired of answering that question.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The place has been our latest eatery of choice. Very good. Great staff and environment. Their sandwiches are bomb. The shrimp po'boy is on point but I can pass on the sauce they serve on the side. I think it's great without it. The shrimp has so much flavor and is fried to perfection. My wife had the salad which was HUGE and delicious. The only thing keeping me from giving 5 stars is their fries. Such delicious sandwiches and the fries are kinda just there. Kinda boring. Perhaps fresh cut fries with some seasoning. Now we're talking.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The Reuben was mind-blowing. Great service, quick and kind. Good selection of beer: IPA, lager, wheat. Cool interior space, small patio.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwich is good for what it is, however and unfortunately, the service at this particular store was below par. It should not take almost thirty minutes to make a sandwich, especially when it could be done in 10 to 15 minutes at most. I'm a believer in first impressions and that there are no second chances. I don't know, maybe I'll come back again when the act is gotten together.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwich is good, no doubt... But the prices are like fkn Disney.... Or a movie theater.. $3.25   for a large soda?.... Wtf?!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwich selection is spectacular, and the sandwiches could feed a giant. I had the Bronx Club, my son had the Sloppy Bronx, and we split some fries. This place made for a nice mother son date. We left happily stuffed, with a meal for later, as well. I can't wait to return, but next time we have to agree on something to share.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwich was had good flavor and a little kick to it. The bread was nice and crunchy on the outside. Ingredients weren't evenly distributed, my last few bites didn't have any meat, just onions, mushrooms and bread (same problem with the order of couple of my colleagues who went to lunch with us.) Check the ingredients first and re-distribute them before chowing down!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwich was very very good. Definitely very filling which is great since the sandwich was a little pricey. All-in-all a great spot that I will come back to and will recommend to others.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are awesome, the menu is huge, the fries are yummy, however the reason for the three stars is the price. I have a hard time spending nearly $20 for a sandwich, fries and a small soda. If I wanted to spend that much I'll spend a couple extra bucks and go to a sit down restaurant. If you don't mind spending top dollar this place is a great sandwich place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are big enough to share.   I had the Texas BBQ French Fries and they were good.   There was tons of meat on them and they were filling.   Bee here twice and the food and service had been great.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are good but every time I pay to add avocado it's never put on my sandwich. They've probably stole $20 from me by now. If you pick up your order, always check to make sure it's correct!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are HUGE!!!!!!! I was only able to eat a quarter of it LOL If you are hungry and want a nice big sandwich, this is your place. I ordered the Bronx club but substituted the meat for turkey pastrami and my hubby ordered the sloppy Bronx. I thought the turkey pastrami would have more but it didn't which kind of was a disappointment. I should have just gotten the regular pastrami. I had to add extra mustard to add more flavor. Service was fast and nice.Overall, I would say come try this place because it is Instagram worthy and the great portions!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are incredible! The customer service - not so much. Even when not busy they do their best to ignore phone orders...   if you order inside, it takes at least 15 minutes for them to make a sandwich no matter how few people are inside, and that's once they notice you've been standing in line for 5 minutes - all while employees walk through the kitchen seemingly unphased with how long you've been standing there. I guess it takes time to make good things. I'll never understand how an owner of a place like this isn't more attentive to its customers. As another reviewer wrote: you're replaceable; service counts, get it together!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches are pretty good I ordered a create your own sandwich. Just pretty disappointed that I paid extra for avocado and I didn't get any. Also didn't want raw onions yet I got raw onions. Definitely did not reach my expectations what so ever.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches here are really good but the service is lacking. A female worker was prompt and nice but there was a male employee who looked like we were bothering him by being customers. I believe he has been mentioned here before. Please do something about this - train him, replace him, I don't care but it was unpleasant because of this employee.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches here are the best!   This is quickly becoming my favorite sandwich shop in the OC.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches look better than they taste. Bronx Club (9.99) - golden roasted turkey, creamy harvati cheese, crispy bacon, haas avocado, lettuce, tomato and mayo.I chose wheat bread because I wanted to be healthy, but who am I kidding, I chose a sandwich that has bacon. I thought the bread was dry and thick, which made it difficult to eat. I wish they had some special aioli to flavor the sandwich. Sloppy Bronx (10.99) - thinly sliced beef, all hot beef link, melted American, Swiss and Pepperjack cheese, crispy fries, coleslaw, and spicy mayo. I got to try the famous bronx sandwich and it was way better than mine. I probably favored this one because it had a spicy mayo and the sandwich included fries!!! Sub standard sandwiches for me. I can make better sandwiches at home. The upside is that their sandwiches are on the bigger side. Check in for free chips!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The sandwiches were delicious!! The philly fries , Manhattan fries and the sloppy Bronx sandwich were all 5 stars!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The service is horrible at Bronx Sandwiches in North Tustin. I felt like the staff was just ignoring me and I didn't deserve it. I've worked in service and sales before, so I always come in with the utmost respect.   I had three issues: (1) I had to wait 15 minutes without anyone in line just to order. They didn't take my order until other people started looking up behind me. (2) When I did order, I wanted to use a gift $20 gift card, which the staff claimed they don't have machines to read the card. Why sell gift cards that aren't redeemable. The card clearly says redeemable at all locations. I was polite and just accepted that it I wanted my food I would have to pay with my card. They should setup expectations early on so they don't disappoint customers. (3) Staff buzzed me to pickup my food, but again choose to work on other things while my food got cold. Why buzz someone to get their food and not give it to them?", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "The staff is super friendly! Really helped me decide what to get and ended up choosing the Bronx Club on a baguette. Bronx Club: turkey, avocado, bacon, creamy havarti cheese, lettuce, tomatoes, mayo *comes with a pickle and pickled peppers on the sideReally nice portions! And yes the bacon is crispy! The baguette is super crispy and chewy and soft at the same time,mmmm. Only downside for this sandwich is probably the incredible amount of mayo lol. Overall, this was a great sandwich. Thanks Bronx! I'll be coming back :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "There's a pretty big variety of sandwich options both hot and cold and the sandwiches are pretty big so come hungry. I ordered the sloppy Bronx which is a monster of a sandwich with beef, hot links, cheese, fries, and coleslaw and topped off with spicy mayo. The bread's not great but otherwise no complaints about the sandwich. Reminds me a little bit of Primanti Bros in Pittsburgh if anyone is familiar with that place.Despite being busy, the staff was courteous and I got my food quickly. They also have one of those fancy new soda machines with a touchscreen that dispenses 100 different types of drinks. And it has a lot of space inside to sit.The biggest downside is probably the parking. During the day, the plaza is pretty congested and all of the spots I saw were labeled \"30 minute parking\".", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "These are big sandwiches.   They are also not cheap, but they are big enough to split.   I ordered a Reuben with turkey, a side of regular fries and water and the tab was about $15.   OK, it isn't crazy expensive, but a bit more that I pay for lunch.Still, the sandwich was piled high with meat and was pretty tasty.   The skinny fries are also pretty good.   Hopefully these guys will make it, since I can count at least 5 restaurants that have been in the spot in the last few years.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "These are sandwiches that would make Anthony Bourdain cry and inspire the Beastie Boys (RIP MCA) to rap about them. YOU have to eat here. If you don't eat here, the terrorists win. RIP Subway, Togos, Quiznos, Which Wich, Jersey Mike's, et al. I just (barely) finished half of a Sloppy Bronx ($9.99) and I'm full. I ran two miles this morning, then did 75 minutes of yoga, and I'm full after HALF of a sandwich people. It weighed about 2 pounds, and was mostly delicious, thinly sliced flavor-filled meat - real meat, not that processed, preserved sandwich chain crap. Steak, hot dog, French fries, dipping sauce, sauerkraut, deli mustard, all on one sandwich. It's pure sandwich insanity. They broke all the rules. It wasn't just any hot dog, it was a perfectly cooked and spicy kielbasa that was salty, juicy and beefy (no jokes, please). I also ordered a NY steak sandwich ($8.99) and it looks absolutely amazing. Maybe next week when I am hungry again I can try and eat it. It's a gorgeous steak missile filled with pink and red fleshy meat-eaty-goodness, and cheese. The ratio of the other ingredients is very well-balanced, like my diet used to be until I found heaven in this sandwich shop. I had the good fortune of spending a little over a week in NYC on two different occasions. I ate my way through the city each day, all day. What I remember the most, because they were so incredibly unique and incomparable, were the sandwiches. Not the hot dogs, not the bagels, not the pizza. Bronx Sandwich Co. brings back those memories. Eat here soon, because with the amount of meat they put on these hulking sandwiches, either the prices or the place won't last. Make sure you have room in your trunk to haul your food home. You won't be able to finish it at the restaurant.Fast and friendly service, with a smile. Plenty of parking. Oh, and there are vegan options. Now, if you'll excuse me I have to go call my cardiologist.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "These sandwiches were very good, but also pretty pricey. It was almost $30 for two sandwiches, which a little steep in my opinion considering the size of the sandwich and the fact that it doesn't come with any sides. Service is quick and friendly. It's in a small plaza but parking is readily accessible and easy to find. I highly recommend any of the hot pastrami sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "They have the greatest pastrami sandwich ever!!! Delicious, juicy, real chunks of pastrami and the mustard adds an amazing taste to the sandwich. If you have never had a sandwich here, you are missing out on one of life greatest Joy's.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "They should consider renaming the Sloppy Bronx to The Hangover.   It's huge, heavy and I don't even want to know the calorie count on this bad boy.   I was only able to finish half of it.   I loved the sweetness of their coleslaw, freshness of the bread and how they grill the hotdog.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "They use MSG in their bread and food. I had a violent reaction while I was there right after I started eating and had to stop eating and wait for my family to be done to leave.   My husband said it must have been an MSG reaction and I said they couldn't possibly use MSG so I didn't even ask. I went home and slept and thought , \"I should call them and ask\" so I did and they checked and said they use MSG in their bread and other items. So disappointing. We will not be back unless they start cooking without it.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This a great sandwich place. They offer breakfast and wonderful salads. The prices are reasonable the portions are hefty. If you're a sandwich connoisseur give this place a try. Oh don't   forget to try the homemade potato chips they are fantastic.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This has never happened before; we have reviewed and updated our policy so rest assured your next experience will be a great one!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This is my 4th time here so I have decided to give this incredible place a 5+!Hit Man:   It's a perfect bite!   You can't get any more satisfying in one bite like this.  From the juiciness of the pastrami to the crunching of the bread brings the perfect combination.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This is the best sandwich place around. I am so in love with their breakfast sandwich it's delicious the service was fast and friendly. The facility is quite clean as well.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This is the sandwhich joint to be at! I love me a good pastrami sandwhich. So once i saw they had the fat daddy a 1lb pastrami sandwhich my mouth began to water. My coworker told me before going that they use thick cut pastrami. I'm the type of guy that gets 5 corn beef briskets this time of year. Basically what I'm trying to say is this was the best pastrami sandwich i have EVER had. It was greasy and delicious. The amazing crust on the ends of pastrami were probably the best part.   The rye bread grilled didn't't hold up well tho. But with a lb of greasy delicious pastrami why would it? I wouldn't have wanted this sandwhich any other way. Absolutely great. I'm sad i haven't come here before today but anytime I'm feeling pastrami I'm coming here! My other coworker also said when he went he got the shrimp poboy he says he has never seen so much shrimp in a sandwhich. Such a good spot. You can't put a price on the pastrami here. Worth every penny. They also serve beer on tap not too many choices but they go well with the sandwhiches! Thanks guys!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This my all time favorite sandwich shop, they have every type of sandwich all super fresh and gourmet and the bread is always amazing (I prefer the baguettes).   Kids meals are huge more for than for an adult and only 4.99 options for kids are PB&J, grilled cheese or chicken tenders all with fries.   Breakfast sandwiches and salads the Chicken Ceasar, BBQ Ranch or zesty lime chicken are my 3 favorite salads. They slice the deli meat here fresh for every Sandwich omg my mouth is watering while I wait for my food.   I guarantee you won't find a better sandwich shop and Bronx has also been on Orange County Hotlist votes best sandwich shop in 2017", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This one of the best Philly cheesesteak sandwich I have ever tasted. It is loaded with mushrooms and steak and cheese. The size is good enough and you will be happy.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place has a variety of sandwiches and it's delicious. I actually love eating sandwiches so I was so excited to check out this place. The sandwich was fresh and the quality of the sandwich is definitely better than other sandwiches I've tried at other restaurants. The customer service was really good too. I went with a friend for dinner and surprisingly the restaurant wasn't too busy. The cashier helped me choose the sandwich and she was really friendly. I will definitely be back to try out the other sandwiches!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place has always been know to be a good deli style sandwich with lots of meat. My wife picked up a couple sandwiches to go and when I unwrapped it I couldn't believe what I saw. Where is the meat?   I thought they made a mistake but when I took it back in they said they now measure the meat and none of their sandwiches look like the pictures anymore. He said it was because of the ownership change.   He gave me a refund for the sandwich I returned and the sandwich my wife had received. She asked for no mushrooms and it was stuffed with them. Anyways, the pictures speak for themselves.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place has enormous portions.   I love my deli meat but their cold veggie sandwich is delicious.   It tastes even better with the pepperoncinis.   The bread and veggies look and taste fresh.   I've also had the Bronx and was equally satisfied.   This is definitely a good lunch destination.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is always so good! They pile their sandwiches and make them fresh every time! I look forward to their Philly Cheese #10 and my husband loves their West Coast Pastrami #3!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is amazing, the sandwiches are delicious I get the shrimp Po boy or the sloppy Bronx. If you love sandwiches then you must try this place!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is awesome! I've been looking for a place that does a good Philly Cheesesteak and I've found it here. They definitely don't skim when they pack on the meat and other ingredients on their sandwiches. Love Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is awesome! They have a great variety of sandwiches and street fries. The Bronx club and The bbq brisket, pastrami sandwiches are super great. I would also recommend the pastrami fries and the Texas bbq brisket fries. The portionsAre big so you can share the fries and a sandwich. This place will have you coming back for more. They also have homemade potato chips and beers!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is bomb.com.net.gov.eduSo I needed a Reuben sandwich bad!!! I live in a Orange County and I didn't feel like driving all the way to West Hell to go to Jerry's Deli which is where I usually go. I decided to search yelp and found this gem....We ordered the Reuben sandwich and the Philly cheesesteak fries. It was soooooo good, did I say it was good??? The meat was so good and perfectly spiced. The sauerkraut was perfectly tart. It was just fabulous!!! The Philly cheesesteak fries didn't disappoint either, they were fully loaded. Everything was on point.... This is my new sandwich spot......In addition, if you check into yelp you get a free bag of chips. They were so kind to give us 4 free bags of chips for each of us!!!!!....Now let me go to the gym because lord knows I did major damage today and it was worth every bite!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is clean , staff is helpful and has great service. And the sandwiches are so tasty can't wait to try them all eventually!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is DELICIOUS!! The bread is delicious and the ingredients are high quality. I get the veggie sandwich and it's so good! My bf got the Philly cheesesteak and it was amazing!! Basically, if you want a sandwich go here! The ONLY con is that the soda machine doesn't work sometimes. But if you check in, you get free chips! LOVE this place! :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is everything. Absolutely everything. I ordered the spicy baja chicken sandwich and it was phenomenal, plus one of the biggest sandwiches I've ever seen. They're not cheap, but you get more than what you pay for. Great quality chicken and they're generous with the peppers, onions, jalape\u221a\u00c9\u00ac\u00b1os, etc. so there's a great balance of textures between the bread, meat, and veggies. They serve it with a side of spicy mayo and I don't find it particularly spicy, but it wasn't bad. The sandwich itself is already incredibly flavorful so there wasn't a ton of need to add yet another sauce. Without a doubt Bronx is in its own league in the sandwich game- definitely worth a try!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is legit. This is the best sandwich shop in the area. Meats are uber fresh.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is literally so good!! Sandwiches are AMAZING and fries are delicious. My new fav sandwich shop", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is poorly run. I have ordered food here 3 times. The last 2 times... they forgot to put my chips in my to go order. They handed it to me like it's ready and didn't even bother telling me to grab my own chips. How in professional is this. If it's a to go order.. PUT THE CHIPS IN THE BAG, or at least notify the customer to grab our own. Either your staff is too lazy , or just don't care. Today was worse. I ordered 2 sandwiches and chips.. when i arrived they handed me my to go bag saying \"thank you\". Only one sandwich was inside and no chips. This is terrible. I WILL NEVER COME HERE AGAIN. Nor will my family. You guys charge me and take my money.. and only give me 1/3 of my order? Ridiculous. GET YOUR ACT RIGHT!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is pretty good.   It's not exactly what you'd expect for a placed with the name, but the sandwiches and fries are good, staff is friendly and the prices are realistic for what you get.A good place to keep a n mind for a quick bite and a side step from the norm.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is so delicious! I can honestly say this is the best sandwich I've ever had!! The place has a really good vibe and great customer service. I ordered the Sloppy Bronx and the Spicy Baja grilled chicken fries which was amazing. I love street fries and they have so many to choose from but will definitely come back and try all of them. I recommend this place to anybody who really wants a SANDWICH. Half of the Sandwich and fries filled me up after being in the pool all day which is great for a swimmer's appetite.Thanks Bronx!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is so goooooood !! The Bronx club is a must try ! The place is small but clean and the staff is super helpful and friendly (:", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is the best!! If your looking for great food and a beer to go with it not a problem because happy hour is all day!! The sandwiches are so delicious and don't forget to add some fries. Oh and the Sandwiches are enough to feed two. Oh and they have this cool Pepsi fountain machine where you can choose all kinds of flavors to your drinks !I give this place two thumbs up", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place is very good! Have been a few times.. always tastes fresh! Only problem is maybe they shouldnt advertise the club for having avocado.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This place was amazing, great service fast and friendly! I came in on a busy weeday for business nearby and thought I'd try a sandwich. Great decision!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This review and rating is less about the food here and more about corporate greed. I got my usual salad here, asked for extra dressing and was told it's an extra 75 cents. What? Really? For dressing?!? Ok so the only reason to make a customer pay for this is either A)corporate greed or B)clueless management. Probably a combination of the two. Well I hope you're happy with the extra 75 cents you nickel and dimed out of me, Bronx. I've been a loyal customer since you opened and regularly spend $10-20 every week. No more though, you've lost me as a customer. Was it worth the 3 quarters?", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This review is based on a BBQ brisket sandwich on a baguette. The meat was lean and tender. The sauce had the right amount of sweetness.   The bread however was sublime! It was fresh, buttery, with a perfect crust.   Looking forward to coming back to try other sandwiches!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This review is long overdue. I've been coming to Bronx for months and never leave disappointed. They make great deli sandwiches and always keep me coming back for more. They have plenty of promotions where I've gotten free cookies too. My favorite sandwiches are those with the pastrami. The portions are generous and I would typically share with someone. The ingredients are fresh, sandwiches come out hot, the restaurant is always clean, service is good. I've also tried the other sandwiches and found them to be very good, but my favorite happens to be the pastrami. The others that I liked included the Philly Cheese Steak, Turkey Avocado, Mobster, Sloppy Bronx & The Spicy Fried Chicken was really good too! I'll be back soon. They also have great environment to watch Sunday football.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This sandwich joint is legit. Forget the firehouse subs, subway, jersey mike's, whichwich! They got nothing on the Bronx. Coming in, you're met with a large menu of hot, cold, breakfast sandwiches, salads, street fries and rice bowls.Going down the hot sandwich menu, I was up in the air between the BBQ brisket and the Pastrami, but I went with the Pastrami on Rye (you can select baguette, wheat, sourdough if you want), and loaded it up with Cole Slaw. What makes this place stand out is the meat to slaw ratio was out of bounds. You're looking at a mountain stack full of juicy fatty meat with a little bit of slaw & on delicious soft rye bread. It takes two hands to hold and an open wide mouthful to get a bite in. Once you bite into it, you're in heaven & you can taste the difference in quality.There hasn't been this type of sandwich joint in this area & I'm happy that it finally has come around. I'm just sad that it's been open for a year and I'm only getting around to it. Such a bad yelper, but oh well. The 29 sandwich options & fries should keep me pretty busy :)", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This sandwich place is WAY better than Subway and To-go's. Each sandwich is about $10 and can fill two people or be saved as leftovers. Me and my boyfriend just share a sandwich when we come here because the sandwiches are just that massive. They serve hot and cold sandwiches and use fresh ingredients. The parking lot isn't the best, but if you're craving a sandwich, this is the spot.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "This was my first time here. When I saw the menu, I was excited, and started thinking that this would be my new go-to place for sandwiches. I ordered a Bronx Dip to go. Got home and started eating when I noticed a gnat floating in the au jus... Ruined what was a very promising meal. Hopefully it's just a fluke, but it will be difficult to go back there when I am questioning the cleanliness of the kitchen", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Three visits and still a strong 5 star rating.   The off menu Fried Chicken sandwich is a thing of beauty.  I prefer it regular style versus the hot version that includes Chipotle mayonnaise and jalape\u221a\u00c9\u00ac\u00b1os.  The Philly is also more than adequate.  I'll keep coming back until I work my way through their menu board and maybe even beyond.   Don't forget to check in for your free bag of chips.Pands Easily one of Tustin's top 3 sandwich shops, pushing through to #1 with a bang.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Today was my sixth visit. Not one time have I been able to purchase the House Chips. Seems if they'd cook more - they'd sell. As usual I order toasted bread and no onions. My bread wasn't toasted and there were onions on my sandwich. Picked up meals for my family so kind of hard to open everything up before leaving to check the order. Runny ranch - like water.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Tried the Bronx for lunch this past weekend. I don't get up this way too often, but will definitely return based on my experience here. I had the Yankee on Rye bread with fries and a soda. The place was pretty busy, but they kept things moving and the wait for food was not long at all.The sandwich was very good and very generously portioned. I usually avoid restaurant fries, because they are usually horribly undercooked and nasty but not here. The fries were cooked to perfection and were probably the best fries I have had in a very long time.Bottom line...I was impressed and will be back. There are a few other things on the menu that look interesting and will have to be checked out.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Two, make that three, words - way too greasy. But I understand some people like it that way. You tricked me Yelpers!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Until now, I've always thought a sandwich was a sandwich.   Meat, cheese and the basic veggies between slabs of bread.   It's really just a matter of convenience when I grab a sandwich.   Eh, I could make one just as good if not better at home.   This place makes me feel like Joey from Friends.   I've only been twice but both times, I was fully satisfied and left thinking what my choice will be at my next visit.   It's a cool spot.   Service is nice.   Parking is fairly easy.   \"Like\"!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "UPDATE: kudos to the manager for reaching out to me and offering a replacement sandwich, but my last visit was rediculous. I always order the same thing, call in ahead of time, and pick it up under the same name. I called in a hitman today, and while picking it up, the 3 guys at the grill who obviously think the glass counter eliminates all sound, very clearly pointed me out by name and mentioned my yelp review to each other. after i clearly heard what they said and looked their way, they muttered a few other things that were unprofessional, and the main guy scurried to the back, all while all 3 just stared at me. i did not end up eating my sandwich because i've seen too many movies about stuff like this.i've been coming here for years and have been recommending it to the patrons who come into my own work down the street for years, but i guess things have changed, and I definitely won't be doing that anymore. There are plenty of sandwich shops in Tustin that treat their customers better.have you guys changed the way you make The Hitman lately? I've been buying it for year and it's always been such a perfect balance of the two meat/cheese combos, divided equally on the sandwich. Lately i've been getting a lazy version that's completely mixing the 2 different sandwich elements all over the place, and it's just not as enjoyabkas it was.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Very disappointed with the service here. The girl at the front was more interested in gossiping with her coworkers. I luckily caught their mistake on my order before I left the parking lot. I would much rather spend my money elsewhere.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Very good food! My co-worker recommended this place to me yesterday, so I took my boyfriend for dinner. He got the Hitman sandwich and I got the zesty lime chicken salad. Zesty indeed! They are very generous with their meat and veggies. Awesome atmosphere. Celiacs, they can lettuce wrap any sandwich to make it gluten free for you! I have so many things that I want to try now that I've seen the menu. I'll be back soon!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Very good sandwich and very good value. I went with the tuna and did not regret it. Will definitely be back to try other sandwiches.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Walked out. Saw them using their bare hands to manhandle food. Health code violation.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Was there for the soft opening, so some glitches are to be expected. Had the pastrami and fries. Staff was great, they were out of several of their bread options and the ordering was cumbersome. No menu on the wall. Having to try to read the descriptions of all the sandwiches while standing at the counter and a long line behind you. That said, it was a tasty and very generous sandwich. Fries were cold and hard. Disappointed there. So all in all, I think it has potential, but may need a while to get all it ducks in a row. Looking forward to hearing other people's opinions. Thanks!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We are huge sandwich fans and coming from Arizona we compare any sandwich place claiming to be the best against our beloved Ike's.This place had some high points but fell short for sure.First of all a young man named Roberto manning the customers at the front seemed entitled and bothered to help us.   We had a table of 7 and each of us ordered a sandwich.   I'd assume for a relatively empty restaurant he'd be happy to accommodate us.   It would definitely help Bronx to train him with better customer service skills.I asked him if he'd mind washing our table after I wiped it down myself but it was still sticky.   He looked at me and then pointed to his pregnant female coworker and made her do it.   She was happy and helpful.   But his customer service fell very short.The employees were arguing with one another and there was just an overwhelming attitude of unhappiness.   Maybe this was due to the fact that it was swelteringly hot inside, there was no working A/C and it was not pleasant.   The men's bathroom was occupied the entire time by an employee and not available to us the 35+ minutes we were there.The food is the only redeeming quality during our experience.   The philly, hot mess and Bronx were really good.   The ingredients on all of our sandwiches were fresh and substantial.   I agree there is a lower than average meat to lettuce/toppings/bread ratio.   But the flavor was delicious.   The pastrami is up there with the best I've had.As much as I don't want to dwell on the negative in my reviews, this experience was just a major bummer because of the customer service we received and how hot and unpleasant it was inside.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We did take out, won't go back. For the same price tommy pastrami on harbor is to die for. Worth the extra drive.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We have been to this bronx in Tustin a good amount of times. We normally go to the one in Anaheim, but this bronx is closer to us. The service is okay. I said \"how are you \" to the employer who took our order she ignored me. The sandwich quality doesn't compare to one in Anaheim . My husband pastrami was burned tasted and smelled like hotdogs and my classic chicken sandwich was blah....If you want a good delicious bronx sandwich go to the one in Anaheim.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We ordered the Yankee, #25.   What an outstanding sandwich!!  We will most definitely be coming back to sample other menu items.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We really enjoy coming here for dinner/ late lunch. It's pretty good however I think that the bread is kinda hard and takes away from the deliciousness of the sandwich. But the shrimp po boy is delicious!!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We stopped by this place out of the blue as we were in the area trying to kill time. It was a big hit and the sandwiches were huge. I ordered the Tri tip w pastrami sandwich and could only finished 1 half. Big sandwiches, free chips with checkin to get free drinks. Definitely will come back for the remaining balance of items on the menu.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We usually go the the Bronx for sandwiches pretty often, however our last visit was kinda disappointing. They really skimped on the meat in their sandwich and made it look unappetizing. The Bronx usually stuffs their sandwiches and makes them look amazing, but this time it was not the same sadly. My boyfriend ordered the Legend and what he got was not what we expected. Really goes to show that their standards are getting lower. Unfortunately we wont be coming back.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "positive", 
+    Results: "false positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We went there for a late breakfast on Saturday. I got the avocado omelette sandwich to go. When we arrived home, I opened the bag and noticed that my sandwich didn't have any avocado, but instead they had put zuccinis. That was a huge bummer. Not a bad place but accuracy matters so next time, will check I get what I order.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "We've been trying to find another sandwich shop as good as Cortinas and this is it!Excellent sandwich. The bread itself is perfect! I got the brisket dip, warm and soft and so yummy!Husband got the boss which is Italian and he is Italian and he loved it. It even has olive spread on it, prepared to get messy, lolHighly recommend it", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Went here because we heard this place had amazing food, it's pretty good.. but maybe we went on a off day...I ordered the turkey, avocado and yes it was good, I feel like it lacked flavor and my sandwich was mostly shredded lettuce/hardly any meat. For almost $10 a pop.. I would hope they would be able to give me more meat so I can at least taste it. Service was very friendly, shop was clean. We will probably give this one more go before I write it off as a No thank you.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Went hiking over the weekend and was looking for a sandwich place nearby to indulge in after. Yelp has yet to steer my wrong.   We ordered The Boss (#23) with extra onions and the Baja Chicken (#13).   Both were soooo bomb!   I can't wait to go back and try something new. We also ordered The Manhattan street fries and they totally hit the spot. the pieces of pastrami were sooo tasty.   You cannot go wrong here! One additional thing that I would like to add is that the soda machine produces the best tasting drinks. I rarely order a drink but i was cravin soda. My Sierra Mist was not syrupee at all. Perfect in my opinion. We sat outside and enjoyed the nice breeze. I totally recommend this place.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Went in first time, got an Italian Sandwich don't remember the name but think it may have been the Boss. It was ok, but very bland, mostly lettuce with a little meat and a couple o tomatoes. Nothing special or memorable, just bland dry with no taste, supposed to have Italian dressing but I didn't taste any. Probably won't go back too expensive for what I got.", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "West coast meets (meats?) east coast in the form of sandwiches. Based on other Yelpers who had written about the gargantuan size of these sandwiches, we decided to share. Everyone was right about the sandwiches: they are stuffed and portions are large enough to split. We tried the Sloppy Bronx, which consisted of roast beef, a hot link, American, Swiss, jalapeno, and jack cheese, fries, and coleslaw. My rule of thumb is to choose the namesake item on the menu, and thankfully, that maxim did not steer us wrong this time around. The Sloppy Bronx tasted great. The meaty roast beef, the hot and juicy sausage, the melted cheese, and the fries created an interesting combination that somehow melded together harmoniously within the baguette. I wouldn't recommend making the drive out here but it's a great option if you are in the area. Tip: Free chips with Yelp check-in. They even have Zapp's chips!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "What a great place to eat! Huge sandwiches and beautiful salads! The salads were very generous in portion and extremely fresh! Don't skip the fries, they're very tasty too.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "What happened to this place?   The quality of the food went down.   The quantity of the meats decreased as well. It was a noticeable difference compared to before.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "What the F*** is this? Burnt to S*** bread... definitely not a good experience. Who would think this is a presentable $12 sandwich. Bread costs like $2 a loaf, when you see it looks like this how about you toss it away and throw another couple wedges in the toaster. Nice job", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "negative", 
+    Results: "false negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "What took me so long to try this place.??!?   I finally tried this place today for lunch.   Huge menu so it took me a few to decide on what to try 1st.   I decided on the Baja chicken sandwich spicy.   Wow!!   The size of this thing is huge!  I do wish they have a smaller size but all good.   I got it on the French baguette and it was great!   Yum!!   I'd probably do extra jalape\u221a\u00c9\u00ac\u00b1os next time but I'll definitely visit again.   Yelp checkin gets you a bag of house chips which are also very tasty.   Can't go wrong with a crunchy homemade chip!   If you are a sandwich fan, try it!   The salads sound good as well.   Next time.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "When it comes to sandwiches, I could take it or leave it. Sandwiches don't rank high in foods I usually go for but I was attending a meeting and this place was suggested as a half way point so whatever.The menu selection and options are quite diverse. There's a sandwich for everyone with lots of side options, fries, and also loaded fries with various toppings. I ordered the pastrami and subbed the pastrami for turkey because I liked the sauce and topping options and OMG. I was in sandwich heaven for like 10 minutes along with my potato salad and fries. If you're getting a sandwich, I really suggest you get a half portion. A full is way too much and they do not skimp on fillings. You almost have to dive in with a fork about halfway through. The place has a great vibe with good customer service.If you want a sandwich, this is definitely the place!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Wooo best sandwiches ever. Whenever I'm in town I will stop here for a beer and a sandwich because they know what they are doing and actually hook it up on each sandwich. Bronx is super good.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Wow this might be the best sandwich I've had in my life. Lots of ingredients lots of meat reasonably priced great location great service very very friendly staff", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Wow wow wow. What an amazing sandwich. King of queens for me. Perfect. Fresh meats. Huge amounts. HOMERUN! Well done.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Wow, finally found a place that has great Pastrami! Portions are large, a regular size pastrami filled me up and I'm a big eater. A little pricy for a sandwich place but the quality and portions make it a DEAL! I had the East Coast pastrami 1/2lb on rye, and my date had the Boss (assorted cold meats) both were excellent!   Can't wait to go back and try some other yummy items on the menu.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "WOW!   That is all I have to say.   I ordered the philly cheese steak and its the best philly chesse steak on the west coast.   I should have ordered a cold sandwich and saved half.   I was more than satisfied after my first half but the bread would get soggy if I saved the other half.   These are the best and freshest sandwiches.   I am giving it 4 stars because they are disorganized for the lunch rush, which I expect when a place first opens.   I was in line for about 35 minutes before I was able to order.   Someone was coming through the line and taking orders on napkins.   But, once I ordered and paid.   It only took about 5 minutes for me to get my sandwich.You get WAY more than what you pay for.   Def the best lunch spot in Tustin.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "WOW. I was looking for a different departure from my usual Door Dash order. If you dont think pictures can sell your product, guess again. I was sold on the delicious visuals found on their DD menu site. I opted for the Bronx club. This is HUGE sandwich piled high with turkey, havarti, shredded lettuce, tomato, bacon and avocado. The bread was amazing as well. I could only eat half. Perfect to share and you will be full and satisfied with just a half. Turkey seems legit, too, and not the weak, slimy kind of other sandwich shops. Bronx Sandwich is pretty legit east coast sandwiches. Definitely will order again. The Door Dash process was flawless, too. Well packed, made to order and served fresh in a timely manner. I can't say much about the location or parking since I had it delivered.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Wow... Want expecting much but this place blew me away.   The sandwiches and fries here are incredible.   I definitely plan on coming back many times!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "Yes!!! Delicious sandwiches finally.   Location has great parking so no worries there.   When I visited this place, I was the only customer.   I heard this place can get pretty intense during lunch and dinner hours.   I had my meal at 3:30. Linner? :P   Regardless, price is a bit aggressive for what you get.   $11 for sandwich is quite pushing it.   This is Whole Foods status! I've had similar sandwiches before and it came to maybe 6-7 dollars max.   In light of this, sandwich was delicious.   The french bread is a bit hard so my next order would steer clear of that.   Probably stick to the rye bread instead.   They layered the content beautifully and the seasoning on it is pretty clear and presence known.   Presentation is good, other than the bread, taste is there.   Don't forget to check in and get a free back of chips.   They also give you pickle spears for free.   So if you minus the cost of the pickles and bag of chips, might be an equivalence of a $9 meal. Still a little steep for a sandwich.   At this price point, It should be able to cure something more in my body other than hunger.   Despite the high price, food is good and if the craving comes up for a delicious sandwich, I'll stop by again and see if its truly worth the buck.   I will definitely claim the chip and pickles again!   One team that I want to do is the Philly cheesesteak fries!   Looks legit.   But I recalled the pricing being around $10 bucks also. Ok.   Price needs to adjust a bit to have me as a frequent customer.   I'll give them 4 stars for quality but as a return customer, its probably valued at a 2, 3 star max.", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "You get what you pay for the sandwiches are huge and chalked full of quality ingredients.   The dietzel meat is top shelf, you can taste the difference.   Their wheat bread makes almost an uncomfortably large sammie the white a bit better.   They run a tight ship super organized to get a hand crafted sandwich in an organized fashion, make it a plus for the lunch break crowd.Its the way better version of jersey mikes, parking sucks but that's what you get for being in the cutest shopping plaza in Tustin.I recommend the bronx club and the boss", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "You have lost your game. Worst sandwich and thanks for the 2-3 refried fries. Never again!", 
+    LexiconAssessment: "negative", 
+    MachineInterpretation: "negative", 
+    Results: "both negative", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }, 
+    {
+    CustomerReviews: "YUM. I had bookmarked the Anaheim location of Bronx, but we were in the area and ended up at the Tustin one for lunch and boy, was it worth it!Order at the counter and pick up your food when ready - seating available inside and outside.I got the fried chicken sandwich and it was HUGE. Served on a submarine sized roll, I ate half and saved the other half for later. Super packed with chicken and other toppings, it made for a bit of a messy meal but totally worth it! Fiance got the philly cheese steak and really enjoyed his sandwich as well (also a messy meal, hah.) Service is friendly, water, condiments and to-go sacks are self-serve and the bathroom is unisex and pretty clean.Parking was fairly easy to find in the plaza, but there are a lot of businesses there, so may get packed at peak times. Would definitely come back!", 
+    LexiconAssessment: "positive", 
+    MachineInterpretation: "positive", 
+    Results: "both positive", 
+    Merchant: "BROT", 
+    ACCU: 0.882632
+    }]
