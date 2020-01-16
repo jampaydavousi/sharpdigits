@@ -17103,6 +17103,1429 @@ ACCU: 0.895812
         Results: "both positive", 
         Merchant: "WCF", 
         ACCU: 0.937459
-        }    
-
+        },    
+        {
+            CustomerReviews: "A superlative sandwich experience awaits in Costa Mesa. Fellow OC Yelper Steve S. originally clued me on the greatness of BRONX Sandwich Company and I made it a point to visit the Costa Mesa as soon as possible to give their take on a Pastrami Sandwich. I am glad I did, I found a great new spot for the luncheon rotation. The menu is simple, straightforward\u00e2\u0080\u008b and as creative as any sandwich spot would ever need to be. The portions are large and the prices are reasonable so you really have no reason to give these guys the Pepsi challenge. They offer two distinctly different Pastrami sandwiches. The East Coast Pastrami is \u00e2\u0080\u008bclassic and the West Coast is an abomination to mankind with melted American cheese, lettuce, tomatoes, may, \u00e2\u0080\u008b and mustard. Do not go this route. It is sheer heresy. Okay - full transparency here, folks - I have actually tried the West Coast version and it is better than it has any right to be. The East Coast Pastrami, \u00e2\u0080\u008bhowever, is a powerhouse in smoked & brined Brisket. A decent amount of piping hot Pastrami and Gulden's mustard is the ingredient list. Well, that and the addition of your choice of delivery mechanism (go with the Rye. No, really... get the Rye). All of the ingredients are deafeningly fresh and the tangy zip of the mustard cuts through the salty, smoky Pastrami meat seemingly in unison making BRONX Sandwich Company's Pastrami quite unique. It could be argued that the Rye was a bit muted but that would be countered easily with the fact it doesn't get in the way. A very real contender in OC's anemic Pastrami scene. I am a big fan of BRONX Sandwich Company and also Steve S. for helping me find them. There is also another location now in Tustin. Check them out!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Absolutely nothing I say can explain how rich and crunchy (fresh) all of this is. I've had like two items and they were both a solid 10/10 . At least try it. Recommend the Pastrami fries", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "After a first not so great experience here, due to some misunderstandings, management went above and beyond to make things right. They showed that they actually give a damn, and that really goes a long way in my book. They value their customers, their food and their image, and I'll be happy to dine here again.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "positive", 
+            Results: "false positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "After my first time going to the Costa Mesa location and not having a great experience, the manager reached out and asked me to go again. I decided to give them a second shot bc I do love Bronx salads and sandwiches. The second experience was what I expected. The service was great and everyone was friendly. The food was excellent and given to us promptly. I had my 7 year-old nephew with me and he enjoyed his grilled cheese very much. I'm completely satisfied with the service I got the second time around at the Costa Mesa location!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "All I can say is what an amazing place. Not only are the sandwiches to die for but they really know how to treat their customers!!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Amazing sandwiches! This place serves quality & without sacrificing quantity. My favorites are the Sloppy Bronx and the Bronx Club... I am now updating my review to 4 stars because I called in over the phone to placed an order for pick up and then when I got there they said they didn't have my order and I had to wait there for 10/15 minutes while they made my order and it was supposed to be ready.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Another sandwich shop to add to my list of favorites, Bronx is close to my work, so yes that means eating out more often.So for my first visit I went with the BOSS( 23), since I love Italian sandwiches I think the choice was obvious, this is a pretty big Sammy, lots of meat, no complaints here, the only thing I missed was that twang vinegary taste, the olive relish was good but not twangy enough for my taste, their French bread was perfection, crunchy on the outside and soft in the middle. Got a free order of house chip with yelp check in.Overall I was very satisfied with my meal, philly cheese steak I have my eye on you.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "As far as big food goes this sandwich shop wins   the prize. Everything there was big and the food was very fresh. I opted to try a pretty messy sandwich and that took away from my over all experience. I did however find the beef to be quite tender along with the bread to be very soft and fresh. The sandwich I got had French fries on it with   Garlic aoli and it was extremely tasty. I will go back to try another sandwich because everything on the menu looked very tasty. Be warned...the line gets very long and the wait is between 10 to 15 mins.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Astronomical prices and literally zero customers when I walked in. I asked if they do discounts for veterans and first responders, due to the fact that I have several friends who are either veterans or first responders (some are both). Thought that maybe I'd recommend this facility to them, but I won't because they obviously don't support veterans and first responders, and I'm not going to give my money to support a establishment that doesn't do so.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "positive", 
+            Results: "false positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Ate here for the first time, ordered the Bronx Club and it was outstanding. Ingredients were fresh, sandwich was huge!But the all star of the meal was definitely the bread.   The bread was toasted perfectly and was absolutely delicious!And restaurant was super clean and nice staff.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Awesome new addition to the sandwich shops in town! Love the quality, size and the fries! Only slight disappointment would be the price. Almost $20 for one sandwich, fries and two drinks.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Awesome sandwiches and a fair price.   The only caution is not to order the build your own sandwich which costs $5.95 for two pieces of bread and other items are extra.Great service and clean facilities.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Be careful the Philly cheesesteak comes out on fire but if you can wait for it to cool down it is so worth it!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Been here twice and gotten two of their sandwiches... they are 2/2! First time, I ate the Bronx Club; 2nd trip, I ate The Mobster -- I was not disappointed with either. Good portion of meat on all of their sandwiches, which is always a PLUS. I will definitely be coming back to explore more of their sandwich menu.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "best damn pastrami sandwich I have had in some time! The Turkey club, Brisket are great too. So far we haven't had a bad sandwich there. I am going to try a salad next since they sound delicious based on the descriptions.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "BEST FRIES / CHIPS!! Great sandwiches, too (that bread!), but the homemade chips and fries are the stars of the show. Taste like they've been fried in magic. Def recommend trying both. Great customer service, too! Give 'em a try and don't forget the black and white cookie :)", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Best sandwich I've ever had hands down. The place has great atmosphere along with friendly employees. Definitely going to be my new regular sandwich place. Also I had the pastrami Reuben with frys. Extremely happy about this place I would give it 6 stars if I could.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "BEST SANDWICHES EVER! Bronx is the OCFC go to meal of Champions. Orange County's #1 Amateur Men's Soccer Team who has beaten the likes of pro Teams such as OCSC and Las Vegas Lights has teamed up with The Bronx in Tustin. Thank you Bronx for always serving up THE BEST SANDWICHES AND THE BEST SERVICE!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Bronx has always been my  Hope in the wall  sandwich spot. Originally from old town Tustin, I've never had a sandwich that was ever disappointing.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Bronx Sandwich Company is my FAVE sandwich place EVER. My BF and I used to live in Tustin and Bronx was our go to place for delicious sandwiches and fries.My brother and I were in Costa Mesa looking for something kind of  healthy  and I just HAD to take him to Bronx. He loved it!This location is located in a Target parking lot off Harbor with ample parking. We found it easy to find, just south of the 405 fwy.We visited on a Sunday afternoon around 230pm. There was no wait with many open tables.The food was just as amazing as the Tustin location and the service super fast. We had the Bronx Club, which is one of my faves. I didn't get to try the fries at this location, although it is one of my favorites on their menu. The sandwich was packed with meat and toppings and bread was delicious as always. Their baguette is so delicious I would eat it without the meat! Their sandwiches are pretty big and filling. You could share or save half for later. Price is a littttllllleee pricey, as I mentioned in my other review for Bronx. But it's honestly worth every penny. It's about $11 for a sammie. But there's really nothing cheap these days! If you're going to spend money on food, you might as well buy quality. And Bronx is definitely quality food. Thank you Bronx for being consistent in your restaurants! It makes me want to keep coming back no matter the location. I have also previously reviewed Bronx Tustin location, check it out :)", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "BX in the house! Despite not having chopped cheese on the menu, I had a solid lunch here.The menu is quite large. There's nearly 20 different hot sandwiches alone, and most are as likely to activate your taste buds as they are to raise your blood pressure. These sandwiches are hearty, to say the least.I opted for the East Coast Pastrami, which is a no-nonsense stack of thinly sliced pastrami on rye. My favorite delis in NY would cut their meat thicker, but you take what you can get out here, so I'm not complaining. They give you the option of grilling your bread, which I recommend just so it doesn't fall apart under the meat juices so quickly. The sandwich was pretty tasty, if not heavy on the sodium. I also got a side of fries, which were a crispy complement to the pastrami.It's certainly not a health-conscious choice, but Bronx Sandwich Company will definitely satisfy your cravings for large and meaty sandwiches! I'll be back if I'm in the area.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Came across this place when me and the fam where in the area.    And all I can say is great things about this place from the great customer service ti having a big order correct   and the food   was amazing", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Came here for dinner with my boyfriend and we split a sandwich. We got the Sloppy Bronx which we decided to share with a side of fries. It has Thinly sliced beef, all beef hot link, melted American, Swiss and Pepper Jack cheese, crispy fries, coleslaw, yellow mustard and spicy mayo. We got the coleslaw on the side. We also thought the spicy mayo would be IN it not all over it, but I guess the name of the sandwich should've told us something was up. I guess we just thought it was messy, as in so many ingredients you could barely hold it together. As you can see, it was more than enough for both of us. It was okay, but nothing special. The jalape\u00c3\u00b1os were out where we could grab them, and they weren't stingy with ranch...although the ranch wasn't very good. If you've read my reviews before, I'm a huge fan of ranch, and GOOD ranch, so I guess it's no wonder they weren't stingy with it. The sandwich wasn't all that amazing, nothing really stood out that makes me want to go back and try it again or try more of their sandwiches.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Coming from NY I had to stop in and try this new spot out. Really nice place to have lunch. Clean, friendly stay, and quick service. I ordered THE BOSS and enjoyed it. The only thing that bothered me was that I expected more than a couple slices of meat especially since I got it without provolone. Overall they get 4 stars from a satisfied customer.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Cross section of the Boss.. this was waaay more to my liking and will come back! I had to add hot peppers for a kick. Lots of tasty meat and flavor. And the bread is nice and crisp on the outside and soft on the inside..it is pretty filling and will probably have the other half for dinner..staff is super nice and I appreciate this place being close to work for a great lunch option.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Delicious, came here for dinner with my husband, I got the zesty chicken salad and he got the hot mess, both were fabulous. It was a bit pricey but the portions are hearty and worth it. I am a big girl and that salad was very satisfying and filling, the dressing was to die for. I will be recommending this place to my coworkers. A must try.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "During our wait time for our car to get washed we decided to grab lunch since the car would take 45 minutes. We decided to come here for the first time. Checking out the menu i came to realize how overly priced a menu of a variety spread of sandwiches were. I mean don't get me wrong the sandwiches are huge! I got the All American Sandwich and the house chips(which were extremely salty) and the sandwich was something i could of easily done at home. The place was great and the sandwich itself was fulfilling but i couldn't see myself spending another 30 bucks for a simple sandwich.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Exactly what you'd expect in SoCalDon't expect a NY Deli SandwichBut not bad for the competitors in the area Nothing comes with a side...Pastrami + meat lovers oasis!!!!!!!!!!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Excellent Sandwiches and Friendly Service!! If anyone is looking for a great place for a sandwich please give this place a try! My fianc\u00c3\u00a9 and I stopped in today since we were both craving sandwiches. They have a large menu with so many options. To say the least we are both very picky- not only were the sandwiches delicious but they were huge! I got the turkey, avocado, bacon club sandwich and fianc\u00c3\u00a9 got the number 2. The owner/managers stopped by to check on us and they were so nice- it's nice to see that they care about their customers. My family used to own a deli and I have yet to even find a place that I would even eat at! This is the only sandwich place I would recommend ! Thank you guys great job !!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Extraordinary sandwiches plus more restaurant. Smells amazing, serves more than enough. Half way through and no turning back. Savory, soft, thick and deliciously prepared. End of story. Definitely driving 45 minutes to eat at this joint. Breakfast, lunch or dinner. Service is great. Atmosphere is clean and clear. Straight to the point: it's hella good.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Fabulous Food!! SOOOO tasty! East Coast Pastrami even had some charred ends! It was SOOOOO good! Will definitely be going back!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Fantastic sandwiches.   I had the west coast pastrami and the shrimp Po boy.   Highly recommend both", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Fantastic! First time visiting Bronx. Totally hooked! Had the cheesesteak , it came on this fresh baked sourdough roll, perfect condiment, cheesy and full of meat! My friend had a Turkey club, stacked high and another had the pastrami. The breads are all fresh made, sandwiches are fresh and full. Homemade chips are awesome. Ya gotta try this place! We'll be back, and soon!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "First let me say I really like the owner of this location. He was extremely supportive of my MARY KAY business. However today when I walked in inside the place was extremely hot .   I asked about the air temperature because we wanted to dine there . The front desk girl looked at me like I was a little crazy for asking . It has now been over 20 minutes and they just started our order . As much as I love this sandwiches , I will think twice about going back. Very disappointed and sad I needed to yelp this .", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "First off all this place is amazing. Good customer service and owners and co worker's are very friendly. Sandwiches are amazing and really nicely done. All Sandwiches posted on board tabs if any questions they will take there time and guide . Good place to have a sandwich.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "First time here so my data set is 1 ..... service was good with nice helpful person at register so that's a plus 1....Got exactly what I ordered which was nice and seems to be rare these days.... I asked for cheese on one half of the sandwich and they did it!   No smart ass comments about not liking cheese they just said yes. Another plus 1....Clean interior Another plus 1....They have cookies at the register which is great because who doesn't like cookies??? Just serial killers and donald trump....so another plus 1...How do they get to 5 stars ?   Just need to have some sort of spread that is the bomb... like maybe a   lemony dill for turkey sandwiches and a smoked relish for beef sandwiches???", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "First time here today this spot has some really bomb sandwiches. it's one of the only sandwich spots that I'm aware of that actually has the balls to cook poultry. The chicken breast Baja sandwich is pretty incredible for the price at 9 bucks easily fills anybody up. The manager was very focused on quality control and making sure that everything was tasting proper even though we were sitting outside and away from the restaurant. if I didn't live so far away I would definitely be coming back here more often.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "First time here.   Picked it via Yelp nearby restaurant and it looked good.   Front cashier was very helpful in narrowing down a Selection and I thanked her for her good service (3/31 @12ish) Apparently they are known for their pastrami and the hot West Coast sandwich did not disappoint.   I checked in on yelp and I got an order of fresh kettle chips for free. I was actually surprised at how expensive a sandwich and a soda was.   I think I spent pretty close to $15.   However the sandwich was delicious and I had leftovers for a second meal.   I don't eat a lot so this may not apply for everyone.   I got my sandwich on baguette and it was perfect.   Nice thick chunks of pastrami and melted cheese.   I would most definitely return and I hope they open one up in NorCal.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Food was fine. But the review is for the worker who was at least 23 asking my 15 year old sister if she was free Tuesday night. Inappropriate. I came back in for some condiments and a missing item and the workers were all laughing at the guy for getting rejected. Do your job.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Forgot a sandwich and made one of the sandwiches incorrectly. Called them to deliver the correct items and they said no. Not worth   it.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Give me all the bread!I have been here for lunch a few times.   After my first visit I noticed that they scoop out all the soft parts of the bread and serve the sandwich in basically a crust boat.   The bread is the best part and they just throw it away.   For all my subsequent visits I have asked the cashier to NOT scoop out the bread but even after asking nicely I still got a crust boat sandwiches.   The kitchen has got to get it together and give the customer what they order.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Given them two tries now. Very weak Philly Cheesesteak. Cheese itself is not good. Scraped off the cheese and roll and just ate the steak and onions. Parking is good but that's about it", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Glad to see them doing well and opening a second location in OC.Nice place, modern and clean.The service was great and they have a variety of options, even a few vegetarian ones which I greatly appreciate.Portions and prices are fair, my husband enjoyed both the pastrami as well as the brisket.Nice addition to the area, I hope they do well.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Good sandwich shop that I will visit again to try more fare; I'm hoping it gets better.1. Got the Philly Steak Fries. These were good, but the fries were pretty undercooked. This, or even half of this, is enough for a lunch.2. Got an Americas Most Wanted, and while the bread, grilled onions and mustard was good, the meat was quite bland, being greatly overpowered by the additives around it.3. As my order was to go, I packed up condiments to take with me. Unfortunately the lids were wrong and too small, making it almost impossible to put them on without folding the inner cup lid back in a bit of trickery. I'd appreciate it if these were readyto grab and go... especially when a sandwich is $11, and the PCS fries were $9.Don't expect to have your sandwiches look anything like the photos. The meat or onions in mine was not visible outside the bun when I unwrapped it.I'll try it again, probably the pastrami next, and update review as necessary.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Good sandwich, but a little pricey. Lots of meat, great flavor.   I'll have to try again.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Good sandwich. Got the west coast pastrami on the bougette. Highly recommended if you don't know what to get. I'd prefer if their meats were all natural actually. Unfortunately they're not. So eat at your own risk and make it good.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Great sandwiches and a free style soda machine.   Loyalty rewards for free drinks and chips with purchases. They send a few texts once in a while when they have a limited time offer like roast turkey sandwiches. I've never tried that since I am in love with their corned beef Ruben with sauerkraut.I will always have to get My order to go since their chairs fit anyone over a Size 12. Big Sandwiches for tiny people. Bathrooms are super clean and handicap accessible. There are some nice tables to sit outside next to a fountain ordering Harbor Boulevard. It's at a Starbucks next-door so lots of Pok\u00c3\u00a9Stops here.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Great sandwiches very filling. The customer service at this location was great. There were not very many people here when my friend and I showed up on this Sunday afternoon. I had the pastrami sandwich, I don't remember the name of it I'm sure it was something clever. These sandwiches are huge and plenty to split with someone. They also have fries with toppings on them I have yet to try these but I definitely plan on coming back and trying them.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Great sandwiches, solid portions. Lots of variety for my sandwich cravings.I always end up getting pastrami sandwich!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Hands down best sandwich shop in Orange County!      GREAT QUALITY, SERVICE, AND PRICES! Big portions leave you with more than enough. Personal favorites are definitely the West Coast Pastrami and the Bronx Dip. Very clean and nice atmosphere for my lunch breaks. Tasty fresh sandwiches make this my go-to lunch spot!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Hands down by far THE BEST sandwich shop in So Cal!   Bronx Turkey club on baguette is my go to, but all the sandwiches are amazing! My kids love the fries and chicken tenders too! Restaurant is super clean - dining room, kitchen and bathroom! Big portions so arrive hungry !", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Haven't tasted my food yet...BUT....special shout out to LEE LEE!!!....she was so sweet and kind and was very knowledgeable about the menu.Also...the cook was nice too!Definitely will reccomend this place to my friends.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Holy HOTDOG, sliced meat and French Fries sandwich!!! Giant portions and soooooo delicious!!! You guys nailed it!!! The restaurant was super clean, the cashier was really nice and helpful, the TV's had some some cool MMA and sports on and it was really a great experience. Great digital menu boards. Easy to read and made the place look awesome!!! Nice work!! I've been to the one in Orange a few times too.. But I think I like this location better. I'm torn. I'm looking forward to working my way through the menu. I go to the float place across right across from it, sooooo I'll be frequenting this establishment often!! You should too!!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Honestly sandwich is not bad but these workers are not smart. They don't listen to your orders. Never coming to this one ever again", 
+            LexiconAssessment: "neutral", 
+            MachineInterpretation: "negative", 
+            Results: "false negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Honestly.. we didn't try enough for a full review. We went for Grand opening. 5 stars for parking5 stars   for speed of service 5 stars for quality of food 4 stars for portion sizes       Sandwiches =large & regular fries=medium.5 stars for vibe and cleanliness of restaurant.  -It is modern, new and clean. Overall, we will be   back!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Huge fan of the Tustin store. Had lunch here with a work colleague and he knows I have talked up the Tustin store. We were not disappointed. I got the Baja Chicken and he got the West Coast Pastrami. Both were great sandwiches and both matched what I expected from the Tustin store. There seems to be a few tweaks in the works but all in all, a can't miss. Easily can feed two.BTW, the person who ordered the Boss sandwich and says it didn't have any flavor must be mistaken. I have had that sandwich several times and I have to order it w/ out the olive mix (not a fan of olives) and there is plenty of flavor. She needs to try it again, try the Hero, it is a safer option.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I am absolutely speechless   i haven't eaten any sandwich like this place! Jesus Christ, like damn, i ordered the bbq brisket hot sandwich, man it was out of this world. I will definitely come here again next time with friends, cant wait to try the pastrami nextoh and customer service... extremely friendly and helpful. Loved it! See you soon Bronx!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I am always looking for good deli sandwiches near my place and am happy the bronx came to the neighborhood. The sandwiches are a smidge on the spendy side but worth every penny. they are generous with the meat. They clearly think about flavor i.e. how things like maple turkey work well with pepper jack cheese. (who knew) The bread is key to any sandwich and their roll has a nice crunch followed by a nice melt in your mouth chew.Bottom line they have quality ingredients. Great bread. Yelp check in goodies, oh and the street fries are great for diet days.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I can't believe how awful this place was. I ordered 3 things from them and they got them all wrong. Of course I didn't discover this until I got home. 1. My pastrami sandwich was at least 50% fat. I've had New York pastrami and I know it has fat in it, but this was over the top. 2. My wife's club sandwich was missing the thing that makes something a club sandwich - the bacon. How can you forget the bacon on a club sandwich??   3. My child's sandwich was supposed to come with fries, but we didn't get any. I called to complain, and the person who answered was very nice. She told me she'd let the manager know that I'd like to speak to them. I left my number, but I never heard from this person. So they went 0 for 3 on my order, and I'm out over 30 dollars. Avoid this place like the plague, or go behind the counter and make sure they prepare your food appropriately.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I dream of sandwiches from here ! The baguette is the perfect amount of crunch and chew . All the sandwiches I've tried here have been yummy.   West Coast Pastrami, The Bronx Club, All American and the Bronx Dip and America's Most Wanted ! In fact, I'm here now picking up dinner. Love this place ! People are friendly here too.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I dropped by this new sandwich shop on Harbor near Baker in CM, bc I saw pics of massive sandwiches.   BSC did not disappoint!   Its located in the space previously occupied by Daphne's.I ordered the baja chicken ($9.49 | chicken, cheese, onions & peppers).   They offer numerous hot and cold sandwiches, as well as salads.   In addition, there are options for non-red meat eaters like turkey pastrami.   BTW, chips are complimentary with Yelp checkin (normally $2.99).My sandwich was winnahz.   It was packed full of meat and fresh, grilled veggies:   5 Stars.   The sandwich reminded me a lot of John's Philly Grille (also 5 Stars).   I could have easily just eaten half, but I decided to eat the entire sandwich and save the chips.   Lastly, this sandwich blew away Ikes on Brookhurst in FV.   The latter has no meat in its sandwiches.Secondarily, the chips were nice and thick, and well seasoned.   In addition, the portion was massive.   The only downside is they could have been warmer:   4 Stars.Regarding the ambiance, its not fancy.   There are tables indoor and outside for you to enjoy your massive sandwich:   3 Stars.On the other hand, the service was excellent.   My sandwich was taking a little longer than expected. However, the Viet fellow (manager type or owner), explained things to me, and brought me my sandwich as soon as it came off the grill.   That's good service!:   5 Stars.I now have another sandwich place besides John's to hit.   I'd like to try their Italian on a cheat day, or the turkey pastrami on my next visit.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I got myself a pastrami hot sandwich (number 8). This was my first time trying their sandwiches. The bread was super crispy and i also added coleslaw to the sandwich. It was a super good combination.   definetely come back next time", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I got the club on rye bread and it was one of the best sandwiches I've had in awhile! The bread was super fresh and just overall a really good sandwich", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I had lunch here today. I wanted to try some place I had not before and I was here hoping to enjoy a sandwich better than the rest or at least the last one I had. The location was convenient for me as it was across from the parking lot of Target (I was shopping there). The outside was clean and had outdoor seating, not that I would sit outside on a rainy day like today. The inside had a sophisticated touch screen soft drink dispenser. The rest of the inside looked mostly clean and neat. I ordered the AMERICA'S MOST WANTED for $10.99 (Beef brisket, melted Provolone cheese, grilled onions and mustard). Checking in with the Yelp app gave me a free chips as a side. The  chips are like a cross between potato chips and french fries. They tasted dry, although some had some oil still on them. They probably would have tasted better if I had used ketchup as a dipping sauce (next time). The sandwich tasted of bread from the first bite. The meat of the sandwich seemed to stay to one side of it until I ate on that side. What followed was a strong mustard taste with onions until the meat kicked in. It was good but too big for my britches and I had to call it quits about half way through the second of my sandwich. The bread was too much for me to finish.The atmosphere is a bit like Jimmy Johns. There was a variety of different seating for people who like to sit high or low. The service was five (5) star. They hand out the vibrating order ready blocks after they take your order.I see myself coming here again to try one or two more sandwiches but they are lacking in a good italian and meatball sub respectively (they are two of my top picks in sandwiches). If you are a really big fan of pastrami this place is definitely worth a try.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I had the Bronx club today and it was delicious! Bread was tasty, fresh and had a perfect consistency. Lots of meat and the perfect amount of condiments. It is a huge sandwich and is very filling. Service was fast and friendly. Will be coming back to try more cold sandwiches and there salads look delicious.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I had the Sloppy Bronx, be aware that it has a whole side of fries on the actual sandwich. I knew that already from the photos I had seen, some people complaint that it had too many fries and very little meat but mine was just perfect, I knew what I was ordering and I got what I ordered and it was great.   Sloppy Bronx - $12.49 It's great to have a crazy arse place nearby that does whacky things like this.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I had tried 2 different locations & definitely like this one more. Staffs are friendly. Their fries are delicious, especially if you ask for xtra crispy, as they're freshly when you order. The sandwiches are always good whenver I ordered for mysef. However, when we catered there one time, the sandwich were like hard rock. We all had a really hard time chewing it. It was embarrassing since I was the one that recommended to cater there. I just want to be fair & still give it a 4/5 for all those good sandwiches I had.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I have visited the other location on Newport st and by far I like this location . It's smaller but the staff is super humble ! The cashier took me and my bfs order. She was really nice and interacted with me asking where I got my coffee (7 leaves). When our order was ready my bf got it and my sandwich was missing so I went to go ask and they apologize and I believe the manager said he was going to come and bring it to me . He then brought my sandwich   and I wasn't sure if it was suppose to come with a pickle or not but I went up again to ask how much it was( I didn't mind paying   for it because the sandwich quality is super good ) and they gave me two on the house .   Love this sandwich stop , really hits the stop after a hike and the bf definitely love it", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I have yet to order a sandwich I did not like.   They get pretty packed, but they are always very pleasant when I order.   I will definitely be going back to try more sandwiches.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I like the Anaheim location better. They actually bring you your order if you're dining in.Yelp check ins for the free house chips is one per transaction. I thought that was dumb but whatever. Had I known then I would have just done a   separate transaction from my hubby so we could both get chips.I see that our order is ready but they seem to be having issues figuring out who's order it is..Other than that the sandwiches here are good. I always get the Bronx or the Boss. Easy on the lettuce because they just put way too much.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I love sandwiches, both hot and cold, so I was excited to try a new place in the Costa Mesa area. Bronx Sandwich Company has 3 locations (Costa Mesa, Anaheim, and Tustin) and offers a selection of NY-influenced sandwiches and salads. The Costa Mesa location is located in a pretty big plaza with Target and Sprouts. Service was great - the cashier went over the menu and most popular sandwiches with me.After much thought, I ordered The Philly Cheese, which has thinly sliced beef, melted Provolone & American cheese, grilled bell peppers, onions, mushrooms and mayo. After about 7-8 minutes, my sandwich was ready. I enjoyed the taste of the sandwich, but it was super oily. The components of the sandwich were delicious, but my fingers were drenched in oil after a few bites. At $12~ for a sandwich, I thought it was a little pricey, so I'm not sure if I'd be back. The Yelp check-in for the free chips was a nice touch. I loved how thick the chips were, but the seasoning on the chips wasn't even. Some of the chips had no flavor, whereas other flavors were super salty.Since Bronx Sandwich Company is still pretty new in Costa Mesa, I'm sure they're still working out some of the kinks. While this wouldn't be my go-to sandwich shop in Costa Mesa, I might consider coming back sometime. In the future, I'd love to see some half sizes of sandwiches on the menu!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I love to order a turkey Reuben here. Super yummy. I wish they had more locations! Good quality meat and ingredients with generous portions. A favorite!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I loved the sandwiches so much I reordered the next day too! Both orders on door dash. My first order was the Bronx club and I added bacon and avocado and I loved it. These guys know how to build a sandwich! My only gripe was about the sides. They're not bad... but it's not the best either. I usually prefer steak fries to shoestring and the potato and egg salad could use more chunky bites and relish to contrast the texture of egg and potato. Other than that, this place is GO-TO worthy!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I thought I would give this place a second chance. This time I ordered to eat in and not  to go  so I can see what was in the sandwiches.   My friend ordered the Hot Mess and I ordered the Sloppy Bronx again.      We split both sandwiches so we could get a taste of both. This time the sandwiches were filled with with the proper amount of meat and toppings and tasted great.    The only reason I gave it 3 stars and not 4 is the soda cups are the size of solo cups, for $2.99 not worth it unless you refill it several times. I hope they get regular size cups.   Also the sandwiches are a little pricey to make it a regular stop, but worth coming back once in awhile.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I totally agree with the guy above me! We sat outside at their patios and I was fully engulfed by marricha music and loud too.    Which I prefer only if I'm at a Mexican restaurant..... Good food and service tho", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I WANTED to like this place so badly! The pastrami was dry. The flavor was good but meat was just dry. There are 2 locations and I chose the wrong one. The Tustin location is where you want to go.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I was a craving a sandwich that wasn't from a large chain restaurant and came across this place. I went during lunch hour but luckily it did not take long at all to wait in line or receive my order. I was in and out in ten minutes (so that in itself will make me more inclined to return). Every order that went by me looked really scrumptious. I ended up ordering the Bronx Club. It wasn't the best sandwich I ever had but it was pretty good. I wish there was more avocado in it, but I did like how the bacon was crispy and it was a huge sandwich so it filled me up. The baguette was fresh which made a world of difference- the bread can make or break the sandwich! There was also turkey in it from start to finish so you didn't go a bite with just bread. I think next time I'll try the Reuben or pastrami if I want a more flavorful sandwich, that seemed to be the popular choice around me. Overall, the sandwich hit the spot for a lunchtime meal.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I was a little bit skeptical since I've never heard of this company before. We were very pleased with our food, service and quality. Yes it's a little pricey for a sandwich but the quality and flavors are there. We will definitely be back! We order philly cheese fries, beef dip and po boy. Philly fries could have used a creamy cheese sauce but the sandwiches were in point!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I was actually heading to 5 Guys when I saw Bronx from my parking spot. I don't know how many weeks the last place was open after Daphne's Greek left, but Bronx may just be here a while. I quickly read a few reviews before walking in the door. Free house chips with a yelp check in and a spicy version of their Baja chicken sandwich. The chips were quite good.....nice and thick and not overly greasy. They definitely needed salt and free is always the best price. The Baja chicken was also quite good. I chose the baguette and it can lightly toasted. Pepper jack cheese, onions, spicy sauce, jalape\u00c3\u00b1os onion and bell pepper. A very good and filling sandwich.I will definitely be back to try some other hot and cold sandwiches.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I was excited to try this because I've heard great things but I'm sad to say that I will not be returning. The first issue I ran into was their website. I tried to place an online order and was prompted with a very confusing screen not mentioning what was in any of the sandwiches. I have to customize a lot because of my child and their customizations page listed every ingredient they have on their menu, meaning I had to select all the things I did not want on the sandwich. After 30 minutes ordering 2 sandwiches, I went to the store to have them tell me they couldn't start the order because they didn't understand it and they didn't have my number (which I did enter into the order). After explaining every thing I wanted, I returned home to find that our order was completely wrong and that they didn't follow any of our customizations and seem to have just created their own because even the salad (which was ordered as is) came completely different than was advertised. If they have an online ordering website then they need to make sure it's functional and that their employees know how to use it because the two workers that were there both had no idea. Additionally there was only one cook meaning it took a really long time. Seriously disappointed with this place. A plus I guess was that the bread was decent...", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I was heading down to Costa Mesa this weekend with my fianc\u00c3\u00a9e and we decided to stop by for lunch. We ordered the pastrami and the club with the house potato chips. The chips were amazing. Since it was fresh it definitely tasted a lot better than your average bag of potato chips. The sandwiches were good too. They were a bit large so we struggled to finish them. This place is definitely worth a shot if you love sandwiches.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I went in today and ordered to-go like I've done a few times in the past. Ordered a Bronx Club, paid my $11.30, and sat down to wait. After 30 seconds the buzzer went off...it's never taken so little time, I thought. That's weird. I go get my sandwich, and comment  it's already done? . The girl working said  yeah! Cold sandwiches take way less time.  ...ok, interesting. I got back to work (I was in my lunch break) and opened up this sand which and I was so disappointed. The avocado has brown spots on it, the cheeses is stuck to the paper, the bread has completely dried out. It looks like this sand which was sitting out for at least half an hour from someone's previous order. I didn't eat it because what if I get sick? Seriously. I like this place. But why would I go back if this isn't the first time I was disappointed. (Last time I ordered to-go fries and they gave me chips. And I naively didn't check before leaving.) If you go, the dine-in food is great.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I'm an East Coast sandwich person and a tough audience.   Their sandwiches pass the test.   The brisket sandwich is thinly sliced and tastes great.   The pastrami and corn beef is not very east coast but passable for most people. The sandwich bread is crispy and good.Check in on yelp for the homemade potato chips.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I'm normally not a fan of Philly cheesesteaks but their Philly cheesesteak fries are the bombdiggity! My kid likes  the babe  sandwich, and my boyfriend likes the actually Philly cheesesteak sandwich. We are big fans, we just wish they had one in Irvine!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I'm teetering between a 1.5, but 2 stars should do. A pretty lackluster experience for me and SC given the hype on this spot. We stopped by on a Saturday around noon and the place had only a few tables occupied. Maria was at the register and man did we feel some bad vibes off her. It must've been her first day although when asked, she responded it wasn't. She didn't know the menu, couldn't give recommendations, didn't know how to work the POS system, didn't know pricing, and had a stank face on. A line built up because she was slow AF and inexperienced. I ordered #17 (The Hitman) with extra pastrami, extra brisket, and a toasted baguette. When asked for meat pricing, she said $1 for double meat then changed it to $3 total. She ended up charging me $6. I didn't have the energy to go back in line and wait 10 mins for her to figure out how to refund $3. She also punched in a regular cold baguette. When I corrected that I asked for it to be toasted, rather than changing it, she argued, then angrily called over more staff to teach her how to use the system. SC got the Philly Cheesesteak on a toasted baguette with a side of fries. No problems there. We got home and unwrapped the sandwiches. Photos of my double brisket double pastrami are below this review. The cooks mentioned it would be 6oz of brisket & pastrami for a regular order so mine should came with 12oz. Does that look like 12oz of meat? That doesn't even look like 6oz. I got a cool portion of brisket and an extremely thin slice of pastrami. Thanks fam for the solid hookup. $18 for a regular sandwich with what looks like less than a normal portion. SC had no complaints about her sandwich so I assume it was delicious. I probably won't be back for another 6 months or so. Hopefully they can work put some kinks by then. For now, a $4 sprouts sandwich will do.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I've been a big fan of bronx since discovering them in Anaheim so when I heard they were coming to my home turf of Costa Mesa, I was ecstatic! Sandwiches are humongous and can easily be split into 2-3 meals. Order a side of fries or the potato chips as they can easily be saved for additional meals too! My go-to sandwich is the philly cheesesteak or bronx dip for the oh so delicious au jus! The bread on every sandwich I've had has been perfectly baked, toasted, and soft. They don't skimp on meat and/or toppings as the all my sandwiches have been overstuffed, ALWAYS.if you're going here for lunch, you can expect a nice lil food coma but totally worth it. they also still have their check-in offer going so get your free fries/potato chips while you can!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "I've been lots of good stuff about this chain. Finally popped in when I was out record shopping in the area. The staff was friendly and semi helpful. The place was clean and not too busy. I ordered the turkey club. It was dry and the bread was chewy. It was definitely not worth the 11 bucks. The house made chips where freshly made but not hot so somewhat disappointing. I won't go out of my way to go back but if I find myself there again I'll try a hot sandwich and the fries.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "If you are a big fan of phillycheese steak sandwich this is the place you want to go. The size is not huge, but it is so yummy ... I order another one to get the right satisfaction :)It don't register that the fries were spectacular just good enough. Have not tried other sandwiches but I really want to. Overall phillycheese steak : go there point blank.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "If your looking thru these reviews seeing if u should eat here. Just go. It was bomb. got the Bronx sandwich", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "positive", 
+            Results: "false positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Im happy with the food and service, but the only thing is why do you play hispanic music that i dont understand? This is not a mexican restaurant, or joint!! Why is it thats the only music you play?", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "It was good however pretty pricey for a sandwich 11 bucks without fries. Then another 2.50 for a soda", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "It's an amazing place. I have sandwich places. I think sandwiches are overrated and I'm generally left still hungry after most sandwiches.This place is different. They use a variety of ingredients, freshly grilled. I bought the hot mess, which is really a mess, but it had a great flavor variety. The staff was friendly and helpful and the store was clean, conveniently located near other good stores.Why don't I give it 5 stars? It's $12 for a sandwich and we're not in LA where a PB&J would be $12. I think my price would be $8 for the sandwich. Also their home made chips taste boring. The chips have a near perfect texture, but somehow lack taste. They got the hard part done, they probably just need to salt them or something.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Just ok. Was not impressed with the pastrami sandwich. Wish they had offered a cold pastrami sandwich as only hot are offered. Also was so surprised to see workers with their hair down. I don't even cook until I tie my hair up!!Need to work on having staff wear hats or hairnets.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Lame.   Food is mediocre at best...okay taste, but VERY overpriced for what they are selling. Not very much meat for what you are paying.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Like most customers, I like to try something new and with pretty decent yelp ratings. This was in my work area and I decided to give it a go. There was a queue of people when I entered. Ordered a #8 pastrami with sauerkraut to go, total cost ~$12. Waited much longer than I would expect for a sandwich, but I do like the pager/buzzer. Opened up hoagie and found the baguette was undercooked. Not enough pastrami, too much sauerkraut. You could clearly see the wetness (read: undercooked) and density of the dough. It wasn't even brown on top and you could taste how undercooked it was. The hoagie has way too much 1000 island dressing and it soaked into the bread. Though I ate it I'm feeling queasy probably from the grease and the sauce. If I was closer I'd probably return it. Didn't want to waste my lunch. This was not good for a first experience. Maybe they are still getting operations in order.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Love this sandwich shop. I'm usually craving a sandwich and they have so much variety I don't get bored. I've been to both locations and both are great. My favorite is definitely the hitman. You can't go wrong really. Everything is made when you order and it's nice and hot, with cheese melted when they serve it up to you. They also have some new happy hour specials which include beer for only $3.50 and $6.99 for wings. The place is nice enough to hang out at and watch some sports while you eat. They have all the sports channels and pay per view events which is nice.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Loving the sandwiches here! I've tried their Philly cheese Steak, Bronx Dip, and BBQ brisket sandwiches so far along with their specialty fries.   Can't wait to come back and try their cold sandwiches on a future visit. The bread has the perfect crunch on the outside and softness on the inside. At first I thought the Bronx dip was my favorite, but the BBQ brisket quickly won my heart.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Most of their offerings that appeal most to me are probably an entire days worth of calories in one meal, but we treated ourselves. Worth it. You can't order online (yet) at this location, so we called in our order for pick up.We split the fried chicken sandwich and the sloppy Bronx sandwich. Both are served hot with your choice of bread. We chose French baguettes. We also indulged in the Philly cheesesteak fries. Everything was over the top in portion size and I had to give up on the bread and just eat the fillings about halfway through. One sandwich is probably enough for two people if you're not garbage disposals.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My boyfriend loves a good sandwich and works in Fountain Valley but hadn't had the pleasure of eating here yet. We decided to give it a whirl. Right off the bat, this place is kept very clean inside and we were greeted with a smile from Danny at the register. I ordered a corned beef Reuben with cheese, thousand island and sauerkraut and my boyfriend got the french dip with provolone. Our order was ready quickly and it was super fresh and hot. You could taste the freshness of my rye bread and the roll. The sandwiches were equally dee-licious and this place surpasses the expectations of a simple sandwich shop. Needless to say, we'll be back!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My dip did not look like any of the pictures.   It was A LOT of bun with very little meat and the meat was so well done it was dry and flavorless.   No amount of au jus could make it palatable.   I took most of it home and gave the meat to my dog.   She thought it was dry too.   However, the french fries were crispy and exceptional.   Still an $18 disappointment.   Won't go there again.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My experience was wonderful. My boyfriends not so much. I ordered the Bronx club (cold sandwich) BOMB. Loved that they had a hot sauce station. Service was fast. My boyfriend on the other hand ordered the BBQ brisket sans bbq sauce - the server some how interpreted that to be he wanted ONLY meat and none of the other toppings. We ordered to go, so we didn't realize the error until we were home. Simple mistake but attention to detail and confirming orders is key. We will still be back but will make sure to look at our sandwiches to ensure the orders were correct.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My family and I went to the Grand opening a week ago. 1st 100 adults got a free sandwich - most of their menu was available to order the free sandwich. I went with  The Boss  wifey went with  Baja Chicken . Let's just say WOW! Seriously- don't go anywhere else if you want to feed a family of 4! We got 2 sandwiches and fed all 4 and went home w leftovers. Sandwich was large and super-delicious - Looking forward to going back soon!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My fianc   and I had the Philly cheese fries and the west coast pastrami burger. Food was excellent and fresh. Sherman was very friendly and helpful. Good experience. We will be back to try more of the menu.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My fianc\u00c3\u00a9 been here and recommended we have it for dinner. He spoke so highly of it so of course I had to try it. I've had many Italian sandwich from different places and I enjoy a good tang from it. I took one bite and I was annoyed there was no tang or dressing on it. I'm thinking to myself I must not know my fianc\u00c3\u00a9 lol. Because his choice of a sandwich place sucks. I got the boss and I didn't get any dressing on my sandwich and neither did my fianc\u00c3\u00a9. My fianc\u00c3\u00a9 asked me if I got any dressing and I said nope. He was sooo mad and annoyed because he went after work to get it for us. Coming home and taking a bite of the sandwich and not getting exactly what you want is disappointing. Especially for a $13 sandwich!What sucks even more is we are in the middle of a move. So we have no sauce or nothing to even make this sandwich better or to at least the standard of what an Italian sandwich should taste like. I hope they do a better job at checking what goes in their sandwich and making sure all ingredients are on there. For now I am giving it 2 stars.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My husband and I came here for lunch and shared a hot mess. I checked in with Yelping was given a free serving of homemade potato chips to go with our sandwich which was awesome! More than enough food for two people and delicious. Can't wait to go back and try some other sandwiches. Highly recommended!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My initial review was bad but I was invited back to have a free sandwich from them which was really nice but I didn't actually come back for a free sandwich. My coworkers order take out from here again in which I decided why not give them another try since they were genuinely nice and apologetic for the last time. I ordered the same thing, the Philly cheesesteaks. The sandwich was completely different from before.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "My wife and I stopped in last week and split a  The Boss  sandwich.   It was a great thinly sliced Capocolla, Genoa Salami, Italian Mortadella, Provolone Cheese, lettuce, tomatoes, red onion, olive spread and Italian dressing on a french baguette. It was outstanding and we had the golden seasoned string fries.    It's new very clean, great service and will certainly be back soon.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Not sure if Sherman is the owner but he should be. I had the philly cheese steak it was unreal. The bread was amazing the meat was delicious. This place is clean and awesome. Great service. Thanks Sherman", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Not sure what happened tonight but my sandwich was not good. I've been there multiple times and have had a good experience but this time I asked for my sandwich toasted and it wasn't..kind of ruined it for me and then the avocado in it was black and mushy.. 13$ for a sandwich is pretty pricey so I expected a better quality", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Obsessed with their sandwiches. My current favorite is the Bronx Dip. I'm not a huge fan of their homemade potato chips. There's something about them that reminds me of McDonald's fries, which sounds good in theory but I did not like it.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "negative", 
+            Results: "both negative", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Ok, not great, screwed up order, finally got my rueben, sour kraut was completely flavorless, corned beef the same, won't be back", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Ok, not great.   2 drinks & 2 sandwiches $30.00.They seemed pretty disorganized tooVery fancy drink dispenser tooAll touch screen", 
+            LexiconAssessment: "neutral", 
+            MachineInterpretation: "neutral", 
+            Results: "both neutral", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "OMG Sandwich and fries was amazing a bit pricey but well worth the money 1st but not the last time I will definitely be back", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Omg the Manhattan pastrami fries, salad, tuna fish sandwich are amazing. Will go back again.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "OMG!! Sooo Good!!! Just try one of their hot sandwiches, you will love it. Everything I have tried, which is about half-the hot sandwich side, is amazingly delicious. The pastrami fries are a yummy. The staff is friendly & helpful. The restaurant is clean. Highly recommend!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "On Saturday morning I decided to try this place. I ordered a veggie sandwich and the the cook that made it for me(he was a short man and had tattoos on his arms) made it very delicious and perfect. I like to watch when I can, and I saw everything was very nicely put together. The sandwich ingredients were very high quality and it was at the most perfect warm temperature. I guess only thing missing would be a smile as they handed me my sandwich, other than he the cook is a genius. Will definitely be back. Next time I'll ask his name.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Ordered the American fugitive or American dream or something like that lol it was under favorites it was brisket and absolutely delicious!! Would definitely recommend this place. Big portions too. Yum", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Overall this was far from what I expected based on prior reviews. The stainless steel counter covered in splatters and dirt, the cashiers unfriendly, the TV stuck on the Netflix log in page. It took 20 minutes to produce two sandwiches and an order of their regular fries. The sandwiches hit the counter 3 minutes before the fries. When the fries hit I was disappointed they were just warm. Being the item holding up my order I expected them fresh and hit but it seems it was just a sequencing issue in the kitchen. I had no major complaints but while I was there two other guests filed complaints about wait then and not getting their full order. The sandwiches themselves were pretty good. Worth the wait? Meh.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "positive", 
+            Results: "false positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Really big portions quite unexpected, honestly.Price tends to reflect the fact that the portions are huge though (9-11 bucks).I'd recommend the regular good old Philly Cheese ($10.49). Pretty basic, but very reliably good. Extra lots of thinly sliced beef inside, so much so that I couldn't stop it from spilling out with every bite! Definitely worth it's price and totally something I'd get again.As much as I enjoyed the Sloppy Bronx ($11.49), I wouldn't recommend it as it was very messy and probably on the stranger side as it is drizzled with spicy mayo and contains coleslaw. The sausage inside is good, but I wouldn't get this again since I would much rather have a lot more brisket or thinly sliced beef.The spicy Alabama fries are not spicy at all, but they're pretty good, I didn't try any of their other fries here, but I'd probably recommend trying their other fries as these were just good, but not outstanding. Kind of basic.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Really like the food but the service is very slow in comparison to the Tustin location. It took over 20 minutes to get two sandwiches", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Sandwiches are huge and so filling. I was surprised at how good it was since first time trying it was thru doordash. I tried the Bronx Club and the havarti cheese in it is so yummy with the bacon! Such a good combination. Also got an order of fries and even thought they were a bit salty they were nicely done. Looking forward to trying the other sandwiches on the menu.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Sandwiches are very good, I would go back, but this place is a bit pricey. Almost $20.00 for sandwich,   fries and a small drink ( only size) overall if you want a great sandwich and don't mind paying a premium price, then you will love this place.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Sandwiches here are enormous - one can easily feed two people for lunch.I opted for their Bronx sandwich ($10.49). The Bronx comes stacked high with golden turkey, creamy Havarti cheese, crispy bacon, avocado, lettuce, tomatoes + mayo on a French baguette. I was a fan of their bread - grilled, but not too grilled, and it had the right amount of grease. The sandwich inerts were on point - the crispy bacon was generously distributed and I liked the subtle hints of the Havarti cheese.I also added on a side of macaroni salad; pretty good, but not great. Come here if you're looking for a good, hearty sandwich - they're so big they can account for two meals.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Showed up for Pastrami and it was great.SOOOO I've been back for Corned Beef,and what amounts to a cold cut Sandwich with all the fixins and the bread ,meat and folks are awesome .Love this spot", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "So after the much anticipated opening of the Bronx Sandwich Company, I have to say I am not impressed with the sandwiches we tried.. I had the Bronx Club, and my guy had the Sloppy Bronx.. and while his sandwich was indeed sloppy, and my sandwich consisted of the necessary ingredients for a club, I found the sandwiches underwhelming.. the Bronx club describes the sandwich with crispy bacon...check out my pic and let me know if that looks like crispy bacon to you.. the sloppy Bronx had amazing ingredients but lacked flavor.. Now the street fries, however, were another story.. we tried the Texas bbq brisket fries---OH-EM--GEE.. those fries were amazing,, grilled onions with that perfect sweet and vinegary bbq brisket and melted cheese--it was the perfect combination.. Other info: customer service is great; staff is friendly and warm..   seating is inside and out, but chairs are  ehh  IMO..Overall, I just wasn't satisfied.. now this being my first time, I'll have to go back and try another sandwich before judgement, but for now, my number #1 remains with Ike's..", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "So I have been back a few times since my less then great review and I happy to say it was a one time mishap as every other time the food has been fantastic...", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "So let me do this place the honor of actually yelping from the restaurant instead of after when I'm already in a self induced food coma!!!   This place gets all stars and rainbows!!! I felt like a college kid again! Stuffing my face without any fear of weight gain or heartburn.!!!   The staff is terribly friendly!! They walk you through all of their favorites and lead you to The sandwich of sandwiches!!Get the cheese fries!!!!!This is the first place that my wife and I have eaten at where the fries were not a disappointment!   I will seriously have to take a menu and check off each sandwich as I get them on future visits! This is gonna be the death of me!!!Damn I feel fat but I don't care!!! Extra time at the gym will be worth it!!!Cheers!!! Enjoy!!Hope they get one in Fullerton/Placentia!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "So..Im ready to eat You! Looks like the best ill ever have. No matter what. Great place to unwind relax go home full bellies", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Some of the nicest people in the food service industry. Sandwiches are huge-feeds two people. Spicy fried chicken sandwich is a must! They also have plenty of sodas to choose from.   This is my go to sandwich place when I crave it!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Somehow the order on the receipt was incorrect whether I accidentally ordered the wrong one, or she miss heard, I'm not sure. But the gentleman wrapped the wrong sandwich up for me take home, and made the sandwich I thought I ordered for free. Great service! And delicious sandwich!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Soooo good!!! And on top of that every time I've gone to the Costa Mesa location, everyone that works there is so nice.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Stumbled upon this place on our way to an event.   My daughter wanted a sandwich and we decided to give this place a try.   Wow- we were very surprised by what we found.   She ordered the The Boss and I got the Caprese Sandwich.   When our food came we were blown away.   First the bread is amazing.   Everything seemed very fresh and of the highest quality.   We each ended up with half a sandwich to take with us because we were quite full after eating half.   Could easily split one sandwich between two people.   Staff was super-friendly and facilities were very clean.   Wish there was one of these closer to home.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The first time I came here I thought it was amazing but I think I was just starving. The bread is good but they don't give enough meat to offset it. I have been 4 times now and I'm finding that a majority of their sanwiches just lack flavor. For $12-15 per sandwich I feel that there should be something a little more special like better/more flavorful cheese & sauces? Not sure. Just not out of this world good. I prefer Board n Brew with better meat ratios and sauce, plus they're cheaper too. So in comparison...meh.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The food is fresh, large portions and comes out quick.   Manager and staff were all friendly and customer service on point.   As a guy from NY it's as close as you can get for a franchise sandwich shop.   Try the Mobster with the house chips.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The food is good . Good catering order or lunch special . Vegetarian or roast beef works .", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The food was okay--everything was made fresh but it felt a bit greasy and rushed. The house chips were dripping in oil, and the roll that I got the chicken sandwich on was a tad bit soggy, even if I ate it right after I got it. I would MAYBE be back to try the other sandwiches, because maybe the one I ordered wasn't my cup of tea.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The place is spotless, the staff friendly and the food is great. I didn't care for the potato chips but my companion did. We both loved the fries. We shared The Hitman sandwich and Philly cheesesteak fries. They had some problems with their register, so be aware of that the first few days. Didn't try the cold sandwiches but the pot roast tasted like my mom's. That's a complimrnt, by the way!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The professional pics they had done of the sandwiches is unfortunately not how they serve. Had the Ruben with pastrami and I searched hard for the sauerkraut and found about a teaspoon of an amount and very little Russian dressing. Also not very much meat as well as it being one of the fattier pastramis I have ever had...Just like strands and strands of fat and I live for good pastrami. Kind of a bummer. Not sure I will go again. 3 stars because the girl who was working at the front was a gem and very friendly.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The sandwich was huge! It worked in my bosses favor since I gave him the other half. The meats were high quality and the bread was good.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The sandwiches here are excellent. I love a hot, New York style sandwich and you can't go wrong coming here. I've been to both locations and both are the same quality, delicious sandwiches.My go to is the Sloppy Bronx but the Shrimp Po Boy is very good as well.The portions here are huge. I would recommend splitting a sandwich with someone especially if you're here for lunch.I will definitely be back in the future. Hopefully I'll try something new because I can't stop getting the same delicious sandwiches.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The service here was phenomenal. I had never been here before, but I love sandwiches so I was excited to try a new sandwich shop. Boy was I not disappointed! The manager (I believe) took my order and gave me a complimentary beverage. While my order was being taken one of the cooks asked me if I wanted to try the roast beef before they made my sandwich, of course I said yes, the meat was nothing short of amazing! The soda machine there is super cool too, it's like a Coke Freestyle machine on steroids! The sandwich was as big as my forearm and was delicious! I will definitely be coming back here and telling my friends!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "The staff is friends and super helpful. My go to sandwich spot. Been here 3 times this week LOL. The bread is always fresh and the portions are great!! I'll be back next week for sure!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "They do make a great sandwich here but it's pricey so be prepared for that. We were excited that this location opened because we had eaten at the one in Tustin frequently before we moved. Everything is very fresh, very tasty and made exceptionally well. Portions are large and splitable (unless you are a big eater or extra hungry).   Unlike most chain sandwich shops this place doesn't skimp on the meat. It's piled high, a great quality and sliced thin. The veggies are fresh, the lettuce is crunchy and the avocado was actually ripe. My husband and I split the club, got two bags of chips and two drinks- it was about $24 and some change. You do get what you pay for here but the price will keep this from being our go to weekend sandwich spot (the other location is priced this way as well). However when we want to splurge and want something a bit different we will be back.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This branch of the Bronx Sandwich Company was okay. Nothing too special in terms of the food, but it was filling. I went today with some friends and we ordered different items on the menu. We ordered the Spicy Baja Grilled Chicken Fries, the West Coast Pastrami, and the Philly Cheese Fries with a side order of their House Potato Chips. The Baja Chicken Fries had bland fries that didn't stand out in terms of the flavor and texture. The fries seemed like they where just taken out of the freezer and straight to the deep-fryer and to my plate. The chicken and fajitas were not bad. The seasoning worked well, but on fries I would say no. Maybe the sandwich version is better. The West Coast Pastrami was okay as well. The sandwich did not have a savory flavor and the bread tastes like regular old bread. The Philly Cheese Fries were better than the Chicken Fries in terms of the meat and veggies. The cheese was melty and gooey in the beginning when I received the plate, but quickly hardens as time passes. I didn't mind too much since that's how provolone cheese is. The fries were okay as well. Same as how the fries for the Chicken Fries were.The house chips are what you expected. They're homemade potato chips and are a good addition to your sandwich if you need a side. No complaints about the chips. Better than the fries to be quite honest. The price for each entree didn't reflect the size and quality you would expect in other restaurants, especially with more delicious and less-costly substitutes.The location itself is modern and sleek. They also make sure to keep it clean as well from what I've seen. They have one of those new soda machines with a touch screen and had different soda selections to choose from, like the ones they have at movie theaters. Staff was friendly.Overall with four separate items tasted, the food was average and wasn't really expecting much to begin with before I tried it, even after looking at their menu online. First time here and perhaps my only time here.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This is by far my favorite sandwich shop in Orange County, and I am very particular about topping combinations, cleanliness, atmosphere, customer service and most importantly, meat quality. I consider myself somewhat of a sandwich connoisseur. My husband used Bronx   for catering for his work meetings, and his clients raved every time about the food. He has been told that they are willing to do more trainings as long as he brings more Bronx, haha. The first time he brought home some leftovers I knew I had to try them for myself.We have now gone to both the Tustin and the Costa Mesa locations and have had great service each time. Both the west coast and the east coast pastrami sandwiches are my favorite! The pastrami is literally the best I have ever had. It's not too heavy and perfectly portioned and paired   with the rest of the toppings. I decided to have Bronx cater a party I just hosted, and everyone raved about the salads and sandwiches. I especially loved the pear salad.   It was funny to watch grown men fight over pastrami...my bad for not ordering enough. My only complaint is I have to drive 20 minutes to get there! Please open a south OC location!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This is my favorite sandwich shop by far. The only other location I knew of was in Tustin. So stoked to see they opened one right by the target I always go to.Can't go wrong with any sandwich, but their pastrami is straight fire. It's all I ever get. Bronx Sandwich Co earned me the nickname Papastrami.Become your own Papastrami. You won't regret. And the owner/manager of this location is a total mensch. Super cool guy.I'll be back. Like... all the time.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This is one of my new favorite sandwich spots. Finally a place that makes Ruben and pastrami sandwiches right!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This is one of the better sandwich shops out there. Although for the life of me I don't understand why they put mayo in their breakfast sandwiches. Overall though I like their food and will continue to grab a bite here!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place always has the coolest people working .. and the sandwich/Street fries artist are so full of pride of the sandwich they make in the 2 month I must of been there about 7 times okay maybe about 10 times since I keep introducing my friends here and every single time it's great!I get the Texas BBQ Brisket Street Fries (with breaded jalape\u00c3\u00b1o) but The fried chicken sandwich if my favorite... and if you like fajitas the Baja fries are also pretty delicious!!  And to think the reason I came in here for the first time was to get my sister a salad. This place must just be word of mouth . EVERYTHING IS MADE FRESH!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place has amazing sandwiches and service to match it. If your looking for sandwiches this is the place to go.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place is amazing ! If you're in the area and need a hardy FRESH, look no further. I've been to the Tustin location and the quality and staff are great at both ! Sherman is very knowledgeable with the menu and overall a awesome person, I think he's the store manager. Try out the west coast pastrami sandwich !", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place is amazing! Huge delicious sandwiches & the fries topped with meats & cheeses are incredible.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place is awesome. I placed a order through post-mates at 4:20 it is now 6:00 and still no food. It states she is in laguna (tracking thru app) which I live in Santa Ana. How does that happen? Uber eats finally called and said Bronx gave them the wrong address. Clearly she is lying, I called and spoke to Ismael at Bronx sandwich and he was so willing to make it right. He said he would kindly do a one time Courtesy and make a new order. How awesome is that! Received a new order as I write this review. According to past mate app she is 10 min away with cold food. Thank you to Ismael for having the best costumer service!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place is great. I've tried a few different hot and cold sandwiches and they're all great. I call my order in so it's ready when I arrive and haven't had any issues. The sandwiches are on the larger side so it's easy to split one. Their loaded fries are great too. Highly recommend and try something new - you never know!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place is kinda like a mixture Lee's and Subway. I got a caprese sandwich, a pretty easy recipe with tomato, mozzarella, cucumbers, and pesto. When I got my sandwich all I could see was the HUGE pile of shredded lettuce and ... pickles??? Yeah they forgot the cucumbers and put pickles. Since most of the sandwich was refrigerator-tasting shredded lettuce, it was pretty tasteless and disappointing. My friend got the spicy Alabama though, he said it was pretty good! This lettuce in the picture is just from ONE sandwich .... and my pickles", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "THIS PLACE IS MY JAM! The best sandwich I have ever had in my life. I got the pastrami on a french baguette. The baguette wasn't hard like most are. It was absolutely perfect. There fries were so good too! I WILL be eating here again.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place never disappoints. My wife and I have been here many times. It's right down the street from our house and we usually get it whenever we go to target. Having a newborn though it's a little harder to get out. Being on Grubhub and other delivery services has been exceptional. Good business decision. We always switch it up and try new sandwiches. Anything with pastrami is a must try. Also their loaded fries are all good, non have disappointed. Would definitely recommend this if you are wanting a sandwich. You have to top it off with a black and white cookie for dessert too!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place was amazing!!First of all the sandwiches are absolutely awesome!Sooo great I think my favorite is on the think sour dough vs the french bread, but both good!!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "This place was really good. I'm kind of a sandwich snob and I was quite impressed. They offer Pre packaged dirty kettle chips, but they also make their own! They are huge chips and delicious. I ordered a steak sandwich with deli mustard on a baguette and it was huge! This is a meal that you could easily share with another person. You can choose between a French baguette, sourdough, white or wheat bread which is also a nice option. I wish there was a location closer to home and I absolutely recommend this place. The staff is super kind and helpful as well.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Thoroughly impressed. The quality of everything seemed solid but there was just no flavor outside of the mayo/butter. I got the Philly and my fiancee got the Club. Both looked amazing but neither had any flavor. We ended up adding salt, pepper, and mustard to our sandwiches just to have a bit of flavor. For the price I expected much more refined sandwich with flavor but these two (completely different style sandwiches) just didn't deliver.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Today was my first time at Bronx Sandwich Company and it will definitely not be my last. I ordered the Bronx Club. It was big enough to split. Lots of flavor and fresh ingredients. The bread was delicious. I would have liked more bacon and a little less lettuce but that's just my personal taste. I know to order extra bacon next time. Oh and the cookies for dessert looked amazing (I didn't try, I just drooled from afar). Prices are reasonable especially for the amount of food you get!The restaurant is modern and sleek. Very clean. Friendly staff that will answer any questions you have. Parking is easy. There's no reason not to go. I can't wait to try more!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Today was my second visit to Bronx Sandwich Company and I really wanted to like it because it's so close to my house. However, after this time, it's safe to say I will not be returning. Either their sandwiches do not much have much flavor or I just get someone who doesn't know how to make the sandwiches properly. Most recently, I ordered the Sloppy Bronx and the sandwich was dry. They left out the 3 different cheeses that were supposed to accompany the sandwich. The fries that came in the sandwich were cold and definitely NOT crispy and there was some mayo but it wasn't spicy. And there was very little coleslaw and meat... all contributing to a very bland and dry sandwich. Very disappointing. I will not be back when there are so many great sandwich places around.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Tried this place for the first time the other day cause it was so close to my work, and I loved it! I got the Hitman sandwich and it was so delicious! It was also great that if I checked in on yelp, I would get a free side of fries. I definitely recommend this place. They have lots of different sandwiches to choose from (cold, hot, breakfast) and though I've only tried the one so far, I'm sure their other sandwiches are just as good. Go try it!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Update - It's a flip of a coin lately when I call to place an order as to whether or not the phone will be working on the Bronx end or if I'll get a recording from their telephone provider =/Wow! Went there for the first time a few days ago and just went back in again this evening and I can't get enough. Massive sandwiches with plenty of meat. You want a pastrami sandwich? You're getting fresh, THICK cut pastrami. The sandwiches are fantastic here. King of Queens is my favorite (so far) and the staff is incredibly friendly with a nice dining area to go with it. You can also call-in your order ahead of time which I just did and it was ready to rock right when I walked in. Can't wait to give some of the many different sandwiches on the menu a shot. This place is awe", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "We LOVE ordering out for delivery at this place! Always on time and the food is still SO hot!! I get the cheese steak sandwich and it's so melty and amazing!! Will go back for sure!!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "We went to the Grand Opening today! We'd never been to this chain before. After waiting in the rain it was well worth the wait! The BBQ Brisket on a baguette is the best sandwich I've had! I can't wait to return!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Went back a second time, my wife had a corned beef sandwich, I had an excellent Philly cheesesteak sandwich.   We split french fries. The food was excellent. However, it is a little on the pricey side, but I did not regret it after taking a half of the food home, and having it for dinner. The sandwiches are large enough to split, or divide up for two meals", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Went in last night for the first time. I'd seen it many times but we just never made it in. As far as the food goes, it was good. Maybe what I ordered wasn't what I was exactly craving, but I still enjoyed it. Same with the boyfriend. The portions were so big, we both had leftovers. My main review is for the employee who helped us out. Logan!! He was amazing! He was helpful when we were ordering and very friendly. He kept checking in on us throughout our time there and brought us togo boxes without us having to ask. All in all I'd say it was a successful trip there. We will definitely return to try some other menu options. And if the rest of the staff is like Logan, then no doubt our experience will be great every time.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Went in today on a friend's recommendation and this place was awesome.   The cashier was so polite and courteous. We ordered the hot mess sandwich on the baguette and the Philly cheese steak fries and OMG.   They were amazing. I cannot say enough about the food. I will be telling everyone about this place. My only negative about this place was passing it by too many time telling myself I should try it before actually going in.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Went to the opening of Bronx sandwiches today! I loved my Baja chicken sandwich and the hubbie liked his King of Queens. We would definitely go back and try a different sandwich and get a cookie.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "What a great experience. Food was exceptional. Logan the young man who took our order was very knowledgeable about the menu and provided some of the customer service that I have seen in a fast casual restaurant in a long time.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "What a great sandwich spot! Clean, bright, cheery. Amazing fresh ingredients and the house chips are a must! Fresh, light and crispy, and not over salty. Phil at the front counter is top notch customer service! After offering his opinion when I told him it was my first time, he was so helpful. Then after sitting down to enjoy our food, he came by to ask how we liked it and if it was what we asked for. Will definitely be back!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "What a wonderful lunch delight! Stopped by here for lunch because we live across the street. They have a really great selection of cold and hot sandwiches. A huge plus is they also make breakfast sandwiches! Sandwiches are about $10-12 and they come fully stacked. I got the Boss Sandwich and it was perfectly made and just the right amount of dressing. I'll definitely come back again and try another sandwich from the menu.PeaceAC", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Wow jumping Jesus on a pogo stick Great place !!!!!!!!!!!!!!!!The sandwiches are sexyer than socks on a rooster.......dam Skippy......mmmmmmmmmmmm", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Wow, we ordered the pastrami Ruben and it was delicious. Next time I will ask for more sauerkraut and 1000 Island dressing (it needed a little bit more) and maybe a side of 1000 Island). Can't wait to try it again.", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Y'all want a pastrami sandwich that doesn't taste like pastrami? Come to Bronx Sandwich Company cuz that's what you're gonna get: flavorless meat. You ever looked at a picture of a food and thought  man, that look smack ? That was me before I got my food. But nah, My first bite I was like wtf is this??? It didn't taste like anything I ever had. You get like 10 inches of bread and hella sauce and a couple thin slices of  Pastrami . I got baited y'all. Subway tasted better.", 
+            LexiconAssessment: "negative", 
+            MachineInterpretation: "positive", 
+            Results: "false positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "Yass! Found Bronx on Yelp and glad I tired it out, I had the club and it was amazing. I would definitely recommend them to a friend. PS this is a HUGE Sandwich", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }, 
+            {
+            CustomerReviews: "You can't go wrong with any of the sandwiches here. My husband and I have tried 4 of them and haven't been disappointed yet!-Bronx Club-Sloppy Bronx-Hitman-The BossI'm surprised about the comments stating there's not enough meat as they're loaded with meat. The baguettes are made fresh in house and are uhhmazing!! Aside from the sandwiches, their chocolate peanut butter cookies are INSANE. Like, seriously, order one today. Overall, Bronx is a little on the pricey side but they're good quality and worth it.Their service is also fantastic. Sherman is always so friendly and hospitable. Kim helped us at the register and was super sweet and helpful.We love Bronx!", 
+            LexiconAssessment: "positive", 
+            MachineInterpretation: "positive", 
+            Results: "both positive", 
+            Merchant: "BROC", 
+            ACCU: 0.918259
+            }
 ]
