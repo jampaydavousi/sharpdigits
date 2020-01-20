@@ -18527,5 +18527,1565 @@ ACCU: 0.895812
             Results: "both positive", 
             Merchant: "BROC", 
             ACCU: 0.918259
-            }
+            },
+            {
+                CustomerReviews: "A really kewlio sports shop. I go here for the fishing gear but enjoy lookin at the other areas they stock up on.The fishing section may not be the largest in the area but its packed will all your needs. The guys like to talk fishing too and for a novice like me that is very helpful.The prices are fair, the stock is plentiful and the staff are really nice too. Recent drive way work made parking a lil challenging but normally lots of parking (more around back).Go check them out, Im sure you will not be disappointed.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is a one stop shop for everything you need for your skiing experience! Thank you for making it so easy and simple! I was concerned about the prices but for everything you're getting, prices are very reasonable. Definitely will refer others, and will be back myself!Thanks Daniel for all your help", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Seth Rogan (Bryce) was absolutely amazing! He's hilarious and super sweet! He seriously made my experience at green room amazing. He's customer service skills are off the hook! If you need any help with anything look for him, you can't miss him, he'll make Make your trip here quick and FUNNNN!!!! Seth, keep on keepin on! Your kick @$$!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is dope! The staff is really engaging and helpful, we got helped out by Luke who gave us 5 star services! If you ever get to talk to him, he has awesome customer service skills. The Green Room is very organized, all the staff is well experienced and friendly! A lot of new and updated items as well as sale neatly presented. I've been here twice and they're really patient with you, taking you through every step before you make a purchase. I came in wanting to buy my first snowboard, boots and bindings. Luke gave me a ton of suggestions and recommendations, but was genuine and honest with everything he offered. Answered all our questions from the beginning to end since I'm really new to boarding, and even put the bindings on my board for me! Would definitely check this place out for all your gear from apparel, snowboards, skis, surfboards, etc. Literally a one stop shop with chill employees and A+ services.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Very helpful and usually knowledgeable.  I've bought a few things here over the years and have also had my skis tuned up.  They are primarily a snowboard shop, but they also have a reasonable selection of ski equipment.  The shop also has a large selection of outdoor clothing and even camping gear.Worth a check out if you are in the market for gear.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I come to Green Room for all my snowboarding needs! They have a large variety of snow clothes and gear as well as offer tuning and repair services. They also have ski or snowboard rentals and discounted lift tickets for sale. I get my snowboard iron waxed her for $15 (machine is $8). Definitely check this shop out if you're in the OC area!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Fish and Scott were extremely helpful with our snowboarding rentals! Price is fair as well. Definitely coming back.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Snowboard shops are few and far between nowadays. Green Room provides all my bording needs in one spot. Will definitely be back!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Brought the family in to rent some gears for our mammoth trip and I am so  glad that I did! The affordable pricing and friendly customer service (two thumbs up for Fish!) was all worthwhile! Definitely coming back!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I have been coming here for years. They are always friendly and knowledgeable. Awesome deals. You should definitely start here first for all your needs. Plus they just starting selling fishing gear so great selection.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Buying a snow sled for kidss and cashier told us to review for free Beene . I recommend  this place to anyone going to snow", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I am buying skis now and the staff is super nice they are great selection and the selection is so affordable it's on sale all the time highly recommend to come here I actually bought a rod and reel hear the new fishing session is cool", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came for a board wax and they finished it in 15 minutes!! Great customer service, helpful and respectful workers,  chaz and Bree were very helpful and nice and the shop is sick !!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came here to look for my first snowboarding package, customer service was great! Tony, especially, helped me find the right snow pants for me", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place has awesome gear! I was able to rent a board and boots for only $30 a day (such a great price!!)Also their customer service is on point. Fish helped me out and he was such a pleasure to work with. I definitely recommend coming here for all of your ski/snowboard needs!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Very Disappointed With This Shop. On Wednesday I came in after work to purchase a pair of snowboard goggles. the service was overall good but staff seemed rushed. I purchased a pair of smith xl squad goggles. Today i go snowboard and find out Green Room Oc Sold Me a pair of Goggles with a scratched up bonus lense. I was super bummed but figured the staff would help with this issue example let me exchange goggles for new pair or get me a replacemment lense with no scratches.  I just called and was told that it's not their problem at alland it's buyer beware. when i asked to speak with a manager the employee put me on a forever hold. I will NEVER go to this shop again and will tell many folks in the community that this place sales damaged goods for profit. Thanks Green RoomOc  for the horrible service", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Green Room is amazing! The ski rental process is fast and easy! So it made sense to purchase my first set of skis with them and I am really happy I did! They made me feel at home throughout the entire process and answered all my questions. Once I made the purchase they took the time to set up my skis including calibrating, waxing, and fitting them for my boots. I will never go anywhere else for my ski and snow needs.  Fish and Tony were awesome!  They helped my fianc\u00c3\u00a9 get her ski rentals in less then 10 minutes!  Green Room staff customer service is always 10/10!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Ok, so you may wonder where the Green Room is located. It's tucked a bit away on Euclid near the freeway. But you need to come here. The staff is amazing, friendly, knowledgeable and helpful. I was looking for new  ski equipment. I was lucky enough to be helped out by Bree, the Ski Manager. She was super helpful and fun to work with. She helped me with great patience to find just the right equipment. I am super happy with the service and my new purchases. And I can't wait to get on the slopes!!!There is a large selection of everything you need whether you ski or board. You will find great brands, awesome selection and super helpful and friendly staff. Get in here. You won't be sorry!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "How are you guys going to tell us to bring it on FRIDAY AT NOON, But argue with us and about to charge us $60 for bringing it in a day late, because it was supposed to be brought back Thursday at noon. We know what we heard, we are not illiterate. And we only rented the ski for one day on Wednesday, why would we want to keep your skis for an extra day? It's a waste of space, and time,we would've returned it Thursday IF THEY TOLD US THE RIGHT TIME, and the worker and manager began arguing with us... saying  those skis could've been used by another family.  Duh... you think we would keep those skis to go skiing in our house? You think we have a mountain in our home? Alright. It's only two stars because they let us slide. Would've been one star in my opinion :)", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "negative", 
+                Results: "both negative", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great place to rent out snow equipment! Went here with my group of friends to get snowboards, snow boots and a helmets. Unfortunately they dont rent out snow pants but they sell a large selection at a reasonable price. They were very friendly and accomedating for our group of newbies and answered  all our questions we had. Would recommend!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I have been coming here for years. They are always friendly and knowledgeable. Awesome deals. You should definitely start here first for all your needs. Plus they just starting selling fishing gear so great selection.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I am buying skis now and the staff is super nice they are great selection and the selection is so affordable it's on sale all the time highly recommend to come here I actually bought a rod and reel hear the new fishing session is cool", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Very Disappointed With This Shop. On Wednesday I came in after work to purchase a pair of snowboard goggles. the service was overall good but staff seemed rushed. I purchased a pair of smith xl squad goggles. Today i go snowboard and find out Green Room Oc Sold Me a pair of Goggles with a scratched up bonus lense. I was super bummed but figured the staff would help with this issue example let me exchange goggles for new pair or get me a replacemment lense with no scratches.  I just called and was told that it's not their problem at alland it's buyer beware. when i asked to speak with a manager the employee put me on a forever hold. I will NEVER go to this shop again and will tell many folks in the community that this place sales damaged goods for profit. Thanks Green RoomOc  for the horrible service", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Green room is a great place to go for cheap rentals. 1 day ski rentals are just $20 and they give you a day of free travel. Pretty quick service as well. Would recommend!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Fantastic service, great policy for one day rentals. Nice shop and really nice employees. Thank you :)", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Couldn't be happier with their services. Fish and Luke were so helpful and patience with our kids. Definitely coming back and recommending it to others !", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bree the snow manager was awesome!! I was deadset on getting a particular boot but she took the time to get me to try on a few other boots she recommended. Came out with a better boot well within my price range! Thanks Bree!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great place.  Nicely priced, great modern equipment for rental. Bryce was helping us...great customer service all around.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "We went to the Green  Room in a pickle!  I thought I had ordered my son's Xmas gift but it never went through on the internet!  Two days before Christmas and I'm screwed.  When I showed up Dezi at the register was friendly and helpful. When I looked around I was put at ease at once. One store stop and they had everything that I needed to make Dillan happy!  YEA!!!  The prices were even great. THANK YOU, Green Room. You saved a Moma's Christmas", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I usually only leave positive reviews of places but this experience was TERRIBLE. If I could give zero stars, I would! I called in prior to coming in to let them know I had a return that was from earlier this year and I did not have a receipt but the boots had never been worn. The woman on the phone said  no problem at all! Bring them in and we will exchange them for the size you need.  Well I did just that, and the manager (after trying on 5 pairs to get the right size) was extremely rude and said  is this for you guys? There's no way we can do anything for you. These are way too old, I cant sell these!  (They're brand new and they still have the exact style on the floor). He was very condensing and just flat out rude. I'm on my way to the Jack's outlet to get the same boots at a discounted price. Not sure how this place stays in business!", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "positive", 
+                Results: "false positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Rented some snowboarding gear last minute for a day trip, and wasn't expecting much. The guy that helped me was super knowledgeable and nice, I also loved the ambiance and vibe of the whole store. Kinda cabin like. Will totally come here next time I need snow gear.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "First time ever coming here. Super friendly staff. In need of a new snowboard. Nick is super knowledgeable and chill. He spent a solid half hour explaining details of the type of board that would suit me best. Learned so much. Will definitely return Mahalo!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Quick Rental service with a easy system which I thought was efficient. All staff is very helpful even among busy days. A variety of selection for all sports. Second year coming and I know what to expect. Highly recommend if you are in the Orange County or neighboring cities. Chris and Fish both helped my friend and myself.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great customer service! Daniel helped us with our snow equipment rentals. He was very helpful and attentive in making sure we weren't forgotten while waiting our turn since they were quite busy. Rates were very competitive and better than the other locations we've gone to. I would definitely come back and do highly recommend them.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great place , enormous amount of products. Very busy on the day I can in but the customer service was still on point and I'm glad I found these guys. Will definitely be back and might even purchase this demo board I'm renting. Would recommend to anyone. Nick is the man", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Good service and i like this place.There are a lot of good productThank you for helping me I will come back again", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This is my new go to place place for my ski needs. I use to go all the way to deal with true well trained ski techs. These guys not only have an unbelievable selection but are first class in customer service. I needed new poles and Daniel hooked it up! He didn't try to sell me the most expensive pair even though I was in a hurry and would have bought the first pair that fit. Daniel not only found me a great pair but on sale and matched my skis to boot. Dezi was also very personable and helpful on check out!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Dropped off my board to get it waxed and a spot repaired on Sunday. The staff greeted me as I walked in and when I got too the back counter they helped me out. Picked up the board today. And same service. I am very pleased with the knowledgeable staff. This is the go to place to get your board tuned up for the season. They even threw in a free beanie to rite a review. Great job Green Room!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "If you want to wait in line for 30 minutes and be over charged this is the place for you. I am a customer service coach and I have never seen worst customer service than with their worker Bree. She was rude, dismissive, and acted like I was bothering her. I can't believe how terrible she was. The parking is also terrible. Do not shop here and if you do watch out for Bree.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I came here looking for snowboarding gears for my first time boarding and was blown away by the selections and amazing customer service! Thank you to Nick for educating me on the various gear options and helping me pick my first ever pair of snowboarding boots. I ended up renting my board and bindings but I will be back to purchase my gears that I eyed this shopping trip. Thank you to Nick again for his amazing customer service and Fish for making the renting process smooth as ever!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Super fast service Great equipment and friendly knowledgeable staffGreat selection of gear Daniel was awesome!!Thank you!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came in to get my snowboarding gear and the staff here was great! My boots did not fit but Bree was amazing and help me mold them to fit me perfectly! Nick was also very informative and helpful!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Omg! Best customer service ever! Bryan Helped me get a snowboard and whole set up for my son. ( great prices) We will be back. Great prices on rentals too! All the guys were awesome and super friendly. Thanks guys! My son is going be so excited on Christmas morning.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Luke, Fish and Daniel were awesome helping my family and I with all our ski and snowboard rentals set up!  Great attitude and super helpful!  Always great dealing with them!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I was in need of bindings for my snowboard and was helped by Chas and Luke at the green room. They definitely know their stuff. They helped me setup my bindings perfectly. I always go here for all my snowboarding equipment and rentals and will definitely comeback.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great customer service from Bree and Nick. Boots were not wide enough and they were able to stretch them to fit my girlfriends feet. Thanks for the solution guys!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came here to check out gear for my girlfriend and everyone was amazing! Thank you Fish for helping us out with the rentals and making it an extremely easy process! Check this place out for all your snow sport needs", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Tony was great, very helpful great recommendation on a Nitro board with bindings. Came in under budget, great flex, ready steez it! Recommend getting in here for a new set up!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Luke and Chas were a huge help today setting up our new boards. Very knowledgable on anything and everything snowboard related! Chas helped me out with adjusting my bindings and putting on my new stomp pad. And Luke set up my boyfriend's board with some fresh new bindings. We're set for this 2020 season! Would definitely recommended going to them if you're stopping by the green room. Very nice and helpful guys who genuinely like their job and can carry a fun conversation. Thanks for your great customer service and for teaching us along the way.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Awesome shop great help. Scott hooked me up with really cool new snowboard boots. Got some great recommendations on other gear. Will definitely be back.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is amazing. The team at the rental counter,   Bree, Fish, Nick, all of them, spent all the time to make sure my kids were decked out for Mammoth!  Thank you!!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Never knew there was a snowboard shop so close to home. Thought going online was the best option but I was wrong. Came here for a board for my girlfriend and Luke was a SUPER big help. Very knowledgeable and couldn't have asked for better service. Definitely would recommend coming here and hopefully you get Luke to help you out! But of course, came out with an awesome board as their selection is great.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bought my snowboard online and needed boots and bindings for it. Nick helped me out and got me fitted right away. This place is great and I will definitely be coming back for everything I need.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Got my snowboard boots here and they were cheaper than anywhere else ! Yay :) they have a lot of snowboard stuff which is nice since a lot of other shops have a majority of ski stuff", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Good service and very speedy. Great deal on a snowboard, Nick helped us with everything.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bryce was extremely informative and helpful! Thank you so much for all your knowledge and experience helping us out with fitting for my very green 10year old snowboarder", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Awesome and quick rental service. Was also able to find other attire from their massive selection on great deals!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "A well deserved Thank You to Bree and the Green Room. I originally purchased a pair of skis online and brought them to the Green Room for service. Come to find out the skis I purchased were defective. Bree spent several hours , over two weeks working with the online company trying to get me a replacement pair of skis. Needless to say, this was not her problem since I didn't purchase the skis from the Green Room. However, she did it anyway and with a smile. After all was said and done, I ended up returning the online skis and bought a pair from the Green Room. After all that, Bree even gave me a discount....  Thank you!  I highly recommend the Green Room and I will definitely be returning for all my skiing needs.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bryce was so helpful when I needed to find a new pair of bindings! Made my experience much easier!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Found the staff to be fabulous!! Ueli (Master U) and Sam (Samski) were super helpful in fitting my feet with the best boots to comfortably fit my feet and then helping me buy some new skis and bindings! Wasn't pressured into buying anything- it just happened naturally! Their customer service and knowledge about skiing (in Orange County!!) was superb!! They also have a really good selection/variety to choose from. Happy to give such a great business my money!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place has amazing customer service.  I took my snowboard here to have the binding replaced and received top notch service from Luke and Jeff.  They quickly installed my new bindings for me free of charge.  I've been coming here to get my snowboard tuned and they always do a great job.  These guys are so knowledgeable about all snow equipment.  They are super friendly and don't pressure you to buy anything.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great one stop shop they got it all!! Every action sporting equipment you can think of. Customer service was on point. Fish was super helpful, it was like shopping with a friend who knew just what I needed. If it wasn't on the shelf's he was quick to pull it from their back stock. Satisfied is an understatement, hit this spot for sure!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Excellent customer service and extremely knowledgeable staff! Ask for Fish when you get there and he will hook it up! Jennifer was also super friendly and awesome to work with. Definitely only shopping here!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came into green room for snow boards and was helped by Dezi.  He was terrific, knowledgable and patient.  I highly recommend him and the Green Room.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I came here looking for snow boots for snowboarding and Bree helped me out today! She was very kind and considerate towards my needs and answered all my questions. I am satisfied with my purchased and excited to go snowboarding tomorrow!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came in here needing help on a snowboard purchase. Haven't been since high which was a decade ago and was completely lost. Luke came up and walked me through the process and wasn't pushy at all. He was knowledgeable and friendly the whole time. I won't be going anywhere else for boarding needs. Luke killed it. Thanks bud.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Been coming to Green Room for two years, Chad, Bree and the whole crew is always rad! Staff is knowledgeable, patient and have great energy. Must go to place for your snow and skateboarding needs!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "If your looking for rentals, come here. Really quick check out process and solid staff.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Love the greenroom!! Just got a new board, boots, and bindings!! Scott helped us pick out the perfect board, boots, and bindings and put everything together for me , So I was ready for the mountains. Thank you Scott!! Love this place!! Went back the next day to exchange my board and Bryce helped me make a solid decision on my freestyle board and put up with all my questions!! THE BEST THANK YOU", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This is a really cool place with a large selection of pretty much anything I could need. The staff here was even better. I'm fairly new to snowboarding and just came in for some wax and I was greeted by Luke. He was super eager to help me and answered all the questions I had. I couldn't ask for any better service. Because of that I will definitely be back again!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Tony made renting a board super easy! Great price and super nice to come here the night before going to the mountain! Thanks for the board man!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "My girlfriend and I went here today to check out prices and get fitted for boots. Fish and Nick were super helpful and patient us and addressed all of our concerns. Overall a great experience with even better customer service!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I was looking for some Christmas gifts for my boyfriend and when I got here Luke was amazing and helped me find everything I was looking for. He knows a lot about snowboarding and all the things that come with the sport. I'm glad I ran into him and he was able to help me get everything I need. Walked away with a brand new snow board, bindings and new boots! Fingers crossed my boyfriend loves it like I do! Thank you Luke Rio and Jeff for al the help.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I went in to buy my first pair of skis and needed help figuring out what type of skis/lengths would be best for me - while also staying on a budget. Bree Ski at Green Room was amazing! So nice & helpful - she hooked me up with some great skis that were on sale. When I came back to get the bindings fitted for my boots - she again helped me out & got them back to me in the same day! 5 star service at Green Room, definitely will be back!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Love these guys!! We have rented our snowboards for years here and just this week bought 5 new sets of snowboards, everyone is super knowledgeable and willing to help! Thanks Green room!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Best board shop around, hands down!  They have a massive selection of gear and clothing at great prices.  The staff was incredibly knowledgeable and the customer service was second to none!  Ueli and his team in the ski and snowboard repair department were great and so accommodating.  Ueli, will go the extra mile to make sure the customer is taken care of, as well as the entire green room staff.  I will be going here for all of my winter sport needs!  They are the best! Thanks Ueli and the Green Room team.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I wanted to purchase a wet suit for my 10 year old nephew as his Christmas present.   The staff Jennifer brought us different models and sizes was very helpful and patient as my nephew tried them on, and she brought her colleague Luke for additional advice and input as I was seeking for a suit that my nephew could wear for couple of years as he continues to grow.  Superb staff and customer service!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I am always here for ski rentals and my family they great customer service and they are good quality rentals if you are in the Costa Mesa area and want to go skiing or buy stuff for snow gear and fishing rods or sunglasses come here", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I came here as a first time snowboarder, I love their choices. So many varieties and they had everything I needed to prepare for the mountain. Their color combos are so cute! I would recommend coming here for your gear.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Went there with my son and they have a huge selection of snow gear at a great price! So glad I found this place!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Green Room is an awesome store. I just bought Skis, boots, poles and gloves last weekend. Their knowledgable staff took their time to make sure I got the right gear for my skill level and keeping in mind my price range. It didn't matter who I talked to they were all very nice and knowledgable. But the star of the show was Bree. She is always busy but whenever I come in she will stop what she is doing and help me with whatever I need. They not only have skiing and snowboard gear but they also have an awesome fishing gear section with knowledgable staff. No matter where you live, the drive will be worth it. And remember to sign up for their loyalty program. You get 10% of as well as text and emails about special events and sales.The Green Room is for real.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Absolutely amazing staff. Aria went above and beyond to help us. We walked in to get a jacket and ended up purchasing a new snowboard and a few other items. He set everything up and had plenty of useful information. Thanks for all your help, we appreciate it.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I would highly recommend coming here if you are looking for gear for multiple outdoor activities such as snowboarding, surfing, or skating. I came here and was very pleased with their customer service and wide variety of snow gear.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The service at Green Room was amazing! Both Daniel and Scott helped my family and I greatly, while also taking a lot of their time to help us! I recommend Green Room's rentals for anybody, solo or group.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I was surprised at how large the location was. They had everything I needed, great service and great atmosphere.  Also Luke was a great help for my snowboard rental and made it easy for us to get everything we needed quickly and safely!!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Love everything they have here. Snowboarding, surfing and fishing galore. Just bought a Burton snowboard with 10% from their loyalty club", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This was the first time we came here for ski rentals and we will be coming back! We had sufficient help from all 3 of the workers at the rental area and we are very satisfied with the customer service. One of the gentlemen even called his manager for our needs. The rentals are a reasonable and great price and the workers are very patient. We will be returning for future snow trips!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Green room is amazing and has great customer service ! I went in last night around 7:30 to drop off my board to get waxed and I asked if they could have it ready by 11:30am the next day and I knew there was a chance of them not having it done but one of the employee's ended up telling me that he'll get it done In that moment in about 15 minutes so I waited and he got it done so thank you to green room for doing that for me when they didn't have too ! That's great customer service right there so I'll definitely be back !", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is amazing! I know nothing about snowboarding and Scott was so helpful with helping find a bunch of items for my husband for Christmas. Even gave me additional ideas for him. We will defiantly be back again!!!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Green room is a simply cool place to go. They gave us snowboards for a reasonable price. The service is also undeniably great and the employees are extremely welcoming. I forgot that I was going snowboarding and forgot to get a snowboard, but I stopped by Green Room and grabbed boards with no stress. In general, Green Room is a considerable place to go to buy snowboards or any sport attire. Daniel and Fish helped us and they were quick and efficient.", 
+                LexiconAssessment: "neutral", 
+                MachineInterpretation: "positive", 
+                Results: "false positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "My first experience here was extremely positive, but my recent experience honestly was such a major inconvenience, that I just don't want to bring my business here again.I got fitted here for my first pair of boots a few weeks ago and had a really positive experience. The staff is very knowledgeable and can guide a new skiier to making a sensible choice. It just so happened the day I purchased a pair of boots, there was a raffle if you spent above a certain amount, and I also walked away with a free pair of goggles (another lady walked away with a gore tex shell, so quite the plunder). This was a really positive experience.Recently, I dropped off a pair of skis to be mounted with bindings (I bought the bindings in store from here). I called earlier in the day and asked them if they were ready, which they were, but when I asked the closing time, they said 7:30, and was like wait I thought you closed at 8, and they said yeah but the system shuts down at 7:30. I said whatever since the bindings were already paid for, and I was planning to just pick them up before 8.Because I commute from LA, traffic was worse than expected, and I was gonna barely make it on time. I called about 15 minutes before their closing and asked if they could wait like a couple minutes to let me get the skis, but the dude on the phone was like nah the doors lock at 8, and I told him that I'd try to still make it so please wait. Literally 3 days earlier when I dropped the skis off and bought the bindings, the whole transaction literally took place after 8pm so i don't see why this was an unreasonable request.I chose to shop here over going to REI, because it's good to support local business rather than some corporation that already dominates the market.However, because of the whims of the guy who got stuck with the closing shift this Thursday and didn't want to wait less than 5 minutes, I can't get my skis in time for the last weekend of the season, and basically have to cancel my weekend ski plans. Like dude I just bought considerably expensive gear from you guys, just work with me a little bit pleaseHad I purchased the bindings and gotten them mounted at REI, I literally would not have had this problem because at least they're open later.  I could have also just gotten them mounted from the website i bought my skis from.This negative experience with them not waiting basically cancelled out the extremely positive experience I had during my boot purchase. Like after my boot fitting, I felt compelled to come back here for my next gear purchase. but after this recent ordeal, I just don't feel the same way.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "First time to Green Room. We loved it! Everyone was so helpful and they have a great selection!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bree helped me shes cool, The ski and snowboard waxing and tune up is cool. They were quick helpful and informative about tuning my board", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Dez was great help picking out snowboard and bindings with my son and allowed me to put on hold till I could buy later when he wasn't there. Bryce and Sarah (aka Daniel) were great help when I came to pick it up.  Also helped me get some new bindings for my skis.  Very knowledgeable!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great service! Nick helped us out and made sure we had everything we needed! Great snowboards and Great prices! All the workers were very helpful.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Two weeks ago my friend convinced me to go to Big Bear. I've never been skiing and my friend suggested I go to Green Room. I walked into the store and headed toward the back to rent out some skis. One of the employees had me sign into an iPad. In minutes I was assisted with finding the right gear. I let the employee know that it was my first time skiing. I was provided with boots and skis very quickly. The store was hardly busy and I sat on the bench semi confused on how to put the boots on. One of the customers there was kind enough to give me a helping hand. I didn't even ask. The man was clearly seasoned and answered all of my questions. I guess the employees were too busy chatting amongst themselves to notice me struggling with the boots. That was annoying but I get it. I was more excited about my first ski trip than lack of basic customer service. After a few minutes of walking around in the boots I took them off and proceeded to check out. The pricing was great and I left to go back home. A few hours go by and I'm chatting about my trip to Big Bear with my friend. My friend asked me if I got my boots, skis and poles. I said to him  what poles  and immediately called Green Room to ask if they were still open. I called and told them that I was not provided with poles and the guy on the phone said  uhh did you ask  and I disconnected the call. I drove all the way back to the store and kindly asked if I could get the poles because I was not provided with them earlier. The kid working at that time was super helpful and gave me the poles. It was a pain in the ass having to drive all the way back to the store but I didn't have a choice. Overall this is a solid store I just think the employees working should pay a little more attention. That's all.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Sam and Daniel provide great service. I would come back here again, and I would recommend this place.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This is such a solid spot to visit for all your needs. The staff is super knowledgeable about their products and always explains things well. They have amazing prices for rentals, gear, and outdoor wear. Their selection of gear is huge so you'll always be getting something good. Best rental prices in the neighborhood, great staff, and an all around awesome store!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This was my first time shopping at Green Room and I couldn't be happier! Amazing customer service and plenty of sales associates on the floor to help you. Scott was so patient with my daughter while she shopped for her first snowboard. He was knowledgeable with different brands and styles. Scott wasn't pushy and didn't rush us to make a decision. He showed us boards in all price ranges and brands, told us the pros and cons and let us make a decision. I would highly recommend this store and will return in the future.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came here last min to get est bolts that were missing from the board we bought elsewhere. They guys here luke and Jeff rock and handled everything now it's perfect for my son to ride .", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great experience at the Green Room! Daniel was so helpful finding new boots. We'll be back soon for a board purchase!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great service. Very quick and efficient. Daniel helped us, they were very nice people. Very good prices as well, not too expensive.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came here to rent ski & snowboard gear for my kids . The staffs are very helpful and friendly. $30/day for snowboard n shoes , $20/day for ski n shoes , renting is much cheaper than buying them . I drove 30 miles to rent it is totally worth !", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "As a first time customer, I was very pleased by Scott. He was very helpful with finding me a board and bindings. I will be back and will be referring other people.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I came into the Green Room this weekend needing some snowboard help. Luke and Rio helped me get some boots. Guys were very helpful when it came to snowboard size and binding size. I'm definitely coming back when it comes to snowboard gear and setup.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great service and love the skis! Good sale as well with a lot of good choices to choose from.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great shop has everything you need amazing customer service shout out to dezi definitely coming back!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "AUSTIN is VERY HELPFUL,I have only been to the Green Room three times and Austin has been there to help all three times. Austin helped me buy my 160 Maniac, Ride Board, which was great because I had a couple other boards in mind that he deterred me from due to them being the incorrect size. Austin also helped get my friend a great rental setup a couple nights ago when he was very busy trying to get everybody else setup Friday night for Saturday morning. I was mainly very happy because he took very good care of us when he was extremely busy. I will definitely only come when he is working and will recommend anyone who needs a snowboard rental or purchase to go see Austin.Thanks Austin!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Picked up a new setup 2 days ago and honestly everything they said was 100% true and made me INSANELY GLAD that I shopped here instead of 2 other places that will go unnamed but are in south county haha. Bataleon global warmer Ride bindings Crab grab shark teeth HELLA HYPED!!!!! That bad boy ripped thru that big bear snow like a hot butter knife, honestly had one of the best days riding this setup that I've ever had in about 7-8 seasons. I'm literally already wanting to go back I can't ride this board enough hahaha Younger Dude with the blonde hair (I'll have to call and let them know honestly way too stoked) gave me the recommendation and honestly was worth every penny of my purchase instantly when I rode it for the first time today.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Went into The Green Room for ski gloves and walked out with a couple hundred dollars worth of fishing gear. Had no idea the shop has such an extensive tackle shop, better than your Big Box for sure and on par with Ketchum or The Angler. Nice thing about it was friendly staff with no Newport attitude if you don't own a 50ft Viking! I'll be bringing my reels in for restring since shop has solid inventory of mono/floro and braid.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This is hands down the best place to get snowboard or skiing gear. The staff here is amazing and very knowledgeable. Shout out to the Sunday Crew and to Betty, Jeff and Shaun. They were excellent. Came in and got a tune up on my board. Also bought a new pair of Zephyr snowboarding boots. They also mold them for you free of charge. Excellent deals in the off season (Up to 25% discounts). Plus they also have a huge selection of skateboards, surfboards, fishing gear and clothing. Definetly will be returning. They are a one stop shop and they have excellent customer service.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "My go to ski rental shop. Great prices! WAY CHEAPER than ski resort obvi, usually around $20-$30 for a day or two. Friendly staff. During peak season it may be a good idea to reserve skis if we have preferences on types and length. The only problem I sometimes run into is the checkin in tablet and the system freezes but general awesome shop, would recommend.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "very friendly and professional. we got helped by tony and he was awesome. quick and easy, a little bit of wait but it was worth it.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The BEST ski rental place in my life so far. They got the brand new skis and boots!!!! And the price is no different from the other rental places. Like wow. People work there are super nice and cool as well. I am SO excited to try these out!!!!!!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I was recommended to go there for a tune which I got off Groupon and they didn't de tune the board.  Which when I got on my board I had to take it 3 times to take care of there laziness and they do not have a good selection.  I can't believe how I was recommended but then again SoCal sucks when it comes to snowboarding.  Waste of time.", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "My family rented 3 pair of skis for a ski trip in Big Bear. We picked up the skis on Friday and planned to ski on Saturday. However, my kid had some kind of stomach problem when we got there and had to turn back. To our surprise when we returned the skis, the employee working there gave us full credit to use on our next rental. They really earned our business for life. Thanks.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I'm calling out Shaun or Shawn in the snowboard section. I was there back in the March time frame and this guy was excellent. Super super helpful. Knew his stuff inside and out. Knew the brands. Knew different foot styles. It's service and expertise like his that make shops like the Green Room indispensable.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Love the folks at the Green Room. Very fun to talk to and knowledgeable about the equipment. They have a huge inventory of gear too. You just don't see that much inventory in person anymore with the rise of online shopping. I can't wait to go back there and have an end of season shopping spree!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Austin helped us out. Everyone here knows their stuff. Betty helped setup our din settings on our skis. Everyone really nice and helpful. This is now our go to ski and snowboard shop.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Picked up some Implala skates for my 9 year old daughter earlier today and couldn't be happier with the service we received. I called before heading over and was pleased to hear that they had the color and size I've been looking for in stock. Honestly, I'm bummed I didn't know about this store sooner. I wasted my time and gas driving to a well known brand skate shop in Long Beach only to walk out empty handed and very disappointed with their customer service. I'm so glad I found Green Door and plan on returning with my husband to check out their fishing gear. Oh, and did I mention it's a 15 minute drive from our home?! *Insert facepalm here*", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Fortunately stopped in on a whim... couldn't find what I was looking for in downtown HB so I looked on Yelp and made a quick drive over here. The Green Room warehouse is vast, I mean it is seriously deep. The amount of product and displays are overhwleming and never-ending. Sales was very helpful, personable and knowledgable. Ended up purchasing a super slick cruiser skateboard for my son. Cost was about $125 and also purchased a skating helmet for myself. Recommend!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "By far the best place to go for snowboard and skiing equipment and knowledge. I went in with a broken binding and the guru yule knew exactly what to do. And the best part was he fixed my equipment instead of trying to get me to buy a new one! The guy knows what's up, as far as the rest of the staff everyone was super friendly and helpful i felt very comfortable in the store and they had such a good selection on all gear!! HIGHLY RECOMMEND!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is the bee's knees. Seriously. Quality customer service and fair pricing on rentals. My girlfriend and I have  rented snowboards here for a couple seasons now and every time the employees have been extremely helpful and very accommodating in pretty much every aspect.  I honestly can say I have have no complaints.  If your looking for a place to rent snowboards for a trip to any of the local mountain resorts, I'd highly recommend you to go here.  You'll get way better customer service than anywhere else and quality gear that's set up and cared for by professionals. At least, that's been my experience", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "All-time favorite boardshop. They help you find the right gear and hook it up with the Best Deals. Definitely recommend this place for any type of sport you are into.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Friendly staff and so helpful. We decided to rent the ski and snowboards (booths included) for out kids this years to beat the line at the resorts.  I am pleasantly surprised by how much we are saving. Highly recommend this place.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "These guys are super dope! Brought in my new baby, Al Merrick Rocket 9, with a ding on the tail and a cracked rail because I dropped it after a paddle heavy south swell sesh. $40.00 and ONLY TWO DAYS later (did I mention 2 days)...my baby is back! Repair was top notch and water tight! You can visibly see the repair, but it's glassed over and so smooth that if I was blind and running my hands over it...I wouldn't know it was there!  By the way, these guys were super friendly, professional, and knowledgeable. I didn't feel like I was walking into the typical core shop...you know what I'm talking about ladies and gents...the ones where you get the look like you don't belong even though you know you do, and you crave some sort of acknowledgement, let alone customer service (like you'd get at Nordstrom or other high-dollar stores), but you don't get it because you're in a damn core shop!!! Well, on the inside this place looks like a core shop and they have a plethora of goodies that I need to make time to go through, but the one thing that stands out truly is their customer service!!! From the gal on the phone to the dudes at the counter...great friendly service!!! Top notch service I tell yah! These guys rock!!! Thanks Shawn for getting my baby ready for next week's swell (and in only 2 days)!!!  I'm amazed!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Betty is so cool. The staff are all helpful and friendly. They help and assistant throughout your whole visit like you're at Nordstrom getting your suit sized, needing assistance with clothing choice and size. I have already recommended this place to several people.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "We went inside Green room to get bindings and to fix my mom's board. When my family and I walked in, we were greeted and helped immediately. We made our way to the back counter where Bree helped us fix her stripped board. She knew a lot about snowboards and helped us pick the best snow bindings for boards well. We got the Alpha Flow slip ons for 160 when on Amazon it was 190. My mom ended up getting a binding too. Bree adjusted the bindings onto our board for no extra cost. She was also working into her break time helping us choose which gear we should get. My brother and dad both got the white tiger mask. We also signed into Facebook to get free hoodies that were super soft and comfortable. My dad looked at snowboards and Bree told us what board she would recommend. The ride board with the tail on the back is one of her favorites because it rides like a snowboard and a surfboard. We have come here before and it was a good experience but this was our best.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "First time in. Definitely won't be my last. I have high hopes for this shop! Everyone's friendly. Knowledgeable and courteous. I sadly couldn't make the Saturday July 7th launch of the fishing section due to some unforeseen circumstances.... I was however able to make it in today. The fishing Dept will grow. These guys cater to the locals. This isn't no big box stores who sees you walking in like a dollar figure. I'll gladly hand over my hard earned money to these guys as pricing is fair. Environment is awesome. Thank you. I needed to get out today and decided to check you guys out finally and boy am I glad. My brother would've been just as ecstatic as I am knowing we locals now have a one stop shop. Thank you.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Thanks Green Room for the continued excellent customer service. I'll continue to support you guys for all my outdoor gear the future. Thanks again!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "About 2 weeks ago I called & spoke to Julia, I asked if eulee would be there so I could get boot fitted. She said yes. I asked again are you certain. She said yes, I said ok I'll be there in 15 min. She said ok. 15 min later I arrive. The guy is gone. I ask julia in person about our conversation and she looks at me with a blank stare without a care in the world & says, I dunno. The manager was also standing there, she was sweet and apologetic but she also seemed shocked and it looked like she was trying to understand why her employee could be such an idiot. In this big bad world of REIs, amazon and online ski shops like Evo and backcountry with free 1-2 day shipping and no tax, why would anyone bother to visit a disorganized shitty little mom and pop shop like this? Anyways, went to REI, got boot fitter by their top guy who's been boot fitting for about 30 Years, I purchased boots, skis, bindings, poles, helmet goggles and a ski jacket from them, which includes their impeccable customer service. Puke Green room, you lost $1983 cuz of your poor communication and utter stupidity.", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "negative", 
+                Results: "both negative", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I'm going to preface this by saying how rare it is for me to write reviews, but I gotta shout out praise for one of the employees, SHAWN. Lets be honest....snow equipment is way too expensive in general (sometimes it feels i should be taking out a loan just to buy some new gear). And after speaking with Shawn, I actually stayed below budget, and feel really good about my purchases (no buyers' remorse here)!Backstory: I came into the store maybe just 30 minutes before closing as I wanted to capitalize on the presidents day deals. Shawn spent time with me, even looking through all the snowboards with me to literally find the best deal for the money. My knowledge on snownboards is pretty limited, and Shawn answered all my questions with extreme patience and encouragement. He never once rushed me or pushed on me a specific board at a price point I couldn't afford. I felt like i was getting a real and honest review of boards and equipment. I ended up saving more or less about $300 in purchases...all within a short span of time (found this out later after I compared with online prices). Go here for your sport equipment needs, and ask for Shawn! He'll take the time with you to make sure you feel confident in your purchases. See you all up in Big Bear this weekend :)", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This shop treats you like family! Every worker recognizes a repeat customer. When my family comes in, they give us the utmost attention and care. We wouldn't go anywhere else for seasonal rentals for the kids, and purchases for all of us.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Rent your gear from Green Room!They got all new gear this year so I was riding on new Solomon boards all season.Plus Shawn from the rental area really knows his stuff and not only remembered me from the previous rental but also offered some suggestions for board setup based off how I described my previous trip.They are right off the freeway and have pretty painless rental software once you are in the system. Highly recommended and thank you again Shawn!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Hands down best place ever! They have absolutely everything you could think of and more! Betty and Madison are the best and so helpful! Love them! We rented snowboards and boots and it was only $30 so perfect! Raddest place ever definitely am coming back here!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Before going to Big Bear for skiing, we came here for renting ski packages. They are so helpful and patient, make sure you choose the right sizes. And pricing is so good!! Only $20 for adult ski package, while at Big Bear, it is $45! We will recommend this place to our friends.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Super friendly and knowledgeable staff!! Rented a snowboard from here and it was great!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great experience... Fish and Bree took great care of our whole family getting us fitted and geared up with some great gear.    A couple of us ended up brand new equipment.   We will be back before each trip.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The Green Room was a Godsend. I had to buy body surfing fins for Jr Lifeguards for my 11 year old and I did not want to battle the US Open crowd nor just the normal cluster of Main Street. I called ahead and Bree was super helpful and put some aside for me in the right size. Found plenty of other surfwear and gear for the family at the right price. I highly recommend them.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "My go to for any surf accessories or snowboarding equipment I always have had the best experience with any of their employees!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Just got my board fixed here.  Great job, done in just 2 days, and for a very reasonable fee.  They even gave me a free hat.  I really like these guys and recommend them for surf and snow needs.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Drove out Sunday to check out the shop and see their new wake board gear. The store was closed at 11:10 on Sunday, yet this sign said the store was to open at 11am. Thought maybe someone was running late, so I sat and waited till 11:30. Decided to take my business to another shop. Thanks for the wasting my time and I hope you read this review.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Hidden gem.... you have to go here. They have really good gear, I'm stoked I found this place leaving Costco across the way. I've bought 2 pairs of shades,   Black flys   von Zipper  and they always have awesome sales on name brand clothing. Today I picked up some Salty Crew shirts for 50% off. I almost don't wanna tell you guys because I'm GREEDY!!! Lol #retailtherapy", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The nicest people , amazing inventory and great product knowledgeWe will definitely be back", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Walked in yesterday (8/10/2017), With my hardworking seizure alert dog, We got treated like superstars! Honestly! Sully gave us his genuine smile, genuine advice, genuine love and kindness AND he topped it all off with this lovely Green Room cap! He simply made my day.It's not every day that you come across somebody that right away makes you feel they care!Without making it too long, I was there to inquire about electric skateboards to possibly use for walking my service dog on days that I'm not very mobile myself! It's an uncomfortable subject to explain to people but Sully just made it super easy with real understanding and compassion, he went out of his way to find a solution, even though we didn't find anything for this problem, I know I'll be back soon to buy cool gear from Green Room soon.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Wow! I am completely blown away right now. We came in with 2 adults and 4 kids to rent snowboards and skis. They outfitted us with all the equipment and were incredibly helpful! The entire staff was unbelievable with my kids (12, 10, 8, and 5). The best part was that they gave us the travel day up and back for free and only charged us for the days we are boarding. No reason to pay the ridiculous amounts on the mountain anymore. We would highly recommend this company!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "These guys were awesome. Very helpful and cool. Got a great deal on goggles. Highly recommend.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Got a tremendous end-of-season deal on top-of-the-line skis courtesy of Jay! Their site doesn't show it, but they do carry skis from Nordica, K2, and Scott. Apparently it's a nascent business for them but seeing that their selection of snowboard gear is massive, I hope their ski selection will grow to match it. Will be back again soon!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great selection and staff was extremely helpful! Came in during one of their sales and ended up with a lot of great gear. I suggest checking them out if ever in the area.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great place to get ski rentals and associates equipment. Top quality rentals. Great rates too. The staff are friendly and very knowledgeable. Family run business. Will definitely go back for our next ski trip. Check them out.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Very impressed\u00e2\u0080\u008b with the wide selection of action sports.\u00e2\u0080\u008b Walked in with my son and tried on some full cut skate helmet\u00e2\u0080\u008b that not many stores\u00e2\u0080\u008b carry\u00e2\u0080\u008b in stock.\u00e2\u0080\u008b So that was a nice surprise. Bought a skate tool\u00e2\u0080\u008b and nothing else because\u00e2\u0080\u008b we go there\u00e2\u0080\u008b a couple of minutes before closing. The workers were very friendly\u00e2\u0080\u008b. They also gave my son some stickers.\u00e2\u0080\u008b He loves stickers for his skateboard so major points scored.\u00e2\u0080\u008b Thanks for the hospitality!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This review is not for the selection or the store experience, but rather, the ability to even get in touch with the store:Tried calling today and cannot get through on the number listed on their website: 714-916-0033 - It says it's a Time Warner Phone # that has not been set-up yet. Really frustrating as I need a specific Smith MTB Helmet for a ride today and this is only one of the few local dealers. I cannot even get in touch with them to inquire as to availability. SO FRUSTRATING! Also the phone # on the Smith website is incorrect/not working, either (949-548-3688)....when I call, the recorded message says  At no additional charge AT&T can help you find a similar business in the same area)!!! :( GRRRRR........", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "positive", 
+                Results: "false positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Super friendly staffs and wonderful customer service! They have a huge variety of selection of any board sport. Recommend strongly for people who need snowboarding equipment and clothes.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is awesome! Jared was great, help us soo much! We came here looking for some snowboard gear and he hooked it up! Thanks!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Bree IS the Green Room! She is very helpful, extremely knowledgeable, and an overall sweetheart. The only reason I keep coming back here is because of Bree. And she speaks Korean :)", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Onto is the man to talk to about your surfing needs. Helped me pick out a wetsuit and demonstrated how to use the fcs fin adapter. Outstanding  customer service!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is an absolute toy store for anyone looking for high quality surf, snow and skate gear. All the employees are eager to help you find what you're looking for and are very knowledgeable in their respective specialties. Big shout out to Bri who helped me buy new ski boots for the first time in 15 years. She spent the time to answer all of my questions and helped me try on 5 or 6 options before we found the perfect boot for me. This was truly an exceptional shopping experience.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Things went wrong with s&h due to software issue. But, as soon as seller realized that, he went above and beyond to make a customer happy! Thank you Mac. Shoes are great!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Quality products, great selection, and friendly staff. Super knowledgeable about the sports and equipment they offer. Will definitely be back for seasons to come. Shawn knows his stuff in the snowboard department and really helped out.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Was there the day before Easter to rent some skis expecting it to be busy and a hassle with the  normal  rental experience.  The staff was freaking amazing.  This has been the very best rental experience I have ever had.  The owner, and their entire staff were truly friendly, knowledgeable, and attentive to every need.  The entire transaction took 15 minutes, and when I checked out the gear, it was almost brand new.  I couldn't believe it.  Only issue now, is if I put on a single scratch, they know I did it :)  Sully, Becky (aka Betty, Boots, B----) you guys are the best.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "They have some nice snowboarding gear here! I bought a pair of overall snowboard pants that I love love love! Definitely going back for more!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "So this will be a bit long of a review but it's to show just what kind of shop the Green Room is...I've been out of snowboarding for a little bit but am starting to get back into it again because my young son is fired up and learning. We were going spur of the moment local boarding in 2 days and I decided I no longer wanted to rent because even the demo packages at local mountain shops were surprisingly unimpressive. So I do some research on yelp, read some reviews and decided to haul in all my new stuff (boots, bindings) bought online and my old school burton F project that I loved (but the binding straps had snapped with age; yes, it's been THAT long). They said they were slammed with orders, but Sully one of the managers said he'd do it for me later that night, after work, special. Wow, super nice of him. While I was getting my boot liners heat molded, one of the girls who works there, Paige (she's super sweet), says since I was waiting there, she'd try to get the new bindings on the old board right then so I wouldn't have to come back later. That's when the problem occurred. The new bindings can't fit on the old board because the plates have changed. She could've stopped right there. She then thinks that perhaps some of the bindings they have might have the old plate type included. She proceeds to look through boxes and boxes of bindings, matching up plates to holes to see if she could make it work. It didn't work, but she went so beyond the call of duty. That's when Sully and I continue a conversation we started earlier about the boards that have changed the game. He shows me a gorgeous bataleon directional that he himself uses and was so passionate about: it's on sale, just my size, and he even gives me an extra discount. We close the deal, put the new bindings on it, Paige even tells me to order separately the old school plates which will then fit the bindings, keeping my sweet burton relevant and giving me the option of a true twin tip if the need arises. I go home happy as hell. Later that evening, as I do some reading about my new board at bataleon's site, I see that they're closing out the last few remaining camel toe stewart's they have in stock for an even better price than the store was, shipping included and no tax. I know my sale was final and Green Room has to charge taxes to me as a retail store but I call the next day anyways and speak to Sully about the situation (as the price difference was not insignficant). Sully was super, totally understanding, and said he'd speak to the owner, Mack, and get back to me. I didn't really have expectations but, sure enough, Sully calls back and said they'll give me back the difference + tax on that difference. Wow. This was a store that had been super helpful to me, even before I had bought any products from them, and now backing up their prices all the way to online prices. I actually feel a little guilty about it now. But they were very good at customer service and conducted business with the long term in mind. Thanks to Sully, Paige, and Mack, with their handling of this one transaction they've won a customer for life. You can bet I will be a repeat customer for ANY of my family's boarding needs (snow, surf, wake, skate) and would recommend them to anyone who is looking. Cheers, Green Room. -F", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Got lots of help and advice on buying a skateboard helmet. At a competitive price as well. Only 2-3 bucks more expensive than getting from Amazon.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Took my boy's to buy them new helmets today. We have never been to the Green Room because it's a bit of a drive for us. I was pleasantly surprised and found that they have something to offer for everyone in my family. Even me the Mom, cute clothes and sandals, great selection. My boys got to spin the wheel at check out and won some cool green room gear. Will definitely go back!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This review must undoubtedly be written for the service that I've received at  The Green Room.   The service that I received is an ideal template for other stores or companies to follow...and honestly you don't get this type of customer service at a lot of places anymore.  We'll start off with the large floor of selections in surf, skate, & snow.  What led me to  The Green Room,  was a search for possibly a new snowboard or even just a rental for the weekend for me and two other friends.  Tempted by the news of present and possible incoming snow we were new to the sport and were heading in with just the basics....if that.  Pleasantly and very luckily, we were met by BECKY which ended up to be one of our best experiences with customer service.  Becky was very knowledgeable and gave us a full scale of options depending on our price range.  She ultimately got me the best bang for my buck and tried to save us some money when she could or if things were not necessarily needed.  I ended up getting some new bindings for an older board that I bought and some snow gear for the mountain.  My other two friends were squared away with some great looking, newer rental boards that would optimize their new learning experience.  What really made  The Green Room,  a sold experience that would keep us returning was when Becky found out we were in a rush to make a date with the mountain.  Becky got on the bat-line and asked their tech BREE if she could set up my new bindings.  Bree was there in a jiffy and was on a mission to solve the mysterious geometry of getting new style bindings onto an older board.  WOW this surfer girl has got this craft down to a science and the determination is definitely there to solve the problem.  With a short stretch and a meeting of some BIND Masterminds in Bree and Becky, Bree got the lines and angles correct and got the board sorted and mountain ready after a quick wax and gummy edging by another employee...a girl whose name I missed but she came the front register to get my board work done.  All I can say to is that these three employees made our experience at  The Green Room,  a fully enjoyable, convenient, customer centered experience which makes the store our TRUE GO-TO place for our snowboard needs!  Bravo ladies!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Cool stuff but as a skater... I would rather drive down Warner to United Board shop or down harbor to Legends.... Small skate shoe selection, and small skate selection with over priced goods, I am not going to pay 55-60 for decks I'll get down the street for 49.99... Wasn't greeted byFemale staff, and was greeted by a man I couldn't see sitting behind a counter. Walking in I felt like a kid in a candy store at first, but I do not plan on returning here.  If you snowboard I'm sure it's a fine store... Same if you surf... Skaters, you are honestly better going to a active.... I don't condone active but seriously, support your local skater owned shops", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came here with a group of friends to shop for snowboarding gear.  The store offers a very large variety of all things sports related, so not finding what you need wouldn't be an issue at all.  My favorite part was the great customer service.  Antonello was extremely helpful and made sure we left happy.  Would highly recommend for anyone looking for sports gear!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is awesome. Definitely my new go to spot for surf/skate/snow gear. There's nowhere else in OC that sells NEW snow gear and accessories. They had a huge selection of this seasons boots for men and women. They carry the entire Burton line of snow boots. They also had kids gear- jackets, boards etc. And one of the best parts is that it's a family run local business. The owner is an OC local, not some corporate chain spot. The place is huge and loaded with everything. I was able to get something as small as new Burton buckles for bindings.. they also had top of the line sports braces (for injuries). Super stoked on this place, def check them out!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Came up from San Diego and it was a little cold out, so my baby finds this place for me to grab a long sleeve shirt.  Maaaan!  The Green Room rocks!  I've never seen anyplace like it.  Huge selection of stuffs.  Smokin deals on boards. And great quality boards.  We left with over $300 worth of goods.  And we got the pleasure of hooking up with Sully.  My new favorite place.  A++++++++", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "By far the biggest and best selection of everything snow.  I needed size 15 snowboard boot and they had several options.  I also found a great price on pants.  Staff was super helpful and friendly, and we were there on a busy Saturday.  If you don't check out this place you're missing out!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I walked into Green Room hunting for a new snowboard and was greeted by a very friendly sales team. I hadn't purchased a new board in almost 15 years and 2 employees shared a good deal of knowledge and recommended me a Lib Tech T Rice Pro. The owner (I think?) Sully was super cool and adamant about setting the board up right for me by taking my measurements and asking me about my preferences. I talked to Sully quite a bit and after all was said and done he hooked me up with a free beanie. Cool place, cool people. It's actually huge. Go there for any surf/skate/snow options.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Love this place! They have items you cannot find else where. Every time I walk in this place I leave with some thing I can't find at other surf shops. Sully the manager always has a bright smile for you and a hand shake that costs nothing. Warm welcoming makes you feel like you are special in contrast how you felt before coming to their store. Inventory is always fresh and new. I visit the Green Room several times a month and I find that for me the last time visiting is just as good as the first time. Great place!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great customer service and a huge selection. All the ski and snowboard rentals are brand new. Only shop in the area selling more than clothing.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Sully is a super awesome human being! Really nice and genuine guy. Took his time helping me out to choose the right board for me. I couldn't be happier! High lever customer service!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Good place with friendly staff and competitive prices and nice quality rental gear for adults and kids!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Just picked up two new Billabong wetsuits.  They had a nice variety to choose from with the sizes I needed in stock for myself and my daughter.  If you haven't been inside this store yet I highly recommend you check it out. The staff is friendly and knowledgeable and will help you get set with what you need.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Got a whole new setup here a few weeks ago and I love this place. The staff was super helpful and friendly. I will definitely come back here for all my snowboard needs!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place is awesome. Huge store great skate selection and clothing. All the people who work here are super helpful. Helped me build a sick skate set up! Thanks guys!!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "They had everything I needed for the upcoming snowboard season! They were so helpful with all my gears and questions that I have.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great store, and huge inventory plus great service, they answered all my questions about gear and gave me some very good suggestions. The quality exceeded my expectations. Definitely recommend to anyone  looking for snowboarding gear.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Knowledgeable, fast friendly service,had just what I was looking for,definitely coming back.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Killer selection of pretty much everything surf, skate, and snowboard related! This place is huge! Welcoming staff as well!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Stopped by as I saw the sign on the 405 on my way to Frys.Was looking for some ski poles, bags and freeski clothes.No skis, only snowboards. And snowboarders whine about skiers excluding them. I'm not aware of any ski only stores, unfortunately.Place looks like it was a Boot Barn with its strange western theme inside. Poor layout and flow.Has a little of everything, surf, skate, snowboard, clothes, etc. No department is really strong though.Lots of staff, about a dozen. Only one said  hi  to me despite being the only customer.Front entrance has watches and glasses. Not a good place to put small expensive items.", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "positive", 
+                Results: "false positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Good snowboard gear selections. They have a reward program that gives you 5% off. So the price is pretty good. Also, we got a $30 free tune up since phill rental referred us there.  No return policy. So make sure you are 100% confident of your purchases. Store is big and new.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The manager is great and they do an amazing job at keeping their prices low. 10/10 would recomend to a friend.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "I had a problem with my snowboard boots and after dealing with the employees, the owner stepped in to fix the issue since it is a new store. I will be back to spend money here because they fixed the issue and they do have good products. Thank you again.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "So excited this store opened up in my neighborhood!! Love the large selection and the Wild West meets the beach theme. The store is beautiful!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Gotta show this place some love. They hold it down. Always neat sales going on if you follow them on insta. Super cool group of people there working the counter. Great selection. Just a fun place to visit in general.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "The Green Room is well organized and has a large selection of name brand products. The sales people I've interacted with are pleasant and knowledgeable. I did have a small issue with a potential purchase. What impressed me the most is Mac (the owner of the company), later reached out and contacted me in an effort to resolve the problem, which he did. He went above and beyond to make things right. This is an example of good business practices which is hard to find these days. I'm very happy with my purchase and will definitely come back. I highly recommend the Green Room.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "i really like this shop and their friendly, courteous staff.  i highly recommend it!  great skate hardware prices and selection.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "All was great at first. But bottom line is that my family experienced the exact same problem another guy Yelped about! We came to return an item after xmas. The item was sold to us with a tiny scratch in it on the bottom. We did not care. Once it would be on a deck it did not matter. But they were not what my son wanted. So with the receipt in hand day after xmas he went to return it...Unused in the exact shape as when purchased. They made my son feel like HE was pulling something. They would not take it back, but moreover they were rude, cocky and accusatory. Not ok, not worth the drive. Rather go to Active where they care about us as money in your store. It i a simple equation and they goofed big time!", 
+                LexiconAssessment: "negative", 
+                MachineInterpretation: "negative", 
+                Results: "both negative", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "This place rocks had a shirt that I got for Xmas-and I finally return the shirt no questions asked. Made it really easy. Great customer service.", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Really awesome store they have everything here! Great selection and Joe and Anton were such great help when completing my purchase", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "Great selection of everything you could ever want!!!! Good location and friendly employees", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }, 
+                {
+                CustomerReviews: "So excited this store opened up in my neighborhood!! Love the large selection and the Wild West meets the beach theme. The store is beautiful!", 
+                LexiconAssessment: "positive", 
+                MachineInterpretation: "positive", 
+                Results: "both positive", 
+                Merchant: "GREEN", 
+                ACCU: 0.97435897
+                }
 ]
