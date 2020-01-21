@@ -20087,5 +20087,2405 @@ ACCU: 0.895812
                 Results: "both positive", 
                 Merchant: "GREEN", 
                 ACCU: 0.97435897
-                }
+                },
+                {
+                    CustomerReviews: "This is my  go to  spot because I know whatever I order, will be happy with ANYTHING on menu, consistently!!!Forgot to tell that I lived, and worked in Milano, for 8 years! Alora....Hai capito qual coda? Oppure parlo in po de Italiano!?", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Loved this place! Service was excellent and food was tasty. It's very casual, which is exactly what I was looking for. Just order at the counter and they'll bring you the food. I went pretty basic here.. a large pizza - half cheese and half pepperoni. It was a greasy, tasty, fantastic meal! The pizza had a pretty thin crust, but it wasn't crispy. It was just right. Especially when slathered with ranch and hot sauce. Will definitely come back here if I'm in the area!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ordered delivery, was supposed to be 35-55 mins but was well over an hour. When I called to inquire about my delivery they just said  we're really busy , ...great, then let me know when I order so I know to expect to wait awhile or so I can order somewhere else. The crust was so hard it was borderline inedible. Not sure why they are not rated lower.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "When you have lunch with your friends every weekend,  you start to run out of places to go. We were driving around and go found Massimo's.. decided to give it a try! The price was all in all very affordable. I got the penne pasta with pink sauce. The food is pretty standard but that's what you get for the price; I'd definitely come back again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "So gross.I took two bites and feel sick. They shouldn't have pasta on the menu... seriously I can't get over how gross this is.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best bbq chicken pizza I've ever had. Bible. Very bbq-y and quality chicken on a thicker crust. I wanted to stop at 2 slices but had to go in for a third. The love handles are worth it.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best people on earthMy friends and I come regularlyGreat service, environment, food, people.Best salad in OC", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love this place. It's my favorite pizza. I take my kids here at least once a week or order food to be delivered. The pizza has a slight garlic taste which I love. So delicious. Also, I really like the relaxed atmosphere in the restaurant.... very chill and comfortable.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best Lasagna I've ever had. The meat sauce had great flavor and the cheese was the perfect amount. Didn't think I would get full off the size of it but it was definitely filling. Will be returning", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "BEST PIZZA I'VE EVER HAD!!! Everyone that works here is so kind and hospitable when it comes to making sure they take care of their guests. I'd highly recommend visiting if you love yourself.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Had the spaghetti.  The sauce was flavorful and a delight to my pallet.  I recommend any of their red sauce pastas. Yum!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Meatball sub was on point! Antipasto salad was good, and the pizza would have been great if had been cooked all the way through, but I think the oven was getting cold (it was just super busy). My fault for wanting pizza on a Sunday during playoff season!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "After recently moving to Costa Mesa, Massimos served as bribery to the helpful hands of our partners in lugging boxes and furniture.The pizza was fantastic and the spinach caprese was on point. Tomatoes to DIE for, lush greens, excellent oil and vinegar... get into it.5 star review update pending a visit their restaurant to dine in.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Delish! My family and I have never been here before. We were greeted with very welcoming customer service. Great recommendations on the food. We tried several different pastas, the fantastic salad and Caesar salad. Loved our pizza, garlic bread, salad's, pastas and of course we finished it with cannolis! We will come back and totally recommend it!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have only ever ordered for pick up from this place on 17th street, and it's only ever been for pasta. The first time we ordered the  create your own  which allows you to choose from multiple types of pasta, sauce and toppings. The pasta seemed fresh and the  pink sauce  and  bolognese sauce  were so good! The even stayed open a few minutes late to let us swing by to pick it up. The second time we ordered the  Arribbiata sauce  which was not good. It tasted like they just dumped pepper sauce onto the pasta. I love arribbiata sauce but this was (and i'm sorry to say it) unbearable.The service was great. They have great pasta for the most part for reasonable pricing and I will have to come back and try the pizza soon!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This was my first time ordering from Massimo through Door Dash.I ordered a thin crust pepperoni pizza and a piece of cheesecake to share with a friend. The pizza was not thin crust. There was no sauce on the pizza. The cheese and pepperoni was on the pizza. Because of the cheese and pepperoni- the pizza was super salty. It was upsetting someone forgot to put sauce and the wrong crust. The cheesecake wasn't just cheesecake. It had a strawberry sauce. Im allergic to strawberries. The menu on door dash just said cheesecake. After 2 bites of pizza- after seeing the regular crust- we figured out there was no sauce. We threw away the pizza and the cheesecake that would have gotten me violently ill. If there was a zero star status- I would have rated it a zero. Blew $30 with tip- what a waste of money. Tried to call the restaurant- was put on hold- then it hung up. Will never order again.Edit- 9:30 pm Sunday I am editing my review based on the remark from the owner.I called the restaurant to speak to the owner. I called to say it wasn't a malicious review- it was reality. I didn't edit my pizza order- i just ordered a pizza with Pepperoni. Also, definitely a good thing I didn't eat the cheesecake- im anaphylactic to raspberries. The man I spoke to was kind and gracious. He didn't write the response I received. He offered to send me new food. With the response I got- it just looks like there was a quality control issue. I do believe when I called previously- it was purely a disconnected call. The man was kind and gracious. I changed from a 1 star to a 3 star-because there was a caring individual who spoke to me. Not sure who wrote the reply- it wasn't the owner.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Just stopped by for lunch at this place. Ordered the 12  Mafia Sub! AWSOME! I think I need a 3 hour nap now, the sandwich was huuuuge! Great taste, well built and tasty bread!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Got the Alfredo, was kinda sub-par. I understand this place is fast Italian, so I'm not expecting good quality Alfredo. But it was super liquified, seemed like mostly cream sauce and no cheese. Staff was super friendly and helpful - good vibes for-sure.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Had Uber Eats deliver tonight- was just wondering if theres anyway you could maybe tape the pizza boxes for delivery done by outside sources? Walked out to grab mine from sitting in the dudes driver seat and it was slightly opened. Thank you Masssimos!!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Met my friend here after seeing all the great Yelp reviews. It's a smallish-sized, casual place, and when we walked in we immediately felt comfortable and knew it was gonna be a good time--we just felt it. The employee who took our order (you walk up and order and food is brought to you) was such a nice guy and full of personality. When we told him it was our first time, he gave us a little history about the restaurant and briefed us on the menu and daily specials. We both decided to get the Thursday special: ravioli ( I got cheese and my friend chose beef.) The specials come with garlic bread and a salad, and the homemade Italian dressing was a hit. We shared a slice of cheese pizza ( they sell slices all day) and although we were both very hungry upon entering, we left without finishing everything--it was delicious but so hearty and the portions were large. We had no room for the cannoli we planned on sharing after dinner! Oh, and I forgot to mention that the daily specials are $8. Eight dollars!!! There's beer and big  TVs and it's a place you just want to hang out at for hours and eat, drink, talk, relax, and eat again.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have been eating at Massimos since the 80's. I come at least once a week, and I am NEVER disappointed. The last few years I have been ordering the spinach chicken caprese salad every time I come in. I am ADDICTED to this delicious salad. It is by far my FAVORITE chicken salad.  It comes with spinach, fresh mozzarella, basil, olive oil and balsamic vinegar, and I add chicken which makes it EXTRA delicious.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "What a bunch of assholes.After waiting 8 mins to get addressed and the guy helped another customer first.Then after waiting. 25 mins past when they told me it would be ready...I asked the to hurry up...here's the best part they told me to leave.So anytime you want to wait waaaay longer than you should...And be told you're the jerk...this is the place.Assholes.There about 400 other places to get pizza.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been coming here for years. They have great sandwiches, pastas and pizzas. Today I had lasagna with sausage and a salad. It was delicious. If you ever get a hankering for some tasty,  East Coast  Italian, come in and Sharif and his family will take good care of  yous. ", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Everything ive tried  here is super good! My kids love it too.  Owners and staff are way cool too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Hi my name is Ashley From Postmates and although I myself was not a customerThe two brothers who are the owners were very informative and kept me up to date with my two customers orders the whole time and both my customers were very happy with their hot pizzas", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I ordered pizza for my kids while on vacation. None of them liked this pizza; I didn't try it but it definitely didn't smell appetizing. One kid claimed it tasted  off  like bad cheese. Two of the kids had stomach pains the next day, both of which they were attributing to the pizza.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This Pizza is something out of this world. The cheese pizza was delicious. I'm coming back and this place will be my pizza place for football games LETS GO", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I absolutely love coming here, Everytime I come in which I have to say is quite often they greet me with a smile and always have the best suggestions for food. I have never left unhappy, more the food como and a happy tummy.Thank you for making amazing PASTA & PIZZA!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I wanted to like this place and put it in the regular rotation, but frankly, I paid $20 for a medium pizza and 3 toppings and I wasnt blown away.  Yes, the pizza is decent but not great.I hate tomato chunks and tomato skin in pizza sauce...no clue why and realize this is super picky, but it grosses me out...and this place has that.So, I wish this business luck and may stop in to try their sandwiches.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza. One of my favorites. Pastrami pizza is worth a shot, as is the standard pepperoni. I'm also a fan of the Greek. Great atmosphere.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I came here with my friends around 8:30 last night. I tried the Meatball Sub and the Cannolis. The meatball sub was fine, just really very small. The bread itself was probably 2 inches wide and held four or five pretty small meatballs. I was a little disappointed because when I usually order a meatball sub, it's stuffed and exploding with cheese and meatballs. The sub tasted good, but I felt like it was way too small. The Cannolis, on the other hand, were great. Very good. My friends ordered some bowls of Rigatoni and Penne. Those looked like much more satisfying dishes than the Meatball Sub. Might do the 'Create Your Own Pasta' if I find myself back.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This has been the best Pizza place I've been to in a while and I have lived here for 15 years! I can't believe I didn't find it before but I'm glad my husband and I ran into it. The pizza and pasta were to die for. The only complaint that stops me from giving them a five star review is that the customer service wasn't what I had expected. The gentleman that took our order wasn't very polite and threw my receipt at me to sign. But as lunch proceeded his attitude changed towards us. I would definitely be coming back!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "MASSIMOS PIZZA & PASTA CATERING...... DOMINATES!!! 10 STARS!!Had a small group of 12 people for a Christmas Party, did Not want to cook!! Called Massimos and they were on the ball! They made several suggestions and within 10 minutes my order was complete!! I had concerns for vegetarian options...No Problem!!No hassle! It was So Easy!Delivery was right on time. I was a Very Stressed out hostess and he put all the food down, set it all up and looked me in the eye and said:  Now, Its time for YOU to have a good time! ALL is well, I mean it, have a Good time!!  Off he went......Shortly afterward the food was served......EVERYTHING WAS SO VERY GOOD AND DELICIOUS......OMG!!!!     DELICIOUS!!!!Penne pasta with a blush sauce with a seasoned chicken, you can tell they use Top Quality Ingredients so much flavor with Perfectly cooked pasta.  Fettuccine Alfredo broccoli.... the sauce was so creamy and Flavorful, again perfectly cooked pasta. Then there was their Fantastic Salad...looks like very simple like whatever salad.....Well, it is truly FANTASTIC!! There was not a shred of lettuce left!! People went back for seconds and thirds which is not typical of this group. I was asked during dinner as well as after several times Who and Where Massiomos was. If you want a great, full flavor, meal........Massiomos it where it is At!!Almost forgot the best thing......Dessert!  Chocolate Chip Handmade Cannolis......Crisp outer shell filled with the best custard type filling then dipped into mini chocolate chips, dusted with powdered sugar then lightly drizzled with chocolate sauce......MMMMMMMMM GOOD!                      THANK YOU, THANK YOU MASSIMOS....I COULD NOT NOT ASK FOR BETTER BECAUSE EVERYTHING WAS TRULY FANTASTIC & PERFECT!!!!............... Perfezionare!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "If you think you know pizza let me tell you something, I know pizza and this place for being on the west coast has great NY style pizza.  I didn't try anything but the pizza so I'm only rating the pizza. Service was great, no messing around and the prices are very reasonable.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Fast delivery and friendly delivery driver. First time ordering from Massimos and we ordered a medium plain pie. It wasn't bad but it had an unusual flavor/scent (not bad but a bit strange.) Also found a two inch long black hair resting on one of the slices. Also the manager/owner seems to be a bit of a bully. In response to your response, I am not most people and I don't want any more of your pizza, Sir.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Seriously the best meatball sandwich we have ever had...any I'm from New York, the land of good Italian food..", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Food was great, the beer choices were all local, the service was spot on. The pizza was delicious. We will see you next time we are out this way. THANK YOU for being nice to my little guy.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "It was very good they cooked it the way we wanted it and the bread were very good and plentiful which was nice. The pasta was very good and delicious and a good deal if you get the buy one meal take one home for free but if you get the chicken parm meal with pasta that one wasn't definitely not worth the expensive price because the chicken wasn't great. Would definitely go there again!!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "After an evening of high school sports with the family, we found ourselves hungry and in search of a reasonably priced restaurant with good food. We don't live in the area so we relied on yelp to help us locate or best dinner options. Thankfully it pointed us to Massimo's Pizza and Pasta! I love the idea of a build your own pasta. So I ordered spaghetti with meat sauce and mushrooms. It was delicious and it was a very generous portion with plenty of sauce. This is where most restaurants fail when making spaghetti. My wife and kids had a large pepperoni and pineapple pizza. It too was excellent.We found the people to be very friendly with prompt food service. We all loved this place and I would absolutely go back when we are in the area again. Thanks for a great dinning experience.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Dude. This place is awesome. You could tell from the beginning who the owner was. Totally friendly, wanting to make sure you had a good meal. The garlic bread was freaking delicious! Baked fresh locally. The guy taking our order missed the soup and afterwards the owner felt genuinely sorry for missing it. The fettuccini Alfredo was great too. Got a large pizza, which could easily feed 6", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The place and staff rules. Great food. I Love Love love the fantastic salad, the Italian sub and the pizza!! Headed to Massimos shortly for dinner for the second time this week and it's only Wednesday! Lol", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Food here is super good! Pepperoni and sausage pizza was yum and their sandwiches are bomb too!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I just ordered a pizza from Massimo's through the Yelp website link to Massimo's Pizza's website.  I have ordered from Massimo's many times in the past, and have never had a problem.  However, this time, I ordered through the Yelp website, which directed me to the Massimo's Pizza website, placed my (expensive) order, and received an email saying that it was going to be fulfilled by GRUBHUB.  I receive the email confirming my order for DELIVERY TONIGHT, however the email states that my order has been changed for a future delivery for tomorrow morning at 11:00am.I never agreed to this.I was never prompted to know that APPARENTLY MASSIMO'S PIZZA STOPS DELIVERIES AT 9:25PM ON SATURDAY NIGHTS.So I call Massimo's to politely ask about the apparent mix-up, and the guy on the phone tells me that they stop deliveries on Saturday nights at 9:25pm....... the time I called him on the phone, AFTER I had already placed my order for over $30.00.....?  IT WAS 9:31pm....!!!!!TALK ABOUT SOME OF THE CRAPPIEST SERVICE I HAVE EVER RECEIVED FROM ANYWHERE. You're telling me that I missed your delivery cut-off time by 6 MINUTES.....?!!!!! and you guys could not honor an expensive delivery FOUR OR FIVE BLOCKS FROM YOUR RESTAURANT?!!!!Now you might ask....  why not go pick it up, if it's only four or five blocks?   The answer?  I've been drinking and cannot drive.The problem here, is..... at no point did the Yelp or GRUBHUB or Massimo's websites.... EVER prompt me to alert me that their cut-off delivery time had passed, and that my order was going to be delayed for delivery until 11:00am the next morning.That's just ridiculous and insulting.I am beyond disappointed with Massimo's for their failure to do the right thing, and I will now question whether or not to place an order from them in the future.Most likely I will not.It's a shame to lose a customer who has already invested multiple orders in the past and always been polite in the past.... eating both in their restaurant, and for delivery.Unbelievable.I really hope you guys can teach your employees some customer service for any future mishaps that your restaurant apparently is oblivious to rectifying.What a shame.************************UPDATE:so the owner messaged me this afterwards: You talked to the owner Brian. Sorry if your angry. You obviously wanted our pizza really bad. to which I replied: the owner had called me back... AFTER I had already left the Yelp review.He had the opportunity to correct the situation (missing their delivery cutoff time of 9:25pm which was never mentioned at all during my ordering process).... so when I politely called the store and asked about what happened, that's when Massimo's had the opportunity to correct the situation.Instead, not only was I told over the phone that I had missed their delivery cutoff time of 9:25pm -- that I had no idea of -- but when the owner called me back, it was to tell me that my review was undeserved, and that it was not their responsibility because the order was being fulfilled by  a third party company , and that I needed to come pick up the pizza in person..... the nerve.not only did you guys screw up (3rd party or no.... you guys do business with them, and that's where your online customers are directed to:  ChowNow, Slice, GrubHub, etc), but you had the opportunity to correct the situation when I called, and instead, you just told me that I missed the delivery cutoff time by 6 minutes.You guys earned my review with a shining half star. ", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is my favorite mom&pop pizza shop! My boyfriend took me here for the first time and I've loved it every since! His family has been eating here for over 10 years! The family who owns it are super sweet, and the food is amazing! Pizza by the slice or full pizzas!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I love their pizza! Haven't been here for a while since I've moved. Excited for my pepperoni and sausage pizza!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is probably my favorite place to eat pizza and salad. It's a mom and pop shop, and the guys that work there are really nice! The lunch specials are an incredible deal. The salads are amazing and have fresh provolone on them. Today I decided to try the small veggie salad and add chicken. Oh my gosh I found my favorite menu item! It's healthy and delicious! I would highly suggest coming here.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The pasta, pizza, salad, and garlic bread was all incredible!! My family and I loved it and we're definitely coming back!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "They have great pizza, delish pasta and amazing customer service! Can't believe they have been around for years and I barely tried their food!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Awesome family owned pizza place. Pizza, pasta, salads and sides are all great. Kid friendly.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I placed a catering order for 50 teachers with delivery.  It was delivered right on time and the price was reasonable.  More importantly, the pasta and garlic bread was hot, the salad was cold and everything was delicious.  I received so many compliments and everyone wanted to know where I ordered.  The delivery person (May have been the owner) was friendly and helpful.  I've had bad service at other places and it's refreshing when people/companies live up to expectations.  There is a reason that they are still in business after many years.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pizza...,Yuck. Soggy crust and no sauce on meat lovers pizza; basically flavorless goo.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love their Beef pepperoni pizza and their BBQ chicken pizza. Staff is very friendly and made me feel like family.  Will definitely continue to come here. Thanks guys!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "First time here and everything was amazing! Service and the food! My friend and I got the penne pasta with pink sauce and 4 cheese pizza that was recommended by them and LOVED IT ALL. Most definitely coming back soon.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Does Massimo mean Maxximo delicious? Pizza ingredients so fresh they got their tasty juices flowing. Its really hard to not think about getting another slice from the pan. Once we got inside, all you can smell was fresh margherita sauce being prepared in the kitchen. With the aroma of tomatoes and spices in the air, our noses were telling us that we're in for something good. We ordered the  Massimo Special  its their version of a supreme pizza. It's topped with pepperoni, sausages, onions, mushrooms, black olives, and bell peppers. Our pizza was served right out of the oven. Once I've pulled one slice out of the pie quickly, the whole topping slipped away. At first, the pie looked ordinary. But don't judge it by how it looks. The toppings were flavorful and every bite mattered, and I couldn't stop myself from wanting more. The Massimo absolutely delivers with freshness so good, it was tasty to the crust ends. I liked adding sprinkles of oregano for that slightly bitter herb flavor. Our order cost around $30 for a Medium size pizza, that came with a big side salad (which was really good) and a garlic bread stick. Included in our bill was the  Baked Rigotoni  $8.75. Their prices were just about right. Customer service here was good, the cashier was helpful and explained what each specialty pizza contained on the menu. They offer sandwiches here as well, and I'd like to give them a try next time, because they look promising. There are some kids toy/candy vending machines on the front, Tv screens, and local sports decors. Families who love cozy local dining Massimo is the spot at this side of Costa Mesa.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Me and my girl are addicted to this place's pasta, the pizza is phenomenal, and the employees are always super helpful and friendly. Definitely worth checking out.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ate here yesterday. I was born and raised in New York. Grandparents Italian, spoke very little English, cooked for me often and always made from scratch. This was in 1950s. The moment I tasted the Italian sausages here I thought about my grandmother, then had the pizza, the sauce and crust were not like I've had since the 50s. These people are the real deal. The service is very friendly and accommodating. Felt like I went to my Italian relatives home for lunch. Love this place", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is simply fantastic. I ordered a subs here and it was unreal. The staff is also very pleasant.  I believe it family owned and operated. I highly recommend the roast beef sub heated Will be back !!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "First time at Massimos and it is the BEST experience I've had. Fresh ingredients are used and the homemade sauce is just outstanding! The customer service was very friendly and helpful, they gave my boyfriend and I free cannolis at the end of our meal! So kind and generous of them to do, I definitely will be coming back to this restaurant and recommending to anyone that asks where the best food place is at in Costa Mesa!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great place to spend a Friday night!  Good arrabiata, sausage and white onion pizza.Great customer service from the older owner with white hair, always good to talk to local owners who know customer service.  Pizza cooked really well.  Extended hours, nice to find a place that you can grab a good dinner after 9 pm.Like to see a pizza you can take home and bake yourself.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Such good Italian and the dudes are super chill that work there. Plus they live my dogs i bring in", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "High prices for crappy food and limited service. Just seems like a bunch of high school guys joking around whenever I go in there, and the owner has been known to be an asshole to his customers. That, combined with the unnecessarily high prices for the disappointing and below-average food is every reason why I choose not to eat here anymore. Three years have gone by and they have only gotten worse as the time passes.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pizza was fresh, meatballs delicious, service great! Saw the chicken and vegetables being prepared..quality ingredients!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Food was good but service was even better. Would recommend. Very laid back and owner was very nice.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Family owned and family run. You can't go wrong with anything at Massimo's! Easy spot to grab a quick slice or 60lbs of food for the family. A true locals spot with authentic flavor and top-rated customer service. These guys will take care of you!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I'm telling ya, their rice crispy treats are bomb! I grab one at least once or twice a week!  ... oh.. and the pizza's great too", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I haven't experienced service this great in a very long time. Benji was incredibly helpful and unbelievably friendly! The pasta was on par, if not better than spaghetti factory. I think it's safe to say that I'm going to be a regular at this place!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza place!! I now go there regularly and usually get the veggie pizza (see pic). It's delicious and the staff is super friendly. Recommend it to anyone!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Stopped here to grab some lunch to start my vacations with some friends. We all enjoyed our lunch. Family feel and good pizza with great pricing. Happy we stopped and would recommend!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love love love their pizza....and well everything I've tried! For their pizza I get their original crust because it's on the thinner side and floppy and that's my jam. They also have thick and thin crust if that's your jam. I get pepperoni and extra cheese... I'm all about that cheese!I've had the salami and turkey subs with everything and they are on point.....simple but delicious. For the pasta I've tried the lasagna with pink sauce and extra cheese and its soooo good...they pack that shit with cheese! I have also had a few of their salads and they were really good.Sometimes when we have a birthday or a meeting at work we get food from here for the staff.I have never eaten in but ordered for delivery and pick up and all good. Inside has a casual family vibe and I love that! I need to try their other pastas and their cookies....they look soooooo good. Also, any good options for other cheesy pasta?", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza, pastas, and reasonable wine! We wanted a chill place to have a birthday dinner, and it was perfect. It's not new york pizza or the best pizza ever, but it's really good and the pasta is even better. Salads are amazing, and I'd recommend their specials. You can't go wrong. It's a great bang for your buck.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love this place Massimo and his team are the best . Thanks very good food and home delivery the best ! love to support other good restaurants in oc .. !!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Absolutely Worth The Try!There lunch special is GREAT!one slice of pizza with a LARGE salad and soft drink is super cheap. But the food is not!I enjoy coming in and being a former soccerplayer the host and the boys play as well.I recommend coming in and tryingthere delicious BBQ Chicken pizza. Parking can be a bit full during lunch hourshowever its worth the wait. Trust me ;)", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Drawn in by the hilariously blunt owner responses and great reviews by happy customers. Met 2 of the 3 brothers who own the place- welcomed with a warm smile and suggestive info on their menu. 4 cheese pizza was the best pizza I've had in a long time! House salad was simple but flavorful- the pink sauce pasta was creamy and delicious. Nice environment to sit down and have a meal- $42 for a memorable meal for 4; can't beat it! Good location- food was flavorful but yet simple. Looking forward to trying their wings/hot subs. I'll be back!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The pizza crust original was soft. The sauce is ok. Could be a little more tangy or garlicky. If you like it cheesy this is it. It's a little too cheesy and greasy but nothing that can't be dabbed off with a little napkin. The wings met expectations. Plain with hot sauce and ranch was yummy. The chicken salad was pretty plain and the Italian dressing was not tangy or flavorful enough. Kinda bland. Delivery was on time. Will give it a try again. May need to try other dishes like spaghetti or alfredo.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I won't order from anywhere else. Family owned and operated. You can tell they take pride in their business. Food is always delicious and delivered on time or before!I highly recommend the pizza and lasagna. My wife loves the gluten free crust pizzas.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing place - family run and the owners are so nice and helpful. They have great pizza and so many pastas to choose from. Even better the salads are so fresh and delicious. I have come in and ordered a bunch of food for a lunch meeting. It was a hit, everyone loved the food and kept asking where it was from. Try the pesto pasta and pink sauce with chicken and mushrooms. Oh and the garlic bread is the best!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Very disappointed about this place saw that they had a bunch of good reviews and decided to go and the food was very bland it tasted like as if they just poured tomato sauce and garlic in a bowl and the meatballs in my pasta were very dry. The guy who took my order said they were going to be big but they were the size of a golf ball maybe even a little smaller, please save your time if you decide to go here and just go to Olive Garden it's way better", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing.  All that you need to know.  Food is always delicious. Pick what you want and you will not be disappointed.  Great restaurant and great people running it.  I promise best pizza in Orange County", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "As a kid, my family grew up supporting small family own esters. In the 1970's through the 1980's, there was a very small to-go Italian eatery in Torrance, CA, off of Arlington Blvd. called  Geno's  that made hot submarine sandwiches that were out of this world!  My family grew-up living a modest life, so it was a luxury to be able to buy one of their submarine sandwiches and share among my family.  I'll never forget the hot delicious Italian bread, baked to crispy perfection with Italian tomato sauce, meats, cheese and sliced pepperoni's. To me, it was the perfect combination of flavors that made your mouth water before the first bite.  When it closed in the 1980's, I was devastated and for many years thereafter searched for a that same perfect tasting Italian sandwich, but never found it until now!! Since, I have tried 90% of Massimos menu selections and it's all amazing!  Fresh, cooked perfectly every time and reminds me of that perfect taste that makes your soul happy.  I will be a lifelong customer. Thank you for existing!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza hands down! They have the most hottest Albanian men in soccer jerseys working here. Benji, Sharif, Armin, Asad, etc are all very helpful and make the best pizza. They personally bring your food to the table and it's just such a nice experience since their all so good looking.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been going here for 10 years and it's one of the best pizzas I've ever had ! It's so good and always done perfectly. Drunk or sober it's always the best spot in town. Can't imagine anything else.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "After hearing about Massimo's pizza for years, I was finally in the area and decided to give this place a try.One thing that surprised me was that I came in here on a Thursday night and it was PACKED! I was lucky enough to find a seat. The d\u00c3\u00a9cor reminds me of the old fashioned pizza parlors I would see when I lived in Chicago. They have live sports playing on the television and most patrons are watching sports. The walls are adorned with cool paintings, portraits of pop culture, and even lots of International soccer memorabilia. The owners son explained me to me that their family has been making pizza for years and its roots run deep in their family. The owners are from Montenegro, and in southern Italy and Albania, pizza making is very much a family tradition.I ordered the veggie pizza and a small side salad. The salad was very good, with lots of vegetables, olives, carrots, tomatoes, greens and had a very unique vinegar sauce. It wasn't your typical plain Italian dressing. It had a balsamic vinegar like kick to it. The vegetarian pizza was interesting. The structural engineering of the crust was fascinating, because it managed to stay crispy and slightly chewy, without becoming too soggy or too fluffy. The toppings were plentiful and the cheese is very good quality. You can always tell a pizza place uses good cheese when the cheese doesn't stick together and it has a  melty - slightly charred  texture. The sauce is the real winner though, it is full of oregano, herbs and flavor. I still haven't tried everything on the menu, but I am pleasantly surprised by Massimo Pizza.If you are sick of all the  Tree Hugger- Soy Chai latte - Yoga Pants wearing - Build your own pizza Places  popping up on every corner, then check this place out.This place reminds me a lot of the pizza places that you find in Chicago and NYC.Massimo pizza is probably your best bet for good old fashioned pizza in Newport Beach !", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I'm giving this place a five because I am madly in love with their wings.  If you want wings go here!! They are crispy, tangy, and fall off the bone. I was thinking about not trying them because I usually only like boneless wings, but they are literally my favorite wings I think I've ever had! yummmmm", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "GREASY, GREASY GREASY! Terrible service by the owner and staff. Pizza was very greasy, smelled very bad and the cheese was like rubber and made me sick to my stomach. The owner offered me another pizza but I declined-why would I want another nasty pizza? He wouldn't let me get another item to replace it and treated my like I was pond-skum for asking, this is just bad business;  $23 dollars down the drain!", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Awesome customer service! FoodIs excellent they truly take pride in their business & customers. When you call in everyone is courteous & professional delivery is always prompt and not overpriced! If you the food your have delivered and appreciate good customer svc this is the place!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Good food, great prices. Their nightly specials are great. I loved their salad. They were very nice about my crazy kids. The man working the evening I was there was super friendly. Will definitely be back!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The gentleman who took our order over the phone was very nice and the delivery driver was cool too which makes it a bit difficult to leave this bad review. Not sure how this place has so many good reviews. We ordered a large sausage pie, small 4 cheese specialty pie, and a side of two meatballs. The meatballs were so dense, tasted like dog food. The pizza was some of the worst I've had in a long time. Was hoping this pizza joint would meet expectations but it fell way short.", 
+                    LexiconAssessment: "neutral", 
+                    MachineInterpretation: "neutral", 
+                    Results: "both neutral", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is the little pizza parlor that could.  Consistently great service.  Fantastic salad lives up to its name; fresh, lots of greens and nice balsamic dressing on the side.  Pizza is made to order; they listen to your order and make as you requested. The staff is so nice and efficient.   DELIVERY is always on time, unlike most delivery services, and the order is always correct.  This place never fails us.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pretty tasting pizza from An old school shop inCosta Mesa.  We got the incredible salad which it seemed everyone else was eating and while basic, the dressing made it worth the eat!  Lettuce, cheese, seasoning and dressing.  Tasty!  The pizza we ordered with our own toppings.  The cheese was plentiful and stringy which reminded us of old school back east pizza.  The crust was not old school but pretty good for well done.  I'd go back again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I wrote a wrong review on this Massimos. I was not aware of the change of business hours and it was not their fault. Fact is Massimos Pizza is the best pizza I have EVER had! Eddie and his staff are fantastic!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I used to get delivery from this Pizzeria all the time. This is what I call that  comfort food ! I crave sandwiches and pasta from this place. I love cooking and I make food at home all the time.... their food tastes fresh and homemade. No. This is not ur Boujee ass pizza place. Tony Soprano would approve of this e pizzeria!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimo's doesn't disappoint.  They are consistent, and make you a great pizza or sub every time.  I love getting their pizza by the slice at lunch or dinner, and I highly recommend it, over Pitfire, or Uncle Al's, or Laventina's.  I like this place a lot, and I have for 15+ years.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I'm so sorry the man who just deliver my pizza early today left. I was going to get my wallet and tip him. I feel so bad. Can i do it on this app? Oh gosh! I feel terrible.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "positive", 
+                    Results: "false positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great family owned Italian style pizza. Always Good vibes everytime We go in, everyone working is always friendly definitely my go to pizza spot in Costa Mesa the Massimos special is my favvvvv", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza in oc hands down, family owned, amazing people, amazing pizza, what else can you really ask for?", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimos NAILS IT EVERY TIME! And we get delivery! My husband gets the Hawaiian & I get the gluten free mushroom and jalape\u00c3\u00b1o (yeah, I'm  that guy ) and it's PERFECT! Bottom is crispy, just the right amount of sauce, and cheese still hot! Chef Damiere is ON POINT!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "GREASY, SMELLY PIZZA!!! Ordered an extra large pepperoni pizza. It was drenched with grease; tried to soaked it up with several paper towels, didn't work. So I looked at the box and it was drenched with grease, looked like someone took a half cup of oil and dumped it in the box. I called the restaurant and told the owner that the pizza was covered in oil and had no cause on the crust. He said   well, its peporini and thats how it is  I told him that we could not eat the pizza, it was not good. He agreed that I could come in and get something else. So I went in to exchange the pizza for a couple of sandwiches. He put them on the counter the looked at the pizza. He yelled out   I can't do this, you ate half the pizza!  I explained to him that me an my kids had a piece, and threw two pieces away. He then took the sandwiches back and said that he can't give them to me. He treated me like a common criminal and kept my pizza,and told  me that he was going to take a picture of it. So I guess I paid $23 on a greasy nasty pizza that smelled like rotten feet and made us all sick to our stomach.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing food and amazing service. A fabulous Italian style salad and pizza joint. Very family friendly. Best cannolis I've had in years, so crunchy and the filling was to die for. We will be back the next time we are visiting the beach.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Discovered this place on yelp while looking for a quick bite to eat for din. Popped in and ordered a slice of pizza with pepperoni and mushrooms on it. It was delish! Happy this place is so close to my home. Looking forward to coming back soon.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "DELICIOUS!! Best pizza I have had here in the Newport Beach/Costa Mesa area.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The flavor of the pizza sauce is fantastic.  I ordered sausage, pepperoni and yes pineapple.  The best delivery pizza I've had in years.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This review is about online ordering. We ordered the massimo special pizza with specific instructions NO ONIONS PLEASE and guess what onions all over the pizza.  How hard is it to read the ticket so we don't have to and don't want to wait another 15 minutes for a new one to be made, thats the point of ordering ahead of time. My wife went to pick it up and was offered a beer which was cool but she says she wanted to cry.  I called the owner and he says we saw a massimo special and just starting making it but now that I look at the ticket it clearly says NO ONIONS. Whats the point of the special instruction box when ordering if you don't even look at it. Food is actually good but because of this dilemma I am never ordering from massimos again.  Incompetent and lazy ownership and probably don't care if I ever come back anyway.  Wow look how rude Benjamin responds back saying yes we don't care if you ever come back when all I did was order a pizza from his restaurant and because of their incompetence and cant read a ticket correctly after 37 years in business its my fault and turns into this.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "What can I say... WOW. They treated us sooooo well! We walked in close to iftar time (breaking the fast during Ramadan) and they actually offered us dates to break our fast with! Such amazing people. God bless them. They were so friendly and helpful, and the food was absolutely delicious and the prices were great. We had the pasta and it was so great, and the garlic bread and side salad were on point. We also had the cannolis which were amazing! We will definitely be back here again soon.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Always have the best foodgood quality products and their gluten free crust is super bomb", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I love this place.Great pizza, amazing sandwiches, and terrific staff.My personal favorites are the Italian sub and the meatball sandwich.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "They for sure put crack in the alfredo sauce... but I'm cool with it.Everyone that works here is ridiculously nice as well and the food comes out fast. Customer for life.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is so amazing!This place was the best Food I ever had!The pizza,pasta,salad and more were so good they are really nice people.I wish I could go there every day!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "We love Massimos.   We're here for sure once a month to eat and the kids play the quarter games ! Great pizza and salad! I've been coming here for over 20 years --- yes, it's that good and a staple pizza place on 17TH ST.  Everyone and their mother come here.   Sharif is so helpful and kind every time we come in.  I honestly can't say enough good things.  EAT HERE", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is a true mom and pap spot. The original owner is from Italy. He passes it down to his sons who have a true passion for what their family created. The food is fantastic as well as the service. The prices are great and the pizza sizes are huge.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is great. The perfect  local  pizza place. Pasta is good, Caesar Salad big enough to share", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I am from New York and have had lots of pizza n pasta and I can tell you this place took me back to New York. Food is beyond belief, service is excellent! I will definitely be coming here regularly.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing food at an affordable price and the perfect cannoli. Quick service and friendly owner made our experience a great one. I had the Massimo Special and it was a meat lovers dream in a sandwich.My husband had the Baked Penne and he loved it .They have a great kids menu with a variety of choices which includes a kids drink.Will definitely be returning whenever we're in town.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The staff here is so sweet! It was our first time coming & they gave us a free slice of pizza. To top it off, the pasta is sooo amazing here. Definitely worth stopping by!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great food for a great price!! The fettuccini chicken Alfredo is amazing and the dinner with the salad and garlic bread is such a good deal for a lot of delicious food. We will definitely be returning customers!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Needing a lunch place between my daughter's two soccer games, Massimo came up with much yelp love on my app.  I can see why locals like this spot, a very diverse menu of pizza, pasta, and subs.  That's a always a winner as there are plenty of directions for people to go to make everyone happy.  Combine this with friendly ownership and Massimo is worthy of their 4 star rating for sure.  Doing what I do, I over ordered to really give this place a try.  An Italian Sub for me, a meatball sub for my wife, and a whole pizza for my daughter.  I just wish I would have had a 4th person with us to try one of the pasta dishes so I could have really given this place the proper write up.  Classic Italian Submarine - This usually comes with Mortadella, Genoa Salami, and Capocollo.  I had them switch out the mortadella for ham, which they were more than happy to oblige.  Also comes with provolone, shredded iceberg lettuce, roma tomatoes, red onion, and italian dressing.  I had them add some pickles as well, which were tasty.  In fact since you are in a pizza parlor, I'm sure they would have no problem adding green peppers, black olives, etc... if you wish.  The French bread had a slight chew to it and was fresh from C'est Si Bon in Newport.  The meat quality was pretty good as well, although not Boar's head level.  My issue was with the meat/ cheese to veggie ratio though.  Basically just one slice of each meat was on this sandwich and the thus the flavor of the meats kind of got lost in the veggies and Italian dressing which made up 3/4 of the filling.  Next time I would ask and be happy to pay for double meat.  Please also keep in mind, I consider myself a cold cut sub snob, who is always measuring a sub's greatness against the best of the best.  3 stars yelp.com/biz_photos/mass\u00e2\u0080\u00a6The Meatball Sub - this one I would definitely order again.  The first thing I noticed is that they gave the french roll some extra love in a press to get it nice and crisp with a little char to it.  Kind of how you would do a Cuban sandwich, but with a little pizza oven char.  The texture of the outside of the crunchy bread, nicely offset the fine grind of the meatballs, sauce, and melted mozzarella.  The meatballs are sliced so they aren't rolling off the sub as you bite into it.    It's little details like that, that can really make a sub.  The perfect amount of sauce and cheese, unlike it's Italian counterpart - this one was well balanced.  4 stars yelp.com/biz_photos/mass\u00e2\u0080\u00a6Massimo Special Pizza (and half pepperoni for my daughter) - They really loaded the toppings up on the Massimo Special side of the pizza.  I'm not sure if that's just how they do things?  Or they figured, put the toppings that would be on the pepperoni side on the special side as well.  Either way, the toppings were plentiful and darn tasty.  The Massimo Special has - Pepperoni, Italian Sausage, Green Peppers, Red Onions, Mushrooms, and I had them hold the black olives because my wife doesn't like them.  Her poor taste, not mine.  I absolutely loved that they saut\u00c3\u00a9ed the green bell peppers before putting them on the pie.  It's possible that they are marinated, or perhaps just saut\u00c3\u00a9ed in olive oil.  However they are doing it, keep doing it - and I would always get peppers on my pie here.  The red onions while not saut\u00c3\u00a9ed, were sliced thin enough that they cooked well enough in the oven.  Pepperoni and Italian sausage were very tasty and solid.  My biggest complaint was that the crust could have been done just a little more.  The center of the pie was a little on the soggy side, and needed a knife and fork.  Not a complete sin, as some of my favorite pizzas like Lombardi's in NY also need a knife and fork.  However, this pizza seamed like it could have just used a little more time in the oven as the outside of the crust could have been a little more browned as well, which perhaps would have solidified the center better.  Don't get me wrong, the pizza wasn't undercooked, and was still pretty good, especially for California standards.  4 stars. yelp.com/biz_photos/mass\u00e2\u0080\u00a6Parking was a little crazy as it was a weekend and the parking lot was being used for valet for some restaurant doing a brunch in the corner of the shopping center.  But don't let that stop you from coming here, as according to the owner, it isn't the norm.  I will most definitely be back next time I'm in the neighborhood to try some other items on their menu and perhaps a pasta dish.  Catching my eye is the Massimo Special Hot Sub - meatballs, italian sausage, and roast beef.  Sounds like Sunday Gravy in a sub - I'm in.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "We order Massimos at least once a week for work.  The Mafia and Capocollo are by far the best sandwiches in So. Cal. We are always surprised how much meat the Mafia has on it.  The Capocollo has a fantastic flavor and has a ton of meat on it.  We have tried many of the items on the menu and have yet to have a bad meal.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza in Costa Mesa hands down. The salad is amazing!!!! I crave it all the time. They deliver too. Great people", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "One of the best pizza places in Costa Mesa hands down! Great prices, and even better quality when it comes to food.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I love massimos... and have for many years !  Today I ordered food for delivery and paid with a card on line. (Which I normally don't do) When my food arrived on time, I gave the driver cash including tip, as I normally do. Within a few minutes the driver reknocked on my door and handed me my cash back and reminded me I had paid on line. THIS IS A GREST HONEST FAMILY OWNED COMPANY WITH EVEN BETTER FOOD - thank you", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is truly classic and has delicious pizza!! I would 100% recommend coming here, or ordering takeout/delivery!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Easy to order and quick delivery during a holiday weekend!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "SMELLY,GREASY PIZZA! Terrible service by the owner and staff.  Pizza was very greasy and smelled very bad. The cheese was like rubber! He offered me another pizza, I declined -it was that bad!- and wouldn't let let me get another item to replace it. I would not recommend this place to anyone who likes good food.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I honestly only ever use yelp to look things up but this was so damn good so I had to, good food", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza and great service. They went out of their way to make the pizza even better for us.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "It was my first time going there, the food was really good. I would go back there for their pizza more than anything else, it's your basic pizza diner. It's nothing extraordinary but it does have really good food. And the customer service was really good, but I would definitely suggest their Massimo's special pizza, their pizza sizes range from small to XL which I believe was 12 inches to 18 inches across. But I would definitely visit them again, this location was the only one that I've been / heard of.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimos' is the epitome of classic comfort food and honest pizza. It is not concerned with calorie counts or even aesthetics, resulting in mouth-watering pizzas and salads that can stand the test of time. Ingredients may seem simple and not special in this trend-obsessed generation, but their crust is remarkably crispy yet soft and their sauce tangibly sweet - there is none like it!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Hello Fellow Yelpers...If this was the time to begin a battle of the best pizza spots around then Massimo will be the spot to beat. Let's begin. My wife and I, now pregnant, doesn't cook as often as she did. She of course has a sense of great tasting food and with the help of Yelp reviews you can trudge over a enjoy yourself to the nearest food joint. If you a reading this and I know some if not most of my followers will, I want to lift up Massimo Pizza & Pasta for their excellence in taste and customer service. We want to find a place that has an amazing taste that is unique and refreshing. A place that you are willing to take a friend or two and the whole family. I ordered the Massimo Special and believe me it is very special. Then I saw  Anchovies   Anchovies!!  yes anchovies with jalape\u00c3\u00b1o and bell pepper and pineapple and tomato and basil and garlic and onion and more, much more. Today this amazing pizza is called  Fire Moneky  it includes  all the veggie toppings with Canadian bacon and Anchovies. The sweet tasting pineapple completely settles the freshly placed anchovies. The onion and tomato encourages you to find out more ways to eat a pizza. The crust, oh the crust. Perfectly in tune with all the ingredients. If you are traveling to Costa Mesa for the day or the weekend, then stop by Massimos, you can order the  Fire Monkey  or pick from their menu. This was my first visit and we had a Spinach Ceasar Salad, Massimo Special, and  Fire Monkey . The food is unbelievable and amazing. You don't feel heavy or bloated, you feel incredibly amazing. Go, travel, take a vacation to Costa Mesa and eat at Massimo, you will not be disappointed. Oh yeah there is free parking so no worries.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great customer service and even better food! Fun place to take friends and family. Always leave feeling full and have never had a bad experience.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is our favorite pizza place in Costa Mesa!!! The atmosphere is great and the staff are friendly.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Wow, I'm in pizza heaven! So let's\u00e2\u0080\u008b just\u00e2\u0080\u008b say that I'm usually very hard to please when it comes to pizza. I'm very particular about my pizza crust. I need it fluffy and chewy and most pizza places overcook\u00e2\u0080\u008b the pizza which ruins my entire cheat day and leaves me thinking,  ugh that was so not worth the calories . I know you ladies get what I'm talking about. But not this place. I was starving, so I called and placed an\u00e2\u0080\u008b order for delivery. They quoted 30-40min, but it was delivered in 20min, the delivery guy was pretty cute too, I'm dogsitting and my sister's little 5 lb dog kept jumping up on his leg and even tried to leave with him hahaha he was very nice about it though. Anyways, \u00e2\u0080\u008bthe pizza was absolutely\u00e2\u0080\u008b beautiful, perfectly cooked and still piping\u00e2\u0080\u008b hot. The best part is that they didn't forget anything that I mentioned over the phone such as\u00e2\u0080\u008b plates, napkins, peppers, cheese, and 3 ranch dressings. I also ordered some cannolis and they were delicious as well! Everything was reasonably priced and they didn't charge extra for the ranch dressing. However, I'm super bummed that I'm only visiting and will be heading back to Northern California\u00e2\u0080\u008b soon. I just might have to order it one more time before I leave next week. I would definitely\u00e2\u0080\u008b recommend this place!!! Yummy yummy in my tummy! ;P", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great restaurant style pizza that does not taste like it came out of a card board box. Ingredients tasted fresh and not processed. This was my first time ordering as I am new to the area. Of the five I have tested so far this is easily the best. I ordered everything from my phone and was surprised how easy it was! This will now become my go to pizza of choice.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "probably one of the best Italian places I've eaten at! The pizza was delicious!! Everything tasted so authentic! Pizza lunch meal came with a salad.. asked if I could change the salad and was told even though they aren't supposed to they did it since I was a first time customer! I love that they care about their customers.. super nice guys!! I will be coming by a lot more often!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Excellent, cheesy pizza and the staff is wicked nice and friendly!! My bro said the buff chix with Gorgonzola cheese on it was very good! I had garlic, spinach and tomatoes on my side and it was up there as the best!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "My favorite salad Antipasto. Great pizza. Service is always outstanding.  Bring your family and be treated like family while enjoying great food.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "THE GREATEST!Even though I only lived a two blocks from Massimo for nearly 5 years, I never even gave the place a shot - my loss. Then I recently moved back to the area and Massimo has secured the spot as our go-to pizza takeout. We're simple people, usually opting for just the jalapeno + pepperoni, but there's never a slice left over. The use of cheese is ample, and their sauce has the perfect amount of garlic - generous but not over the top.A special mention goes to the service. Just yesterday they messed up on my pizza, subbing one ingredient for another. When it was delivered I was informed of the snafu, but told they'd make it right. We still ate and loved it. A few hours had passed and I'd completely forgotten about it, when there was a knock at my door. There stood my driver, happily presenting me with a certificate for my next meal, on them. You already had a loyal customer, Massimo P&P, but moves like that make we want to help you get some more.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Better Italian pizza than in Rome and Napoli.On 17th street right next door to Plums. You can't really miss it because the smell of fresh baked dough and sizzling pepperoni fills up that whole area. Location This is a family business that's operated by 3 brothers that according to the youngest have been doing it since birth. Authenticity I had a large pepperoni and mushroom pizza with a side salad. The salad was filled with mozzarella cheese and a ridiculous vinaigrette Italian dressing that I've never tasted like before. The pizza I won't say a word about because it's a real must try and I could never come close to explaining the mouthwatering experience in words. One last thing that stood out is the produce, FRESH!!! Food Customer service is great, they are always busy so call ahead if you don't want to wait long. A MUST TRY!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Yum yum YUMMY. It's really high quality hand made Pizza. great Sauce I love the way the slice the veg toppings.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Awesome pizza, really nice and friendly Staff!  It's an  old fashion  Pizza Parlor, a great place to eat good food in a nice restaurant.  Always a great experience!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Get a cannoli. I ate 6, absolutely no regrets. I'm pretty sure they were made by Jesus.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great Food. Great prices for the quality and portions you get. The meatball sandwich, pepperoni pizza, and fettuccine Alfredo are some of my favorites from here just to name a few. The wings kick ass too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing pizza. I'm pretty picky when it comes to pizza, but their thin crust pizza is delicious! The simple cheese pizza has the perfect ratio of cheese and sauce.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The hubby, kids and I were looking for a spot to eat after a day at the beach. Initially we were going to have sushi.....but the smell of the pizza at Massimo lured us in LOL. Needless to say, we all loved the pizza. Quick and friendly service,  and the pizza was delicious! Good food at a great price, definitely will be coming back.This was our first time at Massimo", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I contacted Massimo after I came across them on YELP and saw their adorable customize pizzas. I wanted to send my spouse a 'heart shaped' pizza with   I Love You  written in the middle with pepperoni and thought I would give Massimo a shot.  I contacted Massimo at 10:00am in hopes of a delivery by 11:30 (his lunch time). Not only did Ben make the over-the-phone process super easy - he was very convenient in time schedule and reassured it would be delivered on time (I knew this request wasn't going to be exactly easy). He also allowed me to tip over the phone since I would not be at the place of delivery in person. The pizza was delivered on time and looked absolutely adorable!!! I definitely recommend Massimo's for their outstanding customer service, their promise to make the delivery on time (and under time constraint), and the quality of the pizza!I will definitely be back again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great subs! Horrible salads!Would possibly try again, but definitely not delivery.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The service was great and the food was even better. It was our first time there and we really enjoyed the massimos special pizza and the Caesar salad. Would highly recommend this place if you're looking for good pizza!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Really fast delivery with fantastic service! This place really helped customize my order to my satisfaction. Their pizza is delicious and their sandwiches are perfect. They accidentally forgot to deliver a part of my order and they were so quick to rectify the situation and bring me what was forgotten. Could not recommend more.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Yes Yes Yes! Great spot we just discovered tonight but these guys clearly have been doing this awhile. We shared a medium sized pizza and a couple of cold beers and it was excellent. Great, friendly service and a good sized menu with salads, hot and cold sandwiches, pastas and pizzas. This is our new favorite pizza place!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "First time eating here and it was amazing! Wonderful customer service and wonderful food. The quality was top notch and I'll definitely be going back a lot more! Benji was so polite and friendly!! Thanks brother -Ali", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Excellent pizza. Friendly owners, who work the store themselves. Great service, reasonable prices. My brother and I had the  Fantastic Salad,   Garlic Cheesey Bread,  Meatballs in Marinara sauce and a large pizza, half Pastrami and half pepperoni and mushrooms. Salad was good, a tasty Italian dressing. Loved the garlic cheese bread, plenty of cheese, bread toasted just right. The meatballs were delicious. As was the pizza. It's thin crust with light sauce and plenty of cheese. I'd order extra sauce next time, but that's just a personal preference. The Pastrami signature pizza tasted exactly like a traditional Pastrami sandwich, plus cheese! The interior of the restaurant has booths and tables and the booths are very comfy. It's a nice casual atmosphere. The three brothers, sons of the original owner, run the place. Near the end of our meal, the eldest brothers wife and children and other family members surprised him at work on his birthday, singing happy Birthday and bringing him a cake. He was so gracious and hospitable he actually gave us a piece of his birthday cake! I'll be back. And I highly recommend this pizza and Italian food restaurant.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Some of the best pizza on the planet the guys rock the sauce is amazing and the salads are amazing", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great service and really delicious pies.  Would absolutely come back again. and again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love this place, been ordering from here since we moved to the east side a few years ago. The food is always great and the service is excellent. Love their sandwiches and pizza is amazing. Will continue to order from them for the unforseen future!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "LOVE THIS PLACE!!! Every single time I call to place an order for delivery, they are so helpful and kind. The estimated time they give for the driver to get there is on point. Best, most cheesiest pizza I've had in OC area! A must try for people looking for a killer pizza place", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "My number 1 spot to visit when I visit the OC , I can smell the freshness once I land into John Wayne airport . The juiciness of the pizza dough devouring into my mouth in every bite is amazing . Also their salads are amazing and tasty . I enjoy the meatball sandwich ! mama mia che bello ! . They really focus on importance of customer service and their clients needs. Def 10 stars !", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Amazing food and even better service! I'm from New York, in town on vacation and best pizza I've had in a long time!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Good location..right in the heart of Costa Mesa.  We went to Massimo on a Friday evening around 600. Ordering prior to sitting down, we decided to go with a pizza(Chicken, Garlic, Onion, and Cheese) and split a Caprese Spinach salad.  The salad was served first..good flavor and pretty good value for right around $9. Our pizza arrived shortly thereafter...it looked incredible.  I would say that the toppings lived up to the look and the ratings, but we were a little disappointed with the lack of flavor from the crust.  It was good, but I would not say great.  Given the price of the pizza, we were hoping for better.  Service was friendly and  helpful and it had a nice atmosphere.  Looks like they had some interesting non-pizza options...probably would try that the next time.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "We love Massimo's. We order food to go all the time is always fresh, hot, and delicious. The staff is always very nice and make sure the orders get to us quickly and are correct. They are super fast when it comes to delivery and we love the food. This place is a great choice.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Awesome pizza and meat balls!  Cool ownership, favorite pizza in town.Delivery is fast too, if you are feeling lazy!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "What a surprise finding this cozy father-daughter local restaurant. Very tasty with homemade style pasta and pizza. Got to try it!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "First time trying this place out and I have to be honest with this review. I ordered a medium size pizza with pepperoni and meatball. I got pepperoni and mushrooms on delivery. Bad start, but it's okay, can't hate the fungus. The pizza was okay, not great nor excellent, just okay. Cheese was okay, dough was okay, pizza sauce needs improvement. For me a pizza should have balance. Needs to have a good crust, good mix of cheeses or just great mozzarella and a good sauce. Don't want to overpower it with just one ingredient, but the sauce needs to have flavor and I just didn't get it with this one. Maybe I'm spoiled by eating good pizza in New York, Boston and DC. They were all NY style pizza, so a little different than Massimo's, but they had very good pizza sauce in them. Again, maybe I was hoping for too much, so I'd say give this place a try, maybe it's just my taste buds. Everyone deserves a second chance, so I'll try it again.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is awesome! They made a heart shaped pizza for Valentine's day and my fiance loved it! The quality of pizza is great here! It's made to order. The staff is super duper friendly. I hear the sandwiches are delicious as well! Craving pizza you need try this spot out! It's in the same plaza as Plums!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I arrived and was warmly greeted, place smelled great, like old school pizza places should. Order was taken for to go, so I sat down tapped on my phone and watched football till a friendly guy hands me my food. As I got up to leave I found I was sad..... I wanted to stay and drink beer and continue to enjoy the peaceful atmosphere, but sadly I needed to get home. See ya next time for dine in, bringing the friends.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Based on the reviews here on Yelp, I was looking forward to trying their pizza.  We ordered the gluten free crust with jalape\u00c3\u00b1o's and some other toppings.  The taste was rather bland - which I don't understand given the jalape\u00c3\u00b1o's should have at least given it some flavor, but no.I realize gluten free pizza crust can be tricky, but it wasn't only the crust that was the issue here - just really bland overall.So far, Pitfire Pizza on 17th is the only gluten free crust (with toppings that actually have flavor) that I like.Unlikely I'll be ordering pizza from here again.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Super yummy and love the family special that you get on Yelp Check in. Best deal ever!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Delivery was quick and the food smelled amazing. The canolis were great too!!! In terms of the food, it just wasn't amazing..... the sauces was a little watery, good flavor, but watery. And I didn't get garlic bread, cheese, crushed pepper, plates or napkins when the food came. When your stuck at work and have stuff delivered, you just hope that they cover all the minor details.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Good pizza for  california . Prices are ok. But order an extra large mossimo specialty pizza and everything will work itself out. :-)", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Looking for great Italian Food? From Delicious Pasta to Pizza. It is absolutely fabulous. I stumbled across this epic little hole in the wall Italian food place in Costa Mesa off of 17th Street with a friend and we want to come here more often. It's Family friendly place to just relax and chat or even watch the game. Staff is incredibly friendly and sweet. They are sweeter than their Cannoli.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Real New York Lunch.  Two slices of pizza, a salad and a drink.  Bada Bing you are in Brooklyn.  Great place for lunch.  If you come for dinner, the pasta dishes are excellent.  Great vibe also.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "There is a lil bit of an attitude about this place...I like it.  Low key joint, pizzas are tasty, what more do i need?  (answer: nothing).  Sure the salad is nothing to write home about, but hell, most salads at pizza joints suck anyways.  I dont come here for the ambiance, the salads, the service.  i come here for a slice and a beer and to be left alone.  thanks massimos for that.  FYI, they also personalize pizzas if you request it.  seems cool to me, my wife got me a pizza that was mildy embarassing delivered to the office, but i didnt know you could write so much in olive font (check out the pic).  awesome place.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza and customer service in Costa Mesa. I love this place! Get the dinner special or their white pizza!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pizza was good; I had a Hawaiian pizza. Better than most places that I get pizza at. I came due to the reviews posted on here. I give it a three because the environment wasn't that welcoming and I don't feel like I'll be going back. It wasn't bad service, it just wasn't inviting to say the least. The people working there didn't seem like they were into it much, but again not bad or any type of rude service. If I went again it would be for carry-out.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Went there for a friend's birthday get together on a weekday. The place was very clean, great atmosphere and the staff were very very hospitable and welcoming. I had the white pizza and it was heavenly, the crust was excellent too.  Hard to find a good pizza place but this spot is great. Good food, good atmosphere and excellent hospitality. Highly recommend.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "First and last time I order pizza from here. We ordered a large half Massimo special half Hawaiian pizza for take out. Brought it home within minutes and the pizza was super soggy. When we picked up the slice, all the toppings slid off and the pizza flopped. It was pretty much unsalvageable. On top of being a weak crust, the topping were salty and tasted sad. Really disappointing.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ordered pizza, pasta, and bread for a night when babysitting 6 kids. It was a hit! They delivered and every picky child was happy to eat! Thanks again, Massimo's!!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The best Pizza in Newport Beach EVER!  Love the food, the people, the service!  Can't wait to eat their pizza again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "It is the equivalent to The Godfather's restaurants in Midwest/east coast.....very yummy", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is probably ,literally the best family owned pizza restaurant hands down! And I am telling you this ,from a new yorker . The salad that I get it specialize is very addicting and so darn delicious !!! The cheese is their number one ,and that is why it is so good!  You have earned my business ,get ready to see me now every Monday !", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have been going to Massimo's for 20 years. Sherif, Esad and Benji are really nice guys, and they have the best pizza in town. My favorite is the beef pepperoni. The sandwiches and salads are good too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "If you like really good pizza with real handmade fresh pizza dough and a fantastic salad to go with...Mozzimo's is the best place in town!Along with the most authentic white pizza outside of New York you get the friendliest service and the fastest take out.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Let me add to the many five star reviews Massimo has on Yelp. The food was delicious.  We bought the family meal deal and it was more than enough for us. We are a family of four.  While we waited for the food, the host gave us two complimentary meatballs with marinara sauce. They were delicious. We will be coming back for those and some pasta! Give them a try, you want regret it.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Tried Massimos on a whim and so glad we did! Ordered a large pizza, sausage sandwich and some cannolis. The sandwich was full of flavor (pretty sure they use garlic bread) the pizza is NY style, crust was not too thick or too thin and very delicious! The showstopper were the cannolis, they had a crispy shell and a nice creamy filling that wasn't too sweet. We'll be back for sure", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been going to Massimo's for 25 years, and I keep going back because it's like eating dinner at a friend's house.  Sometimes it's a really noisy house with too many ill-mannered kids and that annoying neighbor who dropped in to borrow your lawnmower and stayed to drink all your beer, but still a friend's house.  When I'm there, it's all about the classics. Their original Fantastic Salad, and a Massimo's Special Pizza or Lasagna with Meatballs never disappoints.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ok if you like pizza on sweet side.  Not truly NY crust but not awful. Didn't try anything else.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Very quick delivery service if you're in Newport Beach or Costa Mesa. Meatball sub was tasty! I also ordered 3 large pies and all were great. It's a little pricey but better than most other local pizza joints.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The best pizza I've ever had, not salty, and you can choose whatever you want as topping. 16'' is big enough for family of four.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Came for a work lunch to go. I was greeted by a guy who got up from a booth then kept walking to the kitchen while looking back at me and then said what can I get you. Ok....I ordered a mortadella sandwich and a caprese. The sandwich was good.  The salad needed salt desperately.When I got my food I was given no bag, napkins, or cutlery. Just here you go, bye felicia. And for that reason I will not be back.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimos is our favorite pizza place!  I've been eating here for 18 years and my husband has been a customer from day one! Best salads and pizza around and a  family run business!  They care and it shows! It's a local favorite to all in Costa Mesa.  My favorite is the roast beef sandwich and they make the sandwiches with the best rolls, made locally also.  I highly recommend !", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Stopped in for lunch and sat down to a steaming bowl of penne sprinkled with cheese and an ocean of the house sauce with chunks of tomato and spices. Did, I mention the salad... oh,so delicious.  Overall, a great meal with top notch service.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have been eating at this place for 34 years.  I am fortunate enough to live so close. Now my boys and their friends ride their skate boards over there.  They even do extra chores to earn money. Not only do I love all of the food, I love the staff. Because I frequent this place, I feel very confident that if my boys are being  naughty  the guys will kindly correct the situation.  My point here... great food... great atmosphere... they support our local schools... and they are family oriented... I like that they watch out for my boys.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Thanks to Yelp we gave this place a try. I asked what pizza they would recommend & was suggested the basil tomato garlic. He also suggested doing 1/2 & 1/2 so we could try their pepperoni (our go to). Both were absolutely delicious!  Perfectly baked, very flavorful. The service was great & the pizza, even better! Definitely would eat here again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ordered the special got pizza salad garlic bread cookies and spaghetti. It was so good I can't wait to order with them again it was like $35 so you can't beat that!! First night in Oc and I will be ordering again.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimo's3 starPaid almost $12 for four 2  cheese raviolis in alfredo sauce. We get our food, and the store is empty so the worker just sits there and uses his phone very obviously on the counter, disregarding the many tables covered in dirt and crumbs still, it seemed like the workers only clean the dishes, never actually wipe the tables. Food was decent but overpriced. Not somewhere I'd choose to go back to, but if I'm going with other people I'd still eat.", 
+                    LexiconAssessment: "neutral", 
+                    MachineInterpretation: "neutral", 
+                    Results: "both neutral", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have two words for you...  Simply amazing! I highly recommend their thin crusted beef pepperoni pizza,  barbecue chicken salad and hot turkey sandwich with added jalape\u00c3\u00b1os for a little bit of spice! Do your taste buds a favor and get some Massimo's in your belly ASAP!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Delicious!  We were in the area after an appointment and stopped in.  First, let me say that they are really nice people.  We ordered the family special to take home and received a large sausage/pepperoni pizza, penne/pink sauce/chicken pasta, salad with mozzarella/tomato/red onion, garlic cheese bread/regular garlic bread and cannoli for dessert.  While we were waiting, they brought us some wonderful meatballs with sauce.  Food was wonderful, my family really enjoyed.  We will be back.  Thank you!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimo pizza, what an creative way to exited the crowd. ive been to man different pizza restaurants and usually leave satisfy in all of the places. Massimo pizza takes first place for creativity and costumer service. they are the only pizza place that has implemented this idea and it seems to be working fine. im not much of a pizza lover but i would definitely go back to this place just to see the face of friends and family when they see the heart shape pizza.i recommend giving this place a shot!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I had never been to Massimo's, even after living in the neighborhood for years. I am a bit of an Italian food snob, having grown up in an Italian home. I've tried so many neighborhood Italian restaurants that didn't deliver that I had simply given up. Thankfully my husband took me to Massimo's for a try. I have fallen in love with their Beef Ravioli in the marinara sauce, with garlic bread. The ravioli is delicate and tasty--just the way I remembered homemade ravioli would taste at home. I can only assume that they make them themselves. This meal has become, for me, downright cravable. The service is friendly and competent. The environment is comfortable and clean. Serving sizes are Italian style--big and satisfying. Go and... Mangia! Mangia!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great food and great value. Awesome family run company. God Bless. Always enjoying coming in here and hanging out eating some good Italian food.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Our family has been coming here for years. We always feel welcomed when we walk in the door and our kids make themselves right at home. Hands down the BEST pizza in Orange County :)", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Maybe Massimo was off his game tonight but our food wasn't all that great. The Spaghetti and meatball with the pink sauce was bland and they put way too much basil on the four cheese pizza. I wanted to like this place and the workers were very nice but the food is just mediocre. I'm going to try it one more time and update this review.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Awesome pizza and great atmosphere.   This is old school Italian family pizza place.   Well it's European - Armand is from Montenegro!  And the staff is friendly and provide great service.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Two stars because the food was OK, but customer service was total shit. They are so unprofessional, the employees were constantly on their phones and fooling around while I tried to sit in peace and enjoy my dish. I tried to ignore them but then two employees of the opposite sex who I assume are managers and a couple (the woman is pregnant) started hugging and kissing behind the counter. That made me very uncomfortable therefore I rushed and tried leaving as soon as I could. As I was leaving I was given an abrasive look from the pregnant woman and heard her speak to an employee in a foreign language (possibly Italian) which made me very upset because she stared at me while she spoke ... Which lead me to think she was talking about me .. I didn't pay $150 to receive petty attitude... I could have just stayed home with my teenage daughter, I get enough of that at home..", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "positive", 
+                    Results: "false positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Cool atmosphere and great service.they must make their bones on repeat business.  I'll keep coming back", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Cold beer & salad, hot pasta!  Can't beat it !!!! They also have great pizza, I swing in after sup training great spot booth seating as well !", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great place to have pizza and an antipasto salad!    The pizza has a thin crust and the sauce is like my mama used to make it at home!   We also had the meatballs... They are large, flavorful and the marinara sauce was delicious.  The service was friendly and relaxed.  When in the area I would come back!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "One of the best lunch specials in town. Slice of pie and salad for a couple bucks...shoot, im sold. Ive been eating here since high school...Pizza is simple yet addictive...Meatball Sandwhich is great. Has a down-home, family feel to it.Best pizza on 17th Street in Costa Mesa", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "BEST GLUTEN FREE PIZZA! We've been eating at Massimo's for over 12 years and we love it! I stopped eating gluten 6 years ago and the hardest part was not eating Massimo's pizza. I'm beyond thrilled that they have GLUTEN FREE PIZZA now, and its AMAZING!!! I've tried all the GF pizzas in the area and this is by far my favorite. Try it, you'll be hooked!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "My favorite pizza place in Costa Mesa! The flavor of the pizza is nothing less than amazing and puts the regular pizza chains to shame. I also love the atmosphere of the place. This is the best place to eat pizza, hands down", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Simply delicious.  Clean place. Good prices compared to places around them. Ingredients fresh and delicious.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Love these guys! Great pizza, great service! Be sure to try the pink sauce and the cannollis!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Although the pizza is very tasty, the customer service is awful. I placed an order at 9:30 at night and, feeling bad for the late order, called the restaurant to make sure it was okay. I was shocked to get told off by the manager, not because of the late hour, but the fact that I only tipped 15% for one pizza, when the average tip in my area is apparently much higher. I was humiliated as the manager continued to tell me that  no one wanted to take my order  and quickly told him I would find a few more dollars cash to add to the tip for the driver. Never again will I order from them.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Omg! Thank u thank u thank u!! It was my boyfriend's bday! I'm out of states now so I was thinking to send him something fun and what he loves! He loves pizza (who doesn't?! Lol) and I saw some photos of heart shaped pizzas on Yelp, but it was all for Valentine special... I emailed them to see if they can do my favor and they were so cool! So I go ahead and ordered online and just wrote my request on the optional message section. Delivery was super on time and my boyfriend were amazed! He said pizza tastes good too!! I have never been to this place but I will definitely go visit them when I am back in the states!!! Thanks for a lovely pizza!!!! Muah!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Meatball sub is a must. Salad is just like it says... Fantastic and the service is quick. Keep it up guys!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Our family's favorite pizza place in the area. We order a pie least once a week. Cannoli's are tasty too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "We lived in Costa Mesa for 15 years and never ate here. Came in after my nephews soccer game (they sponsor the team) and my only complaint is we never came in sooner. The food is the bees knees. The owners and staff are super rad too. Eat here unless you're a commie.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "All of the pizzas disappeared in 10 minutes, so I only got to try one, and it was good! The 5 stars were earned with the customer service. The guy on the phone was SO nice. I was kind of spazzing out because the day was not going as planned and he was like, hey, we're here to help you out. We were hard to find and he was cool about it as well. Keep treating people like this and your business will always be strong!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "An absolute must! This place has it all when it comes to pizza, sandwiches and pasta.I would recommend Massimos to anyone who loves good food with amazing service.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is hands down the best pizza and pasta place I have come across in the area! Have had various dishes here at least 4 times now and each experience has been outstanding. The food is extremely delicious, reasonably priced, and served in generous portions. They have definitely made a new regular customer out of me. If you haven't tried them out yet, definitely give them a chance.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pizza has nice crust and flavorful sauce.The service is friendly and prompt.The inside is a nice casual atmosphere.You can enjoy a casual pizza dinner with the family and friends.I don't recommend the salad it gave me a tummy ache twice.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Customer service: rude staff & ownerPizza: piece of hair on pizza, no taste, dry crust, not thin crust, no flavorPrice: outrageousSalad: no taste, ranch is not goodOverall: I will not return, Haus of Pizza in CM blows this place.. Better yet Round Table is way better! I will not return", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Had a great experience at this place. Customer service was warm and helpful. We ordered the white sauce pizza, and it was cooked perfectly. The crust was crispy and the toppings were balanced well. Will definitely come again when we're in the area!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have driven by Massimo's for more than 4 years but never eaten there, Last night I wanted pizza and want to try a different pizza place from my usual joint.  Looked on yelp and saw this place, read the reviews and it seemed like a decent place.  Ordered take out, pizza was ready when they said it was.  Arrived about 7pm, the inside looked clean with several tables occupied ..  As for the pizza, I order onion/mushroom, the presentation was good, and the sauce had good zesty flavor.  Overall I enjoyed the pizza.  The only down side, if you can consider it a negative as it is just a preference, I like my crust a little over done and  this was cooked correctly.  I am sure if I ordered it over done they would have made it but otherwise it was a good pizza. The price was inline with other pizza restaurants.  I cannot give Massimo's (or any restaurant) 5 starts unless it WOWs me.  Maybe if I order something other than pizza, I might change my rating.  Long story short, I will definitely be back here for the pizza and will try other menu items.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great service, plenty of big screens for Sunday's games.  Kids had pizza and pasta which was delicious.  Wife and I split Greek salad and Italian sub which were great in flavor but sub was wanting for more meat.  All in all great little Italian joint.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "In a word underwhelming. The atmosphere was very nice and quite. I am assuming I ordered my food from the owner, he was very nice and helpful. My husband and I both ordered lunch specials. I ordered the meat ravioli and my husband had two slices if pizza, both came with salad, and we both ordered sodas. The salads were just fine. The biggest problem was my ravioli, it was terribly bland, no flavor, and the beef had a very strange flavor. It did not seem fresh at all. My husband had no strong complaints about his pizza but was not impressed in any way. I would not recommend this place to anyone. There is nothing overtly wrong with the food but for the price definitely not worth it.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Let me start by saying that is is hard to find good Italian pizza out here especially being from the east coast. My family and I only eat pizza from massimos and their cannolis are the best! They fill them right when you buy them which is awesome and guarantees freshness! Tonight we ordered food for delivery and one of the items we ordered was a little different then what we ordered. We decided not to say anything though because we have never had a mistake and everything we have ever ate their or ordered has been on point! And everyone who works here has always been super friendly nice and accommodating. Tonight  about five mins after we got our food we got a phone call and it was the delivery guy on his way back with the correct item. We were blown away and he insisted he brought us the right sandwich and let us keep the other one. I was blown away how caring they are at massimos and what good customer service they have. Thanks massimos and this is the exact reason why we only go through you guys for our Italian food!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I ordered a delivery from here and service was fast and friendly! We tried the Chicken Fettuccini Alfredo, Meatballs with Marinara, Slice of pizza with pepperoni, garlic bread, and Cannoli's and they were all phenomenal. Definitely will be returning here!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Reminds me of New York pizza, it's hard finding really good pizza out here in California and Massimo's restored faith in this NJ native that's there is in fact exceptional pizza here. This is the only place I'll go for pizza.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The food here is amazing, when you take a huge bite out of that thin crust pizza it takes you to a whole new world. And they have so many more delicious things on their menu! My personal favorite is their spinach caprese salad! Yum", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Rude lousy service will never go back. Walked out without our food after we paid for it. Waited and waited for our SLICES and when we asked about them. Rude, rude, rude. Will never step foot in the restaurant again!!!Son left hungry and unhappy!", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "LOVE the antipasto! Great little pizza joint that serves good pizza and salad. Sauce is great and the people who work there are very nice. Feels very family run, which I like.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Yes I am a fan. This place was very delicious. May I add that I have never had such a delicious house salad. Yes I know, I cant believe I crave there house salad so much. I go to other places and will always say Massimos has the best house salad. :pI liked there pizza, I must go back and try there pan. Very clean place. I loved seeing locals there. I love to go to spots that attract the locals so much.Cant wait to go back.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza: not too thin or thick, plenty of cheese and sauce.  Salad was good too.  Nice staff and TV.  Would come again!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Excellent, authentic.  Love the thin crust and that they use fresh garlic.  Friendly staff, nice environment.   Cant go anywhere else for pizza now.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Mom and Pop Italian at It's Best.Home made sauce, succulent tender *perfect* meatballs, and fast friendly service.  If you can scrape together 6 bucks you can get an excellent meal at Massimo's, or you can choke down some garbage that will probably give you the mcshits. The dinner specials do not include meatballs, but they are worth the extra couple of bucks for HUGE meatballs done right. The pasta dinner specials carousel throughout the week, which gives it an old school diner type of feel - I like that. The quality of the sauce does it for me, for the price hands down best sauce you can find in the Newport / Costa Mesa Area. Savory, Tangy, slightly sweet, you can see remnants of garlic and other things that make me feel like the owner's grandma is toiling around in the kitchen. The meatball is also very well executed, they surpass the ones you can find at Buca for 1/4 of the price. The salad is just ok, but everything else is excellent. As far as ambiance, very mellow. The crowd ranges from young to old to everyone in between. I can usually find a table no problem, great staff, my drink is never empty, and my order is always on point. Must check it out if you are craving some simple italian, without the annoying franchise feel.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "New caprese salad best in town. Small mozzarella balls, fresh spinach, tomato. Outstanding !!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I stopped by with a friend yesterday, he recommended the pizza. What a pleasant surprise! The best thin crust pizza I have ever had. I asked for extra cheese and extra sauce, they didn't disappoint.I will be back. I have already spread the word to my coworkers!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Just the best restaurant, the sauce rocks and the Hawaiian pizza is awesome. But the best part is the guys are like family.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "You want a great pizza. Come to Massimos. The BBQ chicken is the best and I suggest the fantastic salad with there house Italian dressing.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimos is the best pizza in town! I highly recommend the house salad and of course the pizza.  I love every type of pizza here, I've never had a bad one.  The flavors are incredible!!  The staff is great - always working hard and always getting your order to you on time! I love everything about this place!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Excellent food and great prices. Helpful, energetic, service oriented staff. I love the penne arribiata and lunch cheese pizza special. I went there today and then went shopping in the surrounding stores and when I was heading back to my car I realized that I didn't have my keys. I went back into the restaurant and one of the brothers that owns the place looked through the trash can himself with his bare hands to look for my keys to make sure they didn't accidentally end up in the trash. Love this place.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I walked in to order a small cheese pizza for my little kids  who where in the car waiting for me. After ten minutes i went back to pick up my order and it wasn't still ready. So, i had to cancel my order.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza ever!!!!! I am literally addicted ! I am very picky by the way . I also recommend  the salad with cheese and ranch . It is so fulfilling . First time trying it , and the worker over there told me if I am not satisfied  he will not charge me . He knew his stuff was good . This will definitely  be my lunch options .", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I have had a lot of pizzas in my time ranging from New York's Lombardi's to some pizza from Naples, but for some reason I still really enjoy this small little strip mall  pizza. It just reminds me of home. I have been coming here for years, and the owner, Izzy, is the greatest, always friendly. He is so kind along with his sons. In any event, this is definitely my favorite and go to pizza place. I do have to say that the pizza is perfect when it comes out, more specifically burn the top of your mouth hot, and they even make their own sauce. I have had some of their other items, but I stick to the pizza. For my preferences, I prefer the pizza over the sandwiches, and the sandwiches over the pasta. I also enjoy their large overflowing cheese salads. Ok, I think that I need to head out and grab some pizza. You should too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "SOOO YUMMY! I've been living out here in the OC for a little over a year now and I finally found my pizza spot! I hate ordering from Pizza Hut or any of the big chains because the quality of food just isn't there. Massimo's is exactly my kind of pizza. I ordered a large Hawaiian and a small Margherita. Both were perfect in every way. The crust is chewy and the sauce . Definitely ordering here for my pizza needs from now on.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Possibly the best pizza I've ever had. Was staying at the Ramada Inn and ordered delivery. Chose the antipasto salad and the Mossimo Special Pizza. Really, really good. Fair prices. And great delivery.  Almost wish I lived locally so I could eat here as often as I'd like.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been coming here for 10 years & especially through my pregnancy, lol! My daughter, now age 4 insists we eat here after school. She's been a customer for a couple of years now. I believe her addiction began in the womb. Great family owned business.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "It's dank. They use ovens to cook the food unlike some reviews have said. The pizza, environment, and people are all amazing.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best salads on 17th St costa mesa.cant find a better pizza. Parlor in costa mesa ask anyone! Mitch", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Besides Cap's in San Diego, this is my favorite place where I feel like my Mom made the meal.  This is called Authentic American-Italian. I feel at home every time I go there.  Bring a date on a casual meal and you will not go wrong.It's not about the pizza.  It's about the pasta.  And, Massimo's delivers.  They are a hallmark of Costa Mesa.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Food is delicious and the service is excellent I had the hot roast beef and cheese sandwich it has a lot of flavor", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been meaning to do this for a long time.  I LOVE Massimo Pizza.  Their pizza is good and now they have gluten free crusts which is even better.  The prices are reasonable and the owners (3 brothers and their father) will change one of the tv channels for you if you want to watch a different sports event.  Finally, no matter how busy the guys get, they are always smiling and friendly.  Great spot!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "love this place!! the best pizza I have been able to find in California after moving here from New Jersey a few years ago. They keep it simple and are consistent, have good service and great food", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Really good pizza people are friendly the prices are In my budget and you can really customiE all your topping and get sandwiches it's good and I recomend it", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Good food....Great service...Awesome people! If you are in the area come check them out...you won't be disappointed!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been here a few times with my son after a soccer game or when we've needed a quick dinner. The pasta is meh, I think I saw them microwave the spaghetti once. You do get salad, garlic bread, and an entree for a decent price, but it's nothing special. The two star rating is based on our most recent visit. My son and I both ordered the penne special. Not great aaaand I found a dead fly in mine. I got an apology, a  ya we try to keep things clean but sometimes this happens , and an offer to make me a new plate. Having lost my appetite I kindly refused and that was that. Not GREAT customer service as a refund would have been nice, so I think we are better off getting our Italian elsewhere.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Excellent service and amazing quality food family owned business you can tell the owners care about the food they serve but also their customers, Definitely would come back.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "How am I just finding out about this place and why on earth are people complimenting it with less than 5 stars. Pizza is unbelievable. Sauce, crust and cheese are all on point. The hot Massimo special sandwich is unreal. Bread is soft with a nice crispy outer crust, meatballs I'm guessing are homemade and the roast beef and cheese with light sauce make an unreal combo. Seriously, won't be going anywhere else for pizza & sandwiches from here on out. Service seems family run and welcoming. Despite what it says on yelp they're open Sundays!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Terrible customer service!!! Took the wrong order and instead of fixing it blamed the customer because is was the owner's daughter the one who took the telephone order!!! And If it's a family operated business the owner should not have his underaged daughter working there in the first place as is it illegal to have her serving liquor and as she has not developed proper working skill especially on a busy night!!! The owner was rude and did not rectify the situation not did he ever acknowledged that his daughter had made a mistake and as an easy fix refuse to provide service and asked the customer to leave!!! That's horrible business practice because he clearly knew that they had made the mistake and did not want to owe up to it!!! Will never go back to this nor will I recommend this place to anyone!!! They charge me almost $30 for a slice of cheese pizza and and fettuccine that looked like microwaved food!!!", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "positive", 
+                    Results: "false positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "The food was delicious and the service was even better. They were very fast with their delivery and would recommend them to anyone I know staying in the new port area. Thank you for the great food and service!!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimo's helped create custom pizza to suit my food allergies.  Recommend their white pizza with Basel, olive oil, garlic, blend of five cheeses with mushrooms and chiken.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Mushrooms are the key to my heart :p", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Family owned restaurants are always on my radar and I normally appreciate the style and food.  Food here is meh. Service sucks. The younger gentlemen behind the counter seem a little  guidoish  and not really into customer service.  We sat down at a table and no one cared it was dirty or that we had to clean it ourselves. I've been here a few times now and am NOT GOING BACK.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Cozy and very welcoming, love the service and the Pasta is great.  On top of all of that Massimo's Pizza about helping the community and that is a type of business I want to support.  I hope you will support Massimo's Pizza & Pasta too!! Good folks.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best F***ing gluten free pizza around!  Service is phenomenal. Everything on the menu is reasonably priced and the atmosphere of the restaurant is awesome. Great place to bring your family or grab a beer with your friends.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "positive", 
+                    Results: "false positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I've been coming here for years. The food is awesome (we love the antipasto salad) and the family that runs it is so friendly. It's not like other places that rotate through employees. They know us, we know them, and the recipes all taste like real Italian. There are definitely times when we're in the mood for Massimo's, not just Italian. There's something down-home Costa Mesa about a place that's been here so long, supporting their community, serving great food with great people.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Totally Awesome!  Takes me back to NY where you find the best pizza in the world!   Keep it up guys!  I only wish was finding you sooner.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "We have been looking for a fantastic pizza joint here off 17th and we are so thankful to be introduced to Massimos.  Their pizzas are perfectly crispy and the owner is great.  Give it a whirl!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "When Mr. Pepic eventually retires he should hand the reins to Benji, not his two older sons.  He is the only person there that treats the customers with proper respect.  Esad is an Arrogant jerk, and Sherif doesn't have the greatest people skills in the world.  Benji Trumps them all.  Mr. Pepic let Benji take over one day.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I like their pizza. It's not the best (that belongs to Al's), but it's good and the restaurant has a hometown vibe and the there's plenty of room to sit if you're out with friends or family. Their pasta is pretty good too.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pizza is totally yummy, I think it's more $$ price for pizza though. But ingredients are top quality. I wish they offered a more adventurous vegetarian pizza.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I am a client of Massimo's pizza, and so are many friends. Though their food is good, i was flabargasted at the rudeness and heartlessness of the owner. I am a volunteer for a non profit organizations that rescues dogs. We were having a big fundraiser for them and contacted Massimo's Pizza to see if the would donate some Pizza's or give us a donation. The person I talked to who said was the manager, after I told him what we needed he said  you are talking to the wrong person as i HATE dogs  I nicely told him I was sorry, but would still like to order some pizza's for the event. Then he proceeded to say  I hope all dogs on earth die .  I am speechless, it is one thing not to like animals and another to wish them dead. He then said goodbye.Is this a way of doing bussiness?  where will they stop, not allow dog lovers to eat there or religious believes, etc?  this is HORRIBLE! The rudeness and the lack of care for a client is just unbelievable.  you are running a bussines here, who put you in charge of judging!!I can honestly say I will NEVER set a foot in this place again and all the friends I have already said they won't either. We are passing the word around about this horrible experience and since they take an order from us dog lovers, then dog lovers should not give them bussinessTina", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Outstanding pizza and pasta.  Great family staff that makes it a point to make sure you are happy and have a good experience.  Good food, price and staff = Good time", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I love this place! I've been going there for many years. My favorite is their Italian sub! So good! They know me by name when I call and when I get there to pick up, they are so friendly and the service is always prompt and precise.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is great. It's a great cozy environment. The staff always treat you like family. I would recommend anything on he menu. It all taste great.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Eff Massimos!!!!!! Worst service in the entire world!! Their delivery hours are never set. They keep changing them... or at least the dude answering the phone does. And when they aren't he's not nice about telling you so.Pizza is pretty good so I just kept taking my chances ranging from eh customer service to down right crappy. Took my chances again last night. Called at 7:50pm to place a delivery order. When 8:45pm rolled around I was like hmmm.... but considering they are ALWAYS late, I gave them the benefit of the doubt.9:00.... WOW! They are really late!9:30.... This is crap! Called. No answer.9:45.... EFF this!! Where the hell is my pizza?? Called again and waited for the machine only to realize they closed at 9:00!!!!Wait! What? They are CLOSED?????????Left a  nice  message.... yeah won't be back. Had to settle for frozen pizza from Circle K.... NOT in a good mood!!!!UPDATE: Got a voicemail from the owner stating that the guys kept dialing 949 area code trying to get a hold of me. OK so then what was the point of giving the phone order guy my 714 area code phone number??? And apparently they came to my door and no one answered.... ok I've been sitting in my living room since I placed the order and I have 2 dogs that bark with even the slightest knock AND every door bell ring..... WEIRD. OH! And they CHARGED me!!! WTF? Still waiting for them to credit me.Last I checked pizza ordering/ delivery guys weren't brain surgeons but seriously? Is it that hard???? Fuck.", 
+                    LexiconAssessment: "negative", 
+                    MachineInterpretation: "negative", 
+                    Results: "both negative", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Best pizza in town. I just ate at mozza yesterday and the new artisan pizzeria last week and massimos is a far better pie with a great local family feel. Great food, great people!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I found Massimo on the web when I was seeking an Italian restaurant in Costa Mesa for take out.  It is absolutely delicious - fresh, authentic - we will be back for sure!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I really liked the pizza here. The crust was tasty and toppings fresh. I think we were helped by the owner, but I'm not sure if that was him. He was cool. Other kids working were more interested in watching the movie on the tv than cleaning. Kids will be kids. They weren't rude though, just not overly helpful. Anyway, I thought the food was delicious and if I'm in the area I'd definitely head back.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I eat at Massi's at least twice a week. Best cheese pizza in town. Side salad with ranch is the most delectable of all. The people who work there are so fun and Italian.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Ordered food to go. Ended up getting the JUMBO cheese pizza and it was DELICIOUS!! Also ordered the regular and antipasto salads. They came with the italian and ranch dressings...each were fantastic!What a great find...I will definitely be visiting here more often!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "i like to go there watch a little sports have a beer. the guys working there a die hard sport fans so its fun to hang out there and talk sports with them. as for the food is great. I start with one slice but end up having 1 or 2 more because it's so good. I'm from NYC and this place is the only pizza in OC which comes close.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Seriously, how can I not love Massimo's? I have been going there since I could speak with my Dad, who still to this day has to have his Massimo's mushroom pizza. And my mom loves their salami subs. Its not complicated food, its just good. Pizza is a little greasy but has a good crust and flavor. Meatball sub is A+. Its owned by the Pepic's, who always make your feel welcome, and they are very picky about the quality of their food- I know this because they ordered their rolls from Cest Si Bon and would inspect them every time. Oh yeah, and I went to grade school with Sherif, and he got in a fist fight in 6th grade and beat up this other kid who was a jackass. The other guys carried him on their shoulders and chanted  Pizza, Pizza!  It was a very Rocky-esque moment.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Delicious thin crust NY style pizza.  Probably the best pizza place I've found in Costa Mesa so far.  Husband and I split a large half sausage and olive (for him) half cheese (for me) pizza last night and ate the whole thing in one sitting.  Oh well, so much for that New Years diet.  I lose!  Massimo's also does a nice cheap lunch special where you can get a slice of pizza, salad, and drink for somewhere around $5 (I don't remember the exact price, sorry).  I haven't tried their pasta but my husband had spaghetti and meatballs here once and he seemed to enjoy it.  Overall, a great place for pizza, and one we will definitely be returning to in the future.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I dig their pizza. I work about a 5 min walk from them and eat here about once a month. I have two other pizza places close to me and between the three, I choose this one. You can get the #2 lunch special which is a slice of pizza, a salad and a drink for $4.99. Good deal for a great lunch. One of my favorite pizza places.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Massimo's Pizza...  I don't really know what to say.  I've been eating there since high-school.  The guys are always great, the pizza is always outstanding, the Fantastic Salad would sometimes fill me up before the pizza got out.  Oh and they just remodeled too!  The ceiling is tall, tall, tall, and covered in tin I believe,  the new booths are high-backed and super comfortable,  there are fancy new tables, and there is even mood lighting now!  I have to say, sit facing the counter area because they have this big plasma something-or-other television glowing above a couple sweet arcade games.  Massimo's has actually been recognized, I don't remember by who, for their ice.  It's basically a larger-diameter-ed cousin of snow.  They serve amazing pasta and huge sandwiches.  Try the Mafia.On weekdays between 11 am and 3 pm they offer their lunch special:  Two slices with a Coke for $4!  The parking lot is usually packed with high-schooler's cars so park at the Jack In The Box.  They never check or care there.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Came here on my lunch break and ordered the baked rigatoni for myself with a salad and a pepperoni pizza for my friend. The pasta and pizza wer both extremely greasy, but both delicious. Came with 2 slices of garlic bread lightely seasoned and a wonderful salad. For calling 10 minutes prior and ready to walk out the door in another ten, it was worth it! I would go back, just maybe request less grease..", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Cool little place to stop in on 17th. Cheap slices. Crust is perfect. Sauce.. oh man the cheese? Perfect. I overheard them talking about Growers Direct which leads me to believe they get their produce from there which puts them high in my favor. My pizza was really good. They were nice. If I need a quick slice. I'm there.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great family owned restaurant! Clean, neat, tidy. Prompt and great customer service. Good value as well!Love the pizza! not too cheesy, not too saucy, just right!Cheap pitchers... GREAT sandwiches. As a matter of fact, I rarely order their pizza (usually i ride someone's coat-tails on their pizza), because I'd feel 'cheated' if I missed out on an opportunity to order a sandwich! The BEST roast beef by FAR! and if you're a soccer fan, this is the place to be! Especially during lunch when they show all Champions League games!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This place is great, everything about they serve there is good. Salads, pizza, sandwiches. If you like your pizza crispy we always orders ours extra crispy and it comes out just right.The mafia sandwich is my favorite!!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Loved this place since the first time I went here. I love the pepperoni pizza, it's all I ever get. Usually I hate crusts but I can ALWAYS eat Massimo's crusts. It's one of the hole in the wall places, and the environment reminds me of a  friday night buddy hang out session  Very comfortable and homey. The Italian owners are super funny and I like them a lot. I had left a piece of pepperoni on my plate, and he walks by and says,  hey! you don't like my pepperoni?!  and started chuckling. that was funny. In any case, for me, Massimo's is the number one restaurant for pizza in Newport!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "You are neighbors with our old pizza place, you will deliver to our new apt but they won't! Your pizza was better, the order came hot and was exactly what we ordered. Happy to have found a new pizza delivery! Thanks!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "3.5 stars!This place is really cute, reminds me of aftershool hangouts with the gang. The pizza here has always been really really good. You can tell its owned by a mom and pop (they only have one telephone line- so they can't process credit card transactions if they're on the phone)I thought the pizza quality was really good. We got the half meatball and half pep with mushrooms. The meatballs were a surprising burst of flavor- very unexpected. Also, my favorite part of the pizza was the crust. not too thin, not too think, and it was actually crispy. that gets an A+ in my books any day. my biggest pet peeves when it comes to pizza: soggy crusts and dough. Also got their salad. pretty typical pizza place salad. downside: there is a bit of a wait. i dont really mind. you kind of have to expect that you will have to wait if you are getting a pizza freshly made. if you dont want to wait, just call in your order. the crust still stays crispy!! It's in the same plaza next to Pan Asia and Plums. enjoy!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great small little mom and pop Italian place, great for families or gatherings also.  Good quick stop for lunch breaks for school, although it does get slightly more crowded at times.  Nothing really to make it the best Italian restaurant ever but a really good local spot regardless especially for a decent price.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza.  Just love this place.  It is nice to go to a family pizza place.   The pizza is the best in Orange County.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Wonderful casual lunch/dinner place!!! I used to live nearby and came here all the time, and now always stop by when I'm in the area. I've tried their pizzas, sandwiches and salads - honestly everything is good! I like that their pizzas are thin crust. And if you're so included, they serve beer and wine. Service is friendly and quick! Highly recommend this place!", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I hesitated on trying this pizza place.  I don't know why.  Everyone I hang with eats it for lunch at least once a week.  Finally, last weekend at a party I had it.  And I liked it!  Not gourmet, not fancy, just good old pizza.  I think ordering a whole pizza vs. a slice is better.  It tastes just a bit fresher.  Salads are good and big.  Decor is very plain.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Pretty good pizza and salads. They usually have a good special, like a slice of pizza, salad and drink that we get. Nice owners.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great pizza and value. Need to add more toppings to the menu such as roasted peppers, etc. Overall very good.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "I got a few Pizzas for pick up here yesterday. I went to pick them up and the place seemed all right. It was kind of empty but they had the Angels game on and a whole bunch of $.25 for my son to play with while we waiting for the pizza. The pizza was ready really fast and the guys working there were really nice. The pizza was decent. I thought it was a little oily and needed a little more sauce. There was a lot of garlic on it too but I really liked that. Overall it was decent pizza but I'm just not sure it is worth $20 per pie. For the quality you can get one of those chains pizzas for $10. Just my opinion...", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "Great lunch specials.  Slice and a soda with salad is 5 bucks.  They have GREAT ICE. Yes, I said ice.  It's soft, cruchy, and wonderful.  I get sodas just so I can have the good ice.  (water with good ice just isn't as wonderful.)Pizza is good, albeit a little greasy (but not that you can't blot it with a napkin).  Salad is great.  When I'm in the mood for pizza lunch, this place is it.", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }, 
+                    {
+                    CustomerReviews: "This is honestly the best pizza in the area. Tasty.. I crave it sometimes. I used to live in the area about 5yrs ago and have moved back. Same quality and that is saying something. The only bad thing is that is seems like when I go in to pick a pizza up .. The clientele can be a bit .. Umm. Hmm. Trashy. This may be a fluke and frankly, I don't really care, keep making that pizza. Incidentally there are two really hot guys that work here.. That is reason enough to show up. ;)", 
+                    LexiconAssessment: "positive", 
+                    MachineInterpretation: "positive", 
+                    Results: "both positive", 
+                    Merchant: "IMOS", 
+                    ACCU: 0.983333
+                    }                
 ]
