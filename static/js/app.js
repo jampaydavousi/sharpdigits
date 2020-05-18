@@ -1,32 +1,27 @@
-// **UFO-level-1**
-// ### Level 1: Automatic Table and Date Search
+// **sharpDigits Data Presentation**
+// ### Level 1: Automatic Table of Reviews
 
-// * Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided.
+// Using the sample reviews and sentiment analysi dataset provided in the form of an array of JavaScript objects, 
+// a table is appended to the web page and then adds new rows of data for each customer review for each merchant.
 
-// Using the UFO dataset provided in the form of an array of JavaScript objects, write code that 
-// appends a table to your web page and then adds new rows of data for each UFO sighting.
-
-// Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` 
-// at the very least.
-
-// Get the data from data.js and copy it into a new array
+// This part of the code gets the data from data.js and copies it into a new array
 var reviewData = data;
 var delayInMilliseconds = 3000;
 
-// get table references
+// This part of the code gets table references
 var tbody = d3.select("tbody");
 
 function buildTable(reviewData) {
-  // Clear out any existing data
+  // This part of the code clears out any existing data
   tbody.html("");
 
-  // Loop through each object in ufoData
+  // loops through each object in dataset
   // and append rows and cells for each value
   reviewData.forEach((dataRow) => {
-    // Append a row to the table body
+    // and appends a row to the table body
     var row = tbody.append("tr");
 
-    // Loop through each field in the dataRow and add
+    // loops through each field in the dataRow and adds
     // each value as a table cell (td)
     Object.values(dataRow).forEach((val) => {
       var cell = row.append("td");
@@ -36,24 +31,24 @@ function buildTable(reviewData) {
   });
 }
 
-// Use a date form in your HTML document and write JavaScript 
+// Uses a merchant code in the HTML document and write JavaScript 
 // code that will listen for events and search through the 
-// `date/time` column to find rows that match user input.
+// `Select Merchant` and 'select result type' columns to find rows that match users input.
 
 function handleClick() {
 
-  // prevent refresh 
+  // This part of the code prevents refresh 
   d3.event.preventDefault();
 
-  // Get the merchant name value from the filter
+  // This part of the code gets the merchant name value from the filter
   var merc = d3.select("#Merchant").property("value");
   
-  // Get the result type value from the filter
+  // This part of the code gets the result type value from the filter
   var answer = d3.select("#Results").property("value");
 
   let filteredData = reviewData;
 
-  // Check to see if a merchant name was entered and filter the
+  // This part of the code checks to see if a merchant name was entered and filters the
   // data using that merchant.
 
   if (merc) {       
