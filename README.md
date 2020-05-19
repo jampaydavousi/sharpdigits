@@ -16,7 +16,6 @@ PostgreSQL or SQLite
 BeautifulSoup4
 Heroku
 Apache Spark by Databricks (NOTE: You do not this to run the software.  This enables you to run the Machine Learning (Natural Language Processing) code independently by loading sample database from Amazon Web Service (AWS) S3 and see how the data pipeline and ML Model is used.)
-=======
 
 This is a full stack app so add your html, js, css, python.  The dataset is extracted from PostgreSQL to data.js using an ETL process to have a static dataset in the event that you like to reconstruct this software but do not have PostgreSQL, Apache Spark, or jupyter notebook.
 
