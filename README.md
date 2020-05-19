@@ -9,13 +9,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-Python version 2.7 or higher.   You must create a separate environment on your computer for running Python applications.
-Jupyter notebook.  Always switch to your Python environment before starting jupyter by typing 'jupyter notebook' on the command line.
-Flask
-PostgreSQL or SQLite
-BeautifulSoup4
-Heroku
-Apache Spark by Databricks (NOTE: You do not this to run the software.  This enables you to run the Machine Learning (Natural Language Processing) code independently by loading sample database from Amazon Web Service (AWS) S3 and see how the data pipeline and ML Model is used.)
+1. Python version 2.7 or higher.   You must create a separate environment on your computer for running Python applications.
+
+2. Jupyter notebook.  Always switch to your Python environment before starting jupyter by typing 'jupyter notebook' on the command line.
+
+3. Flask
+
+4. PostgreSQL or SQLite
+
+5. BeautifulSoup4
+
+6. Heroku
+
+7. Apache Spark by Databricks (NOTE: You do not this to run the software.  This enables you to run the Machine Learning (Natural Language Processing) code independently by loading sample database from Amazon Web Service (AWS) S3 and see how the data pipeline and ML Model is used.)
 
 This is a full stack app so add your html, js, css, python.  The dataset is extracted from PostgreSQL to data.js using an ETL process to have a static dataset in the event that you like to reconstruct this software but do not have PostgreSQL, Apache Spark, or jupyter notebook.
 
